@@ -60,5 +60,3 @@ for @*ARGS -> $arg is copy {
     }
   }
 }
-
-say %chars.keys.sort.join: ' ';
