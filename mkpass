@@ -1,0 +1,64 @@
+#!/usr/bin/env perl6
+
+my %chars = (0x21..0x7e)>>.chr Z=> 1 xx *;
+
+if +@*ARGS <= 0 {
+  say %chars.keys.roll(15).join;
+  exit 0;
+}
+
+%chars = %() if @*ARGS[0] ~~ /^\+/;
+
+my $cmd;
+
+for @*ARGS -> $arg is copy {
+  if $arg ~~ /^(\d+)/ {
+    my $count = $0;
+    say %chars.keys.roll($count).join;
+    next;
+  }
+  if $arg ~~ s/^\+// {
+    $cmd = 'add';
+  }
+  elsif $arg ~~ s/^\-// {
+    $cmd = 'delete';
+  } else {
+    fail "Unrecognised argument '$arg'";
+  }
+  my @chars;
+  if $arg eq 'punc' {
+    @chars = (0x21..0x2f)>>.chr;
+    @chars.append: (0x3a..0x40)>>.chr;
+    @chars.append: (0x5b..0x60)>>.chr;
+    @chars.append: (0x7b..0x7e)>>.chr;
+  } else {
+    for $arg.comb -> $char {
+      given $char {
+        when 'a' .. 'z' {
+          @chars.append: (0x61..0x7a)>>.chr;
+        }
+        when 'A' .. 'Z' {
+          @chars.append: (0x41..0x5a)>>.chr;
+        }
+        when '0' .. '9' {
+          @chars.append: (0x31..0x39)>>.chr;
+        }
+        default {
+          @chars.push: $char;
+        }
+      }
+    }
+  }
+  for @chars -> $char {
+    given $cmd {
+      when 'delete' {
+        %chars{$char}:delete;
+      }
+      when 'add' {
+        %chars{$char} = 1;
+      }
+    }
+  }
+}
+
+say %chars.keys.sort.join: ' ';

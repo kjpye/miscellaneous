@@ -1,2 +1,2 @@
 # miscellaneous
-Miscewllaneous short programs and scripts
+Miscellaneous short programs and scripts
