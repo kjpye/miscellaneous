@@ -1,27 +1,23 @@
 #!/usr/bin/env perl6
 
 my %chars = (0x21..0x7e)>>.chr Z=> 1 xx *;
+my $count = 15;
+my $clear = True;
 
-if +@*ARGS <= 0 {
-  say %chars.keys.roll(15).join;
-  exit 0;
-}
-
-%chars = %() if @*ARGS[0] ~~ /^\+/;
+%chars = %() if +@*ARGS > 0 and @*ARGS[0] ~~ /^\+/;
 
 my $cmd;
 
 for @*ARGS -> $arg is copy {
   if $arg ~~ /^(\d+)/ {
-    my $count = $0;
-    say %chars.keys.roll($count).join;
-    next;
-  }
-  if $arg ~~ s/^\+// {
+    $count = $0;
+  } elsif $arg ~~ s/^\+// {
+    %chars = %() if $clear;
     $cmd = 'add';
   }
   elsif $arg ~~ s/^\-// {
     $cmd = 'delete';
+    $clear = False;
   } else {
     fail "Unrecognised argument '$arg'";
   }
@@ -60,3 +56,5 @@ for @*ARGS -> $arg is copy {
     }
   }
 }
+
+say %chars.keys.roll($count).join;
