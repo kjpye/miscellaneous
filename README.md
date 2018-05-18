@@ -1,6 +1,6 @@
 # miscellaneous
 Miscellaneous short programs and scripts
-==mkpass==
+## mkpass
 Make random passwords where you can specify the length (default 15) and which ASCII characters can be used (defaults to all printable ASCII)
 Options:
 * <number> -- the number of characters inthe generated password
