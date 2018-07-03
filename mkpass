@@ -11,6 +11,7 @@ my $cmd;
 for @*ARGS -> $arg is copy {
   if $arg ~~ /^(\d+)/ {
     $count = $0;
+    next;
   } elsif $arg ~~ s/^\+// {
     %chars = %() if $clear;
     $cmd = 'add';
