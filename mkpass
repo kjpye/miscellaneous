@@ -18,10 +18,10 @@ for @*ARGS -> $arg is copy {
   }
   elsif $arg ~~ s/^\-// {
     $cmd = 'delete';
-    $clear = False;
   } else {
     fail "Unrecognised argument '$arg'";
   }
+  $clear = False;
   my @chars;
   if $arg eq 'punc' {
     @chars = (0x21..0x2f)>>.chr;
