@@ -1,0 +1,34 @@
+#!/bin/bash
+
+echo #########################
+echo #                       #
+echo #         MoarVM        #
+echo #                       #
+echo #########################
+cd ~/git/MoarVM
+git pull
+./Configure.pl --prefix=/usr/local
+make
+sudo make install
+
+echo ##########################
+echo #                        #
+echo #           nqp          #
+echo #                        #
+echo ##########################
+cd ~/git/nqp
+git pull
+./Configure.pl --prefix=/usr/local
+make
+sudo make install
+
+echo #########################
+echo #                       #
+echo #         rakudo        #
+echo #                       #
+echo #########################
+cd ~/git/rakudo
+git pull
+./Configure.pl --prefix=/usr/local
+make
+sudo make install
