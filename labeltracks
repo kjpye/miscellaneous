@@ -1,0 +1,23 @@
+#!/usr/bin/env perl6
+
+my @artists;
+
+if 'artists'.IO.e {
+   @artists = 'artists'.IO.lines();
+}
+
+sub MAIN($artist, $album, $year = 0) {
+   for dir() -> $file {
+      my $basename = $file.path;
+      next unless $basename ~~ s/^(\d\d)\-//;
+      my $track = $0;
+      $basename ~~ s:i/.mp3$//;
+      my @args = '-t', $basename,
+                 '-T', $track,
+		 '-a', @artists[$track-1].defined ?? @artists[$track-1] !! $artist,
+		 '-A', $album;
+      @args.append: '-y', $year if $year;
+      @args.push:         $file;
+      run 'id3v2', @args;
+   }
+}
