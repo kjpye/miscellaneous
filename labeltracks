@@ -1,23 +1,65 @@
 #!/usr/bin/env perl6
 
 my @artists;
+my @titles;
+my $infoalbum = '';
+my $infoyear = 0;
+my $infoartist = '';
+
 
 if 'artists'.IO.e {
    @artists = 'artists'.IO.lines();
 }
 
-sub MAIN($artist, $album, $year = 0) {
+if 'info'.IO.e {
+   my $titles = 0;
+   for 'info'.IO.lines() {
+      when /^ \s* $/ { } # ignore blank lines
+      when /^ 'album:'    (.*) / { $infoalbum  = $0; }
+      when /^ 'artist:'   (.*) / { $infoartist = $0; }
+      when /^ 'year:'     (.*) / { $infoyear   = $0; }
+      when /^ '[titles]'  (.*) / { $titles     =  1; }
+      when /^ '[artists]' (.*) / { $titles     =  0; }
+      default {
+	 if $titles {
+            @titles.push: $_;
+	 } else {
+            @artists.push: $_;
+	 }
+      }
+   }
+}
+dd @titles;
+dd @artists;
+
+sub MAIN($artist is copy = '', $album is copy = '', $year is copy = 0) {
+   $artist = $infoartist unless $artist;
+   $album  = $infoalbum  unless $album;
+   $year   = $infoyear   unless $year;
+
+   my $track;
    for dir() -> $file {
+      next unless $file.ends-with: '.mp3';
       my $basename = $file.path;
-      next unless $basename ~~ s/^(\d\d)\-//;
-      my $track = $0;
+      note $basename;
+      if $basename ~~ s/^(\d\d)\-// {
+         $track = $0;
+      } else {
+	 ++$track;
+      }
+      note "Track: $track";
       $basename ~~ s:i/.mp3$//;
-      my @args = '-t', $basename,
+      my $title = @titles[$track - 1] // $basename;
+      my @args = '-t', $title,
                  '-T', $track,
 		 '-a', @artists[$track-1].defined ?? @artists[$track-1] !! $artist,
 		 '-A', $album;
       @args.append: '-y', $year if $year;
       @args.push:         $file;
+      note 'id3v2 ' ~ @args.join(' ');
       run 'id3v2', @args;
+      if $basename ~~ /:i ^ 'track' \s* \d+ $/ {
+	 run 'mv', $file, sprintf "%02.2d-%s.mp3", $track, $title;
+      }
    }
 }
