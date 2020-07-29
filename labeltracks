@@ -43,7 +43,7 @@ sub MAIN($artist is copy = '', $album is copy = '', $year is copy = 0) {
       my $basename = $file.path;
       note $basename;
       if $basename ~~ s/^(\d\d)\-// {
-         $track = $0;
+         $track = +$0;
       } else {
 	 ++$track;
       }
