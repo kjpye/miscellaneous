@@ -1,0 +1,2618 @@
+<0>	<3>							↉	U2189	VULGAR FRACTION ZERO THIRDS
+<0>	<asciitilde>							⍬	U236c	0 ~ APL FUNCTIONAL SYMBOL ZILDE
+<0>	<asterisk>							°	degree	DEGREE SIGN
+<0>	<slash>							∅	U2205	EMPTY SET (thanks jsled!)
+<1>	<1>	<0>						⅒	U2152	VULGAR FRACTION ONE TENTH
+<1>	<2>							½	onehalf	VULGAR FRACTION ONE HALF
+<1>	<3>							⅓	U2153	VULGAR FRACTION ONE THIRD
+<1>	<3>							⅓	U2153	VULGAR FRACTION ONE THIRD
+<1>	<4>							¼	onequarter	VULGAR FRACTION ONE QUARTER
+<1>	<5>							⅕	U2155	VULGAR FRACTION ONE FIFTH
+<1>	<5>							⅕	U2155	VULGAR FRACTION ONE FIFTH
+<1>	<6>							⅙	U2159	VULGAR FRACTION ONE SIXTH
+<1>	<6>							⅙	U2159	VULGAR FRACTION ONE SIXTH
+<1>	<7>							⅐	U2150	VULGAR FRACTION ONE SEVENTH
+<1>	<7>							⅐	U2150	VULGAR FRACTION ONE SEVENTH
+<1>	<8>							⅛	U215B	VULGAR FRACTION ONE EIGHTH
+<1>	<8>							⅛	U215B	VULGAR FRACTION ONE EIGHTH
+<1>	<9>							⅑	U2151	VULGAR FRACTION ONE NINTH
+<1>	<9>							⅑	U2151	VULGAR FRACTION ONE NINTH
+<1>	<asciicircum>							¹	onesuperior	SUPERSCRIPT ONE
+<1>	<slash>							⅟	U215F	FRACTION NUMERATOR ONE
+<1>	<x>							⅒	U2152	VULGAR FRACTION ONE TENTH
+<2>	<3>							⅔	U2154	VULGAR FRACTION TWO THIRDS
+<2>	<3>							⅔	U2154	VULGAR FRACTION TWO THIRDS
+<2>	<5>							⅖	U2156	VULGAR FRACTION TWO FIFTHS
+<2>	<5>							⅖	U2156	VULGAR FRACTION TWO FIFTHS
+<2>	<A>							Ꜳ	UA732	LATIN CAPITAL LETTER AA
+<2>	<a>							ꜳ	UA733	LATIN SMALL LETTER AA
+<2>	<asciicircum>							²	twosuperior	SUPERSCRIPT TWO
+<2>	<asterisk>							⁑	U2051	TWO ASTERISKS ALIGNED VERTICALLY
+<2>	<colon>							∷	U2237	PROPORTION -- not strictly 2 times COLON
+<2>	<equal>							⩵	U2A75	TWO CONSECUTIVE EQUALS SIGNS
+<2>	<exclam>							‼	U203C	DOUBLE EXCLAMATION MARK
+<2>	<greater>	<parenright>						⟫	U27EB	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+<2>	<less>	<parenleft>						⟪	U27EA	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+<2>	<O>							Ꝏ	UA74E	LATIN CAPITAL LETTER OO
+<2>	<o>							ꝏ	UA74F	LATIN SMALL LETTER OO
+<2>	<parenleft>							⸨	U2E28	LEFT DOUBLE PARENTHESIS
+<2>	<parenright>							⸩	U2E29	RIGHT DOUBLE PARENTHESIS
+<2>	<percent>	<parenleft>						⧚	U29DA	LEFT DOUBLE WIGGLY FENCE
+<2>	<percent>	<parenright>						⧛	U29DB	RIGHT DOUBLE WIGGLY FENCE
+<2>	<period>							‥	U2025	TWO DOT LEADER
+<2>	<question>							⁇	U2047	DOUBLE QUESTION MARK
+<3>	<3>							♣	U2663	BLACK CLUB SUIT
+<3>	<4>							¾	threequarters	VULGAR FRACTION THREE QUARTERS
+<3>	<5>							⅗	U2157	VULGAR FRACTION THREE FIFTHS
+<3>	<5>							⅗	U2157	VULGAR FRACTION THREE FIFTHS
+<3>	<8>							⅜	U215C	VULGAR FRACTION THREE EIGHTHS
+<3>	<8>							⅜	U215C	VULGAR FRACTION THREE EIGHTHS
+<3>	<asciicircum>							³	threesuperior	SUPERSCRIPT THREE
+<3>	<asterisk>							⁂	U2042	ASTERISM
+<3>	<equal>							⩶	U2A76	THREE CONSECUTIVE EQUALS SIGNS
+<3>	<greater>							⋙	U22D9	VERY MUCH GREATER-THAN
+<3>	<less>							⋘	U22D8	VERY MUCH LESS-THAN
+<3>	<minus>							♠	U2660	BLACK SPADE SUIT
+<3>	<s>	<q>						∛	U221B	CUBE ROOT
+<4>	<5>							⅘	U2158	VULGAR FRACTION FOUR FIFTHS
+<4>	<5>							⅘	U2158	VULGAR FRACTION FOUR FIFTHS
+<4>	<s>	<q>						∜	U221C	FOURTH ROOT
+<5>	<6>							⅚	U215A	VULGAR FRACTION FIVE SIXTHS
+<5>	<6>							⅚	U215A	VULGAR FRACTION FIVE SIXTHS
+<5>	<8>							⅝	U215D	VULGAR FRACTION FIVE EIGHTHS
+<5>	<8>							⅝	U215D	VULGAR FRACTION FIVE EIGHTHS
+<6>	<apostrophe>							‘	U2018	LEFT SINGLE QUOTATION MARK (high 6)
+<6>	<quotedbl>							“	U201C	LEFT DOUBLE QUOTATION MARK (66)
+<7>	<8>							⅞	U215E	VULGAR FRACTION SEVEN EIGHTHS
+<7>	<8>							⅞	U215E	VULGAR FRACTION SEVEN EIGHTHS
+<7>	<apostrophe>							｢	UFF62	HALFWIDTH LEFT CORNER BRACKET
+<7>	<asciicircum>	<bracketleft>						⸢	U2E22	TOP LEFT HALF BRACKET
+<7>	<asciicircum>	<bracketright>						⸣	U2E23	TOP RIGHT HALF BRACKET
+<7>	<bracketleft>							⌈	U2308	LEFT CEILING
+<7>	<bracketright>							⌉	U2309	RIGHT CEILING
+<7>	<parenleft>							⌜	U231C	TOP LEFT CORNER
+<7>	<parenright>							⌝	U231D	TOP RIGHT CORNER
+<7>	<quotedbl>							『	U300E	LEFT WHITE CORNER BRACKET
+<8>	<8>							∞	U221e	8 8 INFINITY
+<8>	<8>							∞	U221E	INFINITY
+<9>	<apostrophe>							’	U2019	RIGHT SINGLE QUOTATION MARK (high 9)
+<9>	<quotedbl>							”	U201D	RIGHT DOUBLE QUOTATION MARK (99)
+<A>	<A>							Å	Aring	LATIN CAPITAL LETTER A WITH RING ABOVE
+<a>	<a>							å	aring	LATIN SMALL LETTER A WITH RING ABOVE
+<a>	<a>							ɐ	U0250	LATIN SMALL LETTER TURNED A
+<A>	<A>							∀	U2200	FOR ALL
+<A>	<acute>							Á	Aacute	LATIN CAPITAL LETTER A WITH ACUTE
+<a>	<acute>							á	aacute	LATIN SMALL LETTER A WITH ACUTE
+<A>	<ampersand>	<A>						Ꜳ	UA732	LATIN CAPITAL LETTER AA
+<a>	<ampersand>	<a>						ꜳ	UA733	LATIN SMALL LETTER AA
+<A>	<ampersand>	<O>						Ꜵ	UA734	LATIN CAPITAL LETTER AO
+<a>	<ampersand>	<o>						ꜵ	UA735	LATIN SMALL LETTER AO
+<A>	<ampersand>	<U>						Ꜷ	UA736	LATIN CAPITAL LETTER AU
+<a>	<ampersand>	<u>						ꜷ	UA737	LATIN SMALL LETTER AU
+<A>	<ampersand>	<V>						Ꜹ	UA738	LATIN CAPITAL LETTER AV
+<a>	<ampersand>	<v>						ꜹ	UA739	LATIN SMALL LETTER AV
+<A>	<ampersand>	<Y>						Ꜽ	UA73C	LATIN CAPITAL LETTER AY
+<a>	<ampersand>	<y>						ꜽ	UA73D	LATIN SMALL LETTER AY
+<A>	<apostrophe>							Á	Aacute	LATIN CAPITAL LETTER A WITH ACUTE
+<a>	<apostrophe>							á	aacute	LATIN SMALL LETTER A WITH ACUTE
+<A>	<asciicircum>							Â	Acircumflex	LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<a>	<asciicircum>							â	acircumflex	LATIN SMALL LETTER A WITH CIRCUMFLEX
+<A>	<asciitilde>							Ã	Atilde	LATIN CAPITAL LETTER A WITH TILDE
+<a>	<asciitilde>							ã	atilde	LATIN SMALL LETTER A WITH TILDE
+<A>	<asterisk>							Å	Aring	LATIN CAPITAL LETTER A WITH RING ABOVE
+<a>	<asterisk>							å	aring	LATIN SMALL LETTER A WITH RING ABOVE
+<A>	<comma>							Ą	U0104	LATIN CAPITAL LETTER A WITH OGONEK
+<a>	<comma>							ą	U0105	LATIN SMALL LETTER A WITH OGONEK
+<A>	<diaeresis>							Ä	Adiaeresis	LATIN CAPITAL LETTER A WITH DIAERESIS
+<a>	<diaeresis>							ä	adiaeresis	LATIN SMALL LETTER A WITH DIAERESIS
+<a>	<e>							æ	ae	LATIN SMALL LETTER AE
+<A>	<E>							Æ	AE	LATIN CAPITAL LETTER AE
+<A>	<grave>							À	Agrave	LATIN CAPITAL LETTER A WITH GRAVE
+<a>	<grave>							à	agrave	LATIN SMALL LETTER A WITH GRAVE
+<a>	<grave>							ᴀ	U1D00	LATIN LETTER SMALL CAPITAL A
+<A>	<greater>							Â	Acircumflex	LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<a>	<greater>							â	acircumflex	LATIN SMALL LETTER A WITH CIRCUMFLEX
+<a>	<h>							ɑ	U0251	LATIN SMALL LETTER ALPHA
+<a>	<i>	<n>						ᴥ	U1D25	LATIN LETTER AIN
+<A>	<less>							Ɐ	U2C6F	LATIN CAPITAL LETTER TURNED A
+<A>	<minus>							Ā	U0100	LATIN CAPITAL LETTER A WITH MACRON
+<a>	<minus>							ā	U0101	LATIN SMALL LETTER A WITH MACRON
+<A>	<parenleft>							Ă	U0102	LATIN CAPITAL LETTER A WITH BREVE
+<a>	<parenleft>							ă	U0103	LATIN SMALL LETTER A WITH BREVE
+<A>	<quotedbl>							Ä	Adiaeresis	LATIN CAPITAL LETTER A WITH DIAERESIS
+<a>	<quotedbl>							ä	adiaeresis	LATIN SMALL LETTER A WITH DIAERESIS
+<A>	<semicolon>							Ą	U0104	LATIN CAPITAL LETTER A WITH OGONEK
+<a>	<semicolon>							ą	U0105	LATIN SMALL LETTER A WITH OGONEK
+<A>	<underscore>							Ā	U0100	LATIN CAPITAL LETTER A WITH MACRON
+<a>	<underscore>							ā	U0101	LATIN SMALL LETTER A WITH MACRON
+<A>	<W>							Ɔ	U0186	LATIN CAPITAL LETTER OPEN O
+<a>	<w>							ɔ	U0254	LATIN SMALL LETTER OPEN O
+<acute>	<A>							Á	Aacute	LATIN CAPITAL LETTER A WITH ACUTE
+<acute>	<a>							á	aacute	LATIN SMALL LETTER A WITH ACUTE
+<acute>	<Abreve>							Ắ	U1EAE	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE
+<acute>	<abreve>							ắ	U1EAF	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+<acute>	<Acircumflex>							Ấ	U1EA4	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<acute>	<acircumflex>							ấ	U1EA5	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<acute>	<AE>							Ǽ	U01FC	LATIN CAPITAL LETTER AE WITH ACUTE
+<acute>	<ae>							ǽ	U01FD	LATIN SMALL LETTER AE WITH ACUTE
+<acute>	<Aring>							Ǻ	U01FA	LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE
+<acute>	<aring>							ǻ	U01FB	LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
+<acute>	<asciicircum>	<A>						Ấ	U1EA4	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciicircum>	<a>						ấ	U1EA5	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciicircum>	<E>						Ế	U1EBE	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciicircum>	<e>						ế	U1EBF	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciicircum>	<O>						Ố	U1ED0	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciicircum>	<o>						ố	U1ED1	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<acute>	<asciitilde>	<O>						Ṍ	U1E4C	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+<acute>	<asciitilde>	<o>						ṍ	U1E4D	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+<acute>	<asciitilde>	<u>						ṹ	U1E79	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+<acute>	<b>	<A>						Ắ	U1EAE	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE
+<acute>	<b>	<a>						ắ	U1EAF	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+<acute>	<C>							Ć	U0106	LATIN CAPITAL LETTER C WITH ACUTE
+<acute>	<c>							ć	U0107	LATIN SMALL LETTER C WITH ACUTE
+<acute>	<Ccedilla>							Ḉ	U1E08	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<ccedilla>							ḉ	U1E09	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<cedilla>	<C>						Ḉ	U1E08	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<cedilla>	<c>						ḉ	U1E09	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<comma>	<C>						Ḉ	U1E08	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<comma>	<c>						ḉ	U1E09	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+<acute>	<E>							É	Eacute	LATIN CAPITAL LETTER E WITH ACUTE
+<acute>	<e>							é	eacute	LATIN SMALL LETTER E WITH ACUTE
+<acute>	<Ecircumflex>							Ế	U1EBE	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<acute>	<ecircumflex>							ế	U1EBF	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<acute>	<Emacron>							Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<acute>	<emacron>							ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<acute>	<G>							Ǵ	U01F4	LATIN CAPITAL LETTER G WITH ACUTE
+<acute>	<g>							ǵ	U01F5	LATIN SMALL LETTER G WITH ACUTE
+<acute>	<I>							Í	Iacute	LATIN CAPITAL LETTER I WITH ACUTE
+<acute>	<i>							í	iacute	LATIN SMALL LETTER I WITH ACUTE
+<acute>	<Idiaeresis>							Ḯ	U1E2E	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+<acute>	<idiaeresis>							ḯ	U1E2F	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+<acute>	<J>							J́		LATIN CAPITAL LETTER J U004A with COMBINING ACUTE ACCENT U0301
+<acute>	<j>							j́		LATIN SMALL LETTER J U006A with COMBINING ACUTE ACCENT U0301
+<acute>	<K>							Ḱ	U1E30	LATIN CAPITAL LETTER K WITH ACUTE
+<acute>	<k>							ḱ	U1E31	LATIN SMALL LETTER K WITH ACUTE
+<acute>	<KP_Divide>	<O>						Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<acute>	<KP_Divide>	<o>						ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<acute>	<L>							Ĺ	U0139	LATIN CAPITAL LETTER L WITH ACUTE
+<acute>	<l>							ĺ	U013A	LATIN SMALL LETTER L WITH ACUTE
+<acute>	<M>							Ḿ	U1E3E	LATIN CAPITAL LETTER M WITH ACUTE
+<acute>	<m>							ḿ	U1E3F	LATIN SMALL LETTER M WITH ACUTE
+<acute>	<macron>	<E>						Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<acute>	<macron>	<e>						ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<acute>	<macron>	<O>						Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<acute>	<macron>	<o>						ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<acute>	<N>							Ń	U0143	LATIN CAPITAL LETTER N WITH ACUTE
+<acute>	<n>							ń	U0144	LATIN SMALL LETTER N WITH ACUTE
+<acute>	<O>							Ó	Oacute	LATIN CAPITAL LETTER O WITH ACUTE
+<acute>	<o>							ó	oacute	LATIN SMALL LETTER O WITH ACUTE
+<acute>	<Ocircumflex>							Ố	U1ED0	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<acute>	<ocircumflex>							ố	U1ED1	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<acute>	<Ohorn>							Ớ	U1EDA	LATIN CAPITAL LETTER O WITH HORN AND ACUTE
+<acute>	<ohorn>							ớ	U1EDB	LATIN SMALL LETTER O WITH HORN AND ACUTE
+<acute>	<Omacron>							Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<acute>	<omacron>							ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<acute>	<Ooblique>							Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<acute>	<oslash>							ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<acute>	<Otilde>							Ṍ	U1E4C	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+<acute>	<otilde>							ṍ	U1E4D	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+<acute>	<P>							Ṕ	U1E54	LATIN CAPITAL LETTER P WITH ACUTE
+<acute>	<p>							ṕ	U1E55	LATIN SMALL LETTER P WITH ACUTE
+<acute>	<plus>	<O>						Ớ	U1EDA	LATIN CAPITAL LETTER O WITH HORN AND ACUTE
+<acute>	<plus>	<o>						ớ	U1EDB	LATIN SMALL LETTER O WITH HORN AND ACUTE
+<acute>	<plus>	<u>						ứ	U1EE9	LATIN SMALL LETTER U WITH HORN AND ACUTE
+<acute>	<quotedbl>	<I>						Ḯ	U1E2E	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+<acute>	<quotedbl>	<i>						ḯ	U1E2F	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+<acute>	<quotedbl>	<u>						ǘ	U01D8	LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE
+<acute>	<R>							Ŕ	U0154	LATIN CAPITAL LETTER R WITH ACUTE
+<acute>	<r>							ŕ	U0155	LATIN SMALL LETTER R WITH ACUTE
+<acute>	<S>							Ś	U015A	LATIN CAPITAL LETTER S WITH ACUTE
+<acute>	<s>							ś	U015B	LATIN SMALL LETTER S WITH ACUTE
+<acute>	<slash>	<O>						Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<acute>	<slash>	<o>						ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<acute>	<u>							ú	uacute	LATIN SMALL LETTER U WITH ACUTE
+<acute>	<udiaeresis>							ǘ	U01D8	LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE
+<acute>	<uhorn>							ứ	U1EE9	LATIN SMALL LETTER U WITH HORN AND ACUTE
+<acute>	<underscore>	<E>						Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<acute>	<underscore>	<e>						ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<acute>	<underscore>	<O>						Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<acute>	<underscore>	<o>						ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<acute>	<utilde>							ṹ	U1E79	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+<acute>	<W>							Ẃ	U1E82	LATIN CAPITAL LETTER W WITH ACUTE
+<acute>	<w>							ẃ	U1E83	LATIN SMALL LETTER W WITH ACUTE
+<acute>	<Y>							Ý	Yacute	LATIN CAPITAL LETTER Y WITH ACUTE
+<acute>	<y>							ý	yacute	LATIN SMALL LETTER Y WITH ACUTE
+<acute>	<Z>							Ź	U0179	LATIN CAPITAL LETTER Z WITH ACUTE
+<acute>	<z>							ź	U017A	LATIN SMALL LETTER Z WITH ACUTE
+<ampersand>	<7>							⁊	U204A	TIRONIAN SIGN ET
+<ampersand>	<at>							⅋	U214B	TURNED AMPERSAND
+<apostrophe>	<A>							Á	Aacute	LATIN CAPITAL LETTER A WITH ACUTE
+<apostrophe>	<a>							á	aacute	LATIN SMALL LETTER A WITH ACUTE
+<apostrophe>	<Abreve>							Ắ	U1EAE	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE
+<apostrophe>	<abreve>							ắ	U1EAF	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+<apostrophe>	<Acircumflex>							Ấ	U1EA4	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<acircumflex>							ấ	U1EA5	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<AE>							Ǽ	U01FC	LATIN CAPITAL LETTER AE WITH ACUTE
+<apostrophe>	<ae>							ǽ	U01FD	LATIN SMALL LETTER AE WITH ACUTE
+<apostrophe>	<apostrophe>							´	acute	ACUTE ACCENT
+<apostrophe>	<apostrophe>							”	U201D	RIGHT DOUBLE QUOTATION MARK
+<apostrophe>	<Aring>							Ǻ	U01FA	LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE
+<apostrophe>	<aring>							ǻ	U01FB	LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
+<apostrophe>	<asciicircum>	<A>						Ấ	U1EA4	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciicircum>	<a>						ấ	U1EA5	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciicircum>	<E>						Ế	U1EBE	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciicircum>	<e>						ế	U1EBF	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciicircum>	<O>						Ố	U1ED0	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciicircum>	<o>						ố	U1ED1	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<asciitilde>	<O>						Ṍ	U1E4C	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+<apostrophe>	<asciitilde>	<o>						ṍ	U1E4D	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+<apostrophe>	<asciitilde>	<u>						ṹ	U1E79	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+<apostrophe>	<b>	<A>						Ắ	U1EAE	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE
+<apostrophe>	<b>	<a>						ắ	U1EAF	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+<apostrophe>	<C>							Ć	U0106	LATIN CAPITAL LETTER C WITH ACUTE
+<apostrophe>	<c>							ć	U0107	LATIN SMALL LETTER C WITH ACUTE
+<apostrophe>	<Ccedilla>							Ḉ	U1E08	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+<apostrophe>	<ccedilla>							ḉ	U1E09	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+<apostrophe>	<cedilla>	<C>						Ḉ	U1E08	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+<apostrophe>	<cedilla>	<c>						ḉ	U1E09	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+<apostrophe>	<comma>							‚	U201a	SINGLE LOW-9 QUOTATION MARK
+<apostrophe>	<E>							É	Eacute	LATIN CAPITAL LETTER E WITH ACUTE
+<apostrophe>	<e>							é	eacute	LATIN SMALL LETTER E WITH ACUTE
+<apostrophe>	<Ecircumflex>							Ế	U1EBE	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<ecircumflex>							ế	U1EBF	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<Emacron>							Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<emacron>							ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<G>							Ǵ	U01F4	LATIN CAPITAL LETTER G WITH ACUTE
+<apostrophe>	<g>							ǵ	U01F5	LATIN SMALL LETTER G WITH ACUTE
+<apostrophe>	<greater>							’	U2019	RIGHT SINGLE QUOTATION MARK
+<apostrophe>	<I>							Í	Iacute	LATIN CAPITAL LETTER I WITH ACUTE
+<apostrophe>	<i>							í	iacute	LATIN SMALL LETTER I WITH ACUTE
+<apostrophe>	<Idiaeresis>							Ḯ	U1E2E	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+<apostrophe>	<idiaeresis>							ḯ	U1E2F	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+<apostrophe>	<J>							J́		LATIN CAPITAL LETTER J U004A with COMBINING ACUTE ACCENT U0301
+<apostrophe>	<j>							j́		LATIN SMALL LETTER J U006A with COMBINING ACUTE ACCENT U0301
+<apostrophe>	<K>							Ḱ	U1E30	LATIN CAPITAL LETTER K WITH ACUTE
+<apostrophe>	<k>							ḱ	U1E31	LATIN SMALL LETTER K WITH ACUTE
+<apostrophe>	<KP_Divide>	<O>						Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<KP_Divide>	<o>						ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<L>							Ĺ	U0139	LATIN CAPITAL LETTER L WITH ACUTE
+<apostrophe>	<l>							ĺ	U013A	LATIN SMALL LETTER L WITH ACUTE
+<apostrophe>	<less>							‘	U2018	LEFT SINGLE QUOTATION MARK
+<apostrophe>	<M>							Ḿ	U1E3E	LATIN CAPITAL LETTER M WITH ACUTE
+<apostrophe>	<m>							ḿ	U1E3F	LATIN SMALL LETTER M WITH ACUTE
+<apostrophe>	<macron>	<E>						Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<macron>	<e>						ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<macron>	<O>						Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<macron>	<o>						ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<minus>	<grave>						⚟	U269F	THREE LINES CONVERGING LEFT
+<apostrophe>	<N>							Ń	U0143	LATIN CAPITAL LETTER N WITH ACUTE
+<apostrophe>	<n>							ń	U0144	LATIN SMALL LETTER N WITH ACUTE
+<apostrophe>	<O>							Ó	Oacute	LATIN CAPITAL LETTER O WITH ACUTE
+<apostrophe>	<o>							ó	oacute	LATIN SMALL LETTER O WITH ACUTE
+<apostrophe>	<Ocircumflex>							Ố	U1ED0	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<ocircumflex>							ố	U1ED1	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<apostrophe>	<Ohorn>							Ớ	U1EDA	LATIN CAPITAL LETTER O WITH HORN AND ACUTE
+<apostrophe>	<ohorn>							ớ	U1EDB	LATIN SMALL LETTER O WITH HORN AND ACUTE
+<apostrophe>	<Omacron>							Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<omacron>							ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<Ooblique>							Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<oslash>							ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<Otilde>							Ṍ	U1E4C	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+<apostrophe>	<otilde>							ṍ	U1E4D	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+<apostrophe>	<P>							Ṕ	U1E54	LATIN CAPITAL LETTER P WITH ACUTE
+<apostrophe>	<p>							ṕ	U1E55	LATIN SMALL LETTER P WITH ACUTE
+<apostrophe>	<plus>	<O>						Ớ	U1EDA	LATIN CAPITAL LETTER O WITH HORN AND ACUTE
+<apostrophe>	<plus>	<o>						ớ	U1EDB	LATIN SMALL LETTER O WITH HORN AND ACUTE
+<apostrophe>	<plus>	<u>						ứ	U1EE9	LATIN SMALL LETTER U WITH HORN AND ACUTE
+<apostrophe>	<quotedbl>	<I>						Ḯ	U1E2E	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+<apostrophe>	<quotedbl>	<i>						ḯ	U1E2F	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+<apostrophe>	<quotedbl>	<space>						΅	U0385	GREEK DIALYTIKA TONOS
+<apostrophe>	<quotedbl>	<u>						ǘ	U01D8	LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE
+<apostrophe>	<R>							Ŕ	U0154	LATIN CAPITAL LETTER R WITH ACUTE
+<apostrophe>	<r>							ŕ	U0155	LATIN SMALL LETTER R WITH ACUTE
+<apostrophe>	<S>							Ś	U015A	LATIN CAPITAL LETTER S WITH ACUTE
+<apostrophe>	<s>							ś	U015B	LATIN SMALL LETTER S WITH ACUTE
+<apostrophe>	<slash>	<O>						Ǿ	U01FE	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<slash>	<o>						ǿ	U01FF	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+<apostrophe>	<space>							’	U2019	RIGHT SINGLE QUOTATION MARK
+<apostrophe>	<u>							ú	uacute	LATIN SMALL LETTER U WITH ACUTE
+<apostrophe>	<udiaeresis>							ǘ	U01D8	LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE
+<apostrophe>	<uhorn>							ứ	U1EE9	LATIN SMALL LETTER U WITH HORN AND ACUTE
+<apostrophe>	<underscore>	<E>						Ḗ	U1E16	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<underscore>	<e>						ḗ	U1E17	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+<apostrophe>	<underscore>	<O>						Ṓ	U1E52	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<underscore>	<o>						ṓ	U1E53	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+<apostrophe>	<utilde>							ṹ	U1E79	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+<apostrophe>	<W>							Ẃ	U1E82	LATIN CAPITAL LETTER W WITH ACUTE
+<apostrophe>	<w>							ẃ	U1E83	LATIN SMALL LETTER W WITH ACUTE
+<apostrophe>	<Y>							Ý	Yacute	LATIN CAPITAL LETTER Y WITH ACUTE
+<apostrophe>	<y>							ý	yacute	LATIN SMALL LETTER Y WITH ACUTE
+<apostrophe>	<Z>							Ź	U0179	LATIN CAPITAL LETTER Z WITH ACUTE
+<apostrophe>	<z>							ź	U017A	LATIN SMALL LETTER Z WITH ACUTE
+<asciicircum>	<0>							⁰	U2070	SUPERSCRIPT ZERO
+<asciicircum>	<1>							¹	onesuperior	SUPERSCRIPT ONE
+<asciicircum>	<2>							²	twosuperior	SUPERSCRIPT TWO
+<asciicircum>	<3>							³	threesuperior	SUPERSCRIPT THREE
+<asciicircum>	<4>							⁴	U2074	SUPERSCRIPT FOUR
+<asciicircum>	<5>							⁵	U2075	SUPERSCRIPT FIVE
+<asciicircum>	<6>							⁶	U2076	SUPERSCRIPT SIX
+<asciicircum>	<7>							⁷	U2077	SUPERSCRIPT SEVEN
+<asciicircum>	<8>							⁸	U2078	SUPERSCRIPT EIGHT
+<asciicircum>	<9>							⁹	U2079	SUPERSCRIPT NINE
+<asciicircum>	<A>							Â	Acircumflex	LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<asciicircum>	<a>							â	acircumflex	LATIN SMALL LETTER A WITH CIRCUMFLEX
+<asciicircum>	<asciicircum>	<e>						ᵉ	U1D49	MODIFIER LETTER SMALL E
+<asciicircum>	<asciicircum>	<h>						ʰ	U02B0	SUPERSCRIPT H
+<asciicircum>	<asciicircum>	<i>						ⁱ	U2071	SUPERSCRIPT I
+<asciicircum>	<asciicircum>	<j>						ʲ	U02B2	SUPERSCRIPT J
+<asciicircum>	<asciicircum>	<n>						ⁿ	U207F	SUPERSCRIPT N
+<asciicircum>	<asciicircum>	<r>						ʳ	U02B3	SUPERSCRIPT R
+<asciicircum>	<asciicircum>	<t>						ᵗ	U1D57	MODIFIER LETTER SMALL T
+<asciicircum>	<asciicircum>	<w>						ʷ	U02B7	SUPERSCRIPT W
+<asciicircum>	<asciicircum>	<x>						ˣ	U02E3	SUPERSCRIPT X
+<asciicircum>	<asciicircum>	<y>						ʸ	U02B8	SUPERSCRIPT Y
+<asciicircum>	<bar>							ⸯ	U2E2F	VERTICAL TILDE
+<asciicircum>	<C>							Ĉ	U0108	LATIN CAPITAL LETTER C WITH CIRCUMFLEX
+<asciicircum>	<c>							ĉ	U0109	LATIN SMALL LETTER C WITH CIRCUMFLEX
+<asciicircum>	<E>							Ê	Ecircumflex	LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<asciicircum>	<e>							ê	ecircumflex	LATIN SMALL LETTER E WITH CIRCUMFLEX
+<asciicircum>	<equal>							⁼	U207C	SUPERSCRIPT EQUALS SIGN
+<asciicircum>	<exclam>	<A>						Ậ	U1EAC	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<exclam>	<a>						ậ	U1EAD	LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<exclam>	<E>						Ệ	U1EC6	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<exclam>	<e>						ệ	U1EC7	LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<exclam>	<O>						Ộ	U1ED8	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<exclam>	<o>						ộ	U1ED9	LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<asciicircum>	<G>							Ĝ	U011C	LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+<asciicircum>	<g>							ĝ	U011D	LATIN SMALL LETTER G WITH CIRCUMFLEX
+<asciicircum>	<greater>							⃗	U20D7	COMBINING RIGHT ARROW ABOVE (vector)
+<asciicircum>	<H>							Ĥ	U0124	LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+<asciicircum>	<h>							ĥ	U0125	LATIN SMALL LETTER H WITH CIRCUMFLEX
+<asciicircum>	<I>							Î	Icircumflex	LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<asciicircum>	<i>							î	icircumflex	LATIN SMALL LETTER I WITH CIRCUMFLEX
+<asciicircum>	<J>							Ĵ	U0134	LATIN CAPITAL LETTER J WITH CIRCUMFLEX
+<asciicircum>	<j>							ĵ	U0135	LATIN SMALL LETTER J WITH CIRCUMFLEX
+<asciicircum>	<KP_0>							⁰	U2070	SUPERSCRIPT ZERO
+<asciicircum>	<KP_1>							¹	onesuperior	SUPERSCRIPT ONE
+<asciicircum>	<KP_2>							²	twosuperior	SUPERSCRIPT TWO
+<asciicircum>	<KP_3>							³	threesuperior	SUPERSCRIPT THREE
+<asciicircum>	<KP_4>							⁴	U2074	SUPERSCRIPT FOUR
+<asciicircum>	<KP_5>							⁵	U2075	SUPERSCRIPT FIVE
+<asciicircum>	<KP_6>							⁶	U2076	SUPERSCRIPT SIX
+<asciicircum>	<KP_7>							⁷	U2077	SUPERSCRIPT SEVEN
+<asciicircum>	<KP_8>							⁸	U2078	SUPERSCRIPT EIGHT
+<asciicircum>	<KP_9>							⁹	U2079	SUPERSCRIPT NINE
+<asciicircum>	<KP_Add>							⁺	U207A	SUPERSCRIPT PLUS SIGN
+<asciicircum>	<KP_Equal>							⁼	U207C	SUPERSCRIPT EQUALS SIGN
+<asciicircum>	<KP_Space>							²	twosuperior	SUPERSCRIPT TWO
+<asciicircum>	<minus>							¯	macron	MACRON
+<asciicircum>	<minus>							⁻	U207B	SUPERSCRIPT MINUS
+<asciicircum>	<O>							Ô	Ocircumflex	LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<asciicircum>	<o>							ô	ocircumflex	LATIN SMALL LETTER O WITH CIRCUMFLEX
+<asciicircum>	<parenleft>							⁽	U207D	SUPERSCRIPT LEFT PARENTHESIS
+<asciicircum>	<parenright>							⁾	U207E	SUPERSCRIPT RIGHT PARENTHESIS
+<asciicircum>	<period>							·	periodcentered	MIDDLE DOT
+<asciicircum>	<plus>							⁺	U207A	SUPERSCRIPT PLUS SIGN
+<asciicircum>	<plus>							⁺	U207A	SUPERSCRIPT PLUS
+<asciicircum>	<question>	<parenleft>						ˁ	U02C1	MODIFIER LETTER REVERSED GLOTTAL STOP
+<asciicircum>	<question>	<period>						ˀ	U02C0	MODIFIER LETTER GLOTTAL STOP
+<asciicircum>	<S>							Ŝ	U015C	LATIN CAPITAL LETTER S WITH CIRCUMFLEX
+<asciicircum>	<s>							ŝ	U015D	LATIN SMALL LETTER S WITH CIRCUMFLEX
+<asciicircum>	<u>							û	ucircumflex	LATIN SMALL LETTER U WITH CIRCUMFLEX
+<asciicircum>	<underbar>	<a>						ª	ordfeminine	FEMININE ORDINAL INDICATOR
+<asciicircum>	<underbar>	<h>						ʰ	U02B0	MODIFIER LETTER SMALL H
+<asciicircum>	<underbar>	<i>						ⁱ	U2071	SUPERSCRIPT LATIN SMALL LETTER I
+<asciicircum>	<underbar>	<j>						ʲ	U02B2	MODIFIER LETTER SMALL J
+<asciicircum>	<underbar>	<l>						ˡ	U02E1	MODIFIER LETTER SMALL L
+<asciicircum>	<underbar>	<n>						ⁿ	U207F	SUPERSCRIPT LATIN SMALL LETTER N
+<asciicircum>	<underbar>	<o>						º	masculine	MASCULINE ORDINAL INDICATOR
+<asciicircum>	<underbar>	<r>						ʳ	U02B3	MODIFIER LETTER SMALL R
+<asciicircum>	<underbar>	<s>						ˢ	U02E2	MODIFIER LETTER SMALL S
+<asciicircum>	<underbar>	<w>						ʷ	U02B7	MODIFIER LETTER SMALL W
+<asciicircum>	<underbar>	<x>						ˣ	U02E3	MODIFIER LETTER SMALL X
+<asciicircum>	<underbar>	<y>						ʸ	U02B8	MODIFIER LETTER SMALL Y
+<asciicircum>	<underscore>	<a>						ª	ordfeminine	FEMININE ORDINAL INDICATOR
+<asciicircum>	<underscore>	<h>						ʰ	U02B0	MODIFIER LETTER SMALL H
+<asciicircum>	<underscore>	<i>						ⁱ	U2071	SUPERSCRIPT LATIN SMALL LETTER I
+<asciicircum>	<underscore>	<j>						ʲ	U02B2	MODIFIER LETTER SMALL J
+<asciicircum>	<underscore>	<l>						ˡ	U02E1	MODIFIER LETTER SMALL L
+<asciicircum>	<underscore>	<n>						ⁿ	U207F	SUPERSCRIPT LATIN SMALL LETTER N
+<asciicircum>	<underscore>	<o>						º	masculine	MASCULINE ORDINAL INDICATOR
+<asciicircum>	<underscore>	<r>						ʳ	U02B3	MODIFIER LETTER SMALL R
+<asciicircum>	<underscore>	<s>						ˢ	U02E2	MODIFIER LETTER SMALL S
+<asciicircum>	<underscore>	<w>						ʷ	U02B7	MODIFIER LETTER SMALL W
+<asciicircum>	<underscore>	<x>						ˣ	U02E3	MODIFIER LETTER SMALL X
+<asciicircum>	<underscore>	<y>						ʸ	U02B8	MODIFIER LETTER SMALL Y
+<asciicircum>	<W>							Ŵ	U0174	LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+<asciicircum>	<w>							ŵ	U0175	LATIN SMALL LETTER W WITH CIRCUMFLEX
+<asciicircum>	<Y>							Ŷ	U0176	LATIN CAPITAL LETTER Y WITH CIRCUMFLEX
+<asciicircum>	<y>							ŷ	U0177	LATIN SMALL LETTER Y WITH CIRCUMFLEX
+<asciicircum>	<Z>							Ẑ	U1E90	LATIN CAPITAL LETTER Z WITH CIRCUMFLEX
+<asciicircum>	<z>							ẑ	U1E91	LATIN SMALL LETTER Z WITH CIRCUMFLEX
+<asciitilde>	<0>							⍬	U236c	~ 0 APL FUNCTIONAL SYMBOL ZILDE
+<asciitilde>	<A>							Ã	Atilde	LATIN CAPITAL LETTER A WITH TILDE
+<asciitilde>	<a>							ã	atilde	LATIN SMALL LETTER A WITH TILDE
+<asciitilde>	<Abreve>							Ẵ	U1EB4	LATIN CAPITAL LETTER A WITH BREVE AND TILDE
+<asciitilde>	<abreve>							ẵ	U1EB5	LATIN SMALL LETTER A WITH BREVE AND TILDE
+<asciitilde>	<Acircumflex>							Ẫ	U1EAA	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<acircumflex>							ẫ	U1EAB	LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<A>						Ẫ	U1EAA	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<a>						ẫ	U1EAB	LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<E>						Ễ	U1EC4	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<e>						ễ	U1EC5	LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<O>						Ỗ	U1ED6	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciicircum>	<o>						ỗ	U1ED7	LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<asciitilde>							≈	U2248	ALMOST EQUAL TO
+<asciitilde>	<b>	<A>						Ẵ	U1EB4	LATIN CAPITAL LETTER A WITH BREVE AND TILDE
+<asciitilde>	<b>	<a>						ẵ	U1EB5	LATIN SMALL LETTER A WITH BREVE AND TILDE
+<asciitilde>	<bar>							⍭	U236d	~ | APL FUNCTIONAL SYMBOL STILE TILDE
+<asciitilde>	<bar>							ⸯ	U2E2F	VERTICAL TILDE
+<asciitilde>	<diaeresis>							⍨	U2368	~ ¨ APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+<asciitilde>	<E>							Ẽ	U1EBC	LATIN CAPITAL LETTER E WITH TILDE
+<asciitilde>	<e>							ẽ	U1EBD	LATIN SMALL LETTER E WITH TILDE
+<asciitilde>	<Ecircumflex>							Ễ	U1EC4	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<ecircumflex>							ễ	U1EC5	LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<equal>							≅	U2245	"APPROXIMATELY EQUAL TO (It actually means ""congruent""!)"
+<asciitilde>	<I>							Ĩ	U0128	LATIN CAPITAL LETTER I WITH TILDE
+<asciitilde>	<i>							ĩ	U0129	LATIN SMALL LETTER I WITH TILDE
+<asciitilde>	<Left>	<asciitilde>						⬳	U2B33	LONG LEFTWARDS SQUIGGLE ARROW
+<asciitilde>	<N>							Ñ	Ntilde	LATIN CAPITAL LETTER N WITH TILDE
+<asciitilde>	<n>							ñ	ntilde	LATIN SMALL LETTER N WITH TILDE
+<asciitilde>	<O>							Õ	Otilde	LATIN CAPITAL LETTER O WITH TILDE
+<asciitilde>	<o>							õ	otilde	LATIN SMALL LETTER O WITH TILDE
+<asciitilde>	<Ocircumflex>							Ỗ	U1ED6	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<ocircumflex>							ỗ	U1ED7	LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+<asciitilde>	<Ohorn>							Ỡ	U1EE0	LATIN CAPITAL LETTER O WITH HORN AND TILDE
+<asciitilde>	<ohorn>							ỡ	U1EE1	LATIN SMALL LETTER O WITH HORN AND TILDE
+<asciitilde>	<plus>	<O>						Ỡ	U1EE0	LATIN CAPITAL LETTER O WITH HORN AND TILDE
+<asciitilde>	<plus>	<o>						ỡ	U1EE1	LATIN SMALL LETTER O WITH HORN AND TILDE
+<asciitilde>	<plus>	<u>						ữ	U1EEF	LATIN SMALL LETTER U WITH HORN AND TILDE
+<asciitilde>	<Right>	<asciitilde>						⟿	U27FF	LONG RIGHTWARDS SQUIGGLE ARROW
+<asciitilde>	<u>							ũ	U0169	LATIN SMALL LETTER U WITH TILDE
+<asciitilde>	<uhorn>							ữ	U1EEF	LATIN SMALL LETTER U WITH HORN AND TILDE
+<asciitilde>	<V>							Ṽ	U1E7C	LATIN CAPITAL LETTER V WITH TILDE
+<asciitilde>	<v>							ṽ	U1E7D	LATIN SMALL LETTER V WITH TILDE
+<asciitilde>	<Y>							Ỹ	U1EF8	LATIN CAPITAL LETTER Y WITH TILDE
+<asciitilde>	<y>							ỹ	U1EF9	LATIN SMALL LETTER Y WITH TILDE
+<asterisk>	<0>							°	degree	DEGREE SIGN
+<asterisk>	<0>							☆	U2606	WHITE STAR
+<asterisk>	<1>							•	U2022	BULLET
+<asterisk>	<3>							⁂	U2042	ASTERISM
+<asterisk>	<4>							✢	U2722	FOUR TEARDROP-SPOKED ASTERISK
+<asterisk>	<6>							✡	U2721	STAR OF DAVID
+<asterisk>	<A>							Å	Aring	LATIN CAPITAL LETTER A WITH RING ABOVE
+<asterisk>	<a>							å	aring	LATIN SMALL LETTER A WITH RING ABOVE
+<asterisk>	<A>							Α	U0391	GREEK CAPITAL LETTER ALPHA
+<asterisk>	<a>							α	U03B1	GREEK SMALL LETTER ALPHA
+<asterisk>	<ampersand>							ϗ	U03D7	GREEK KAI SYMBOL
+<asterisk>	<apostrophe>	<A>						Ǻ	U01FA	LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE
+<asterisk>	<apostrophe>	<a>						ǻ	U01FB	LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
+<asterisk>	<apostrophe>							ʹ	U02B9	MODIFIER LETTER PRIME, canonically equivalent to U0374 GREEK NUMERAL SIGN
+<asterisk>	<asterisk>							★	U2605	BLACK STAR
+<asterisk>	<B>							Β	U0392	GREEK CAPITAL LETTER BETA
+<asterisk>	<b>							β	U03B2	GREEK SMALL LETTER BETA
+<asterisk>	<C>							Ψ	U03A8	GREEK CAPITAL LETTER PSI
+<asterisk>	<c>							ψ	U03C8	GREEK SMALL LETTER PSI
+<asterisk>	<comma>							͵	U0375	GREEK LOWER NUMERAL SIGN (for thousands)
+<asterisk>	<D>							Δ	U0394	GREEK CAPITAL LETTER DELTA
+<asterisk>	<d>							δ	U03B4	GREEK SMALL LETTER DELTA
+<asterisk>	<diaeresis>							⍣	U2363	* ¨ APL FUNCTIONAL SYMBOL STAR DIAERESIS
+<asterisk>	<E>							Ε	U0395	GREEK CAPITAL LETTER EPSILON
+<asterisk>	<e>							ε	U03B5	GREEK SMALL LETTER EPSILON
+<asterisk>	<exclam>							✱	U2731	HEAVY ASTERISK
+<asterisk>	<F>							Φ	U03A6	GREEK CAPITAL LETTER PHI
+<asterisk>	<f>							φ	U03C6	GREEK SMALL LETTER PHI
+<asterisk>	<G>							Γ	U0393	GREEK CAPITAL LETTER GAMMA
+<asterisk>	<g>							γ	U03B3	GREEK SMALL LETTER GAMMA
+<asterisk>	<H>							Η	U0397	GREEK CAPITAL LETTER ΕΤΑ
+<asterisk>	<h>							η	U03B7	GREEK SMALL LETTER ΕΤΑ
+<asterisk>	<I>							Ι	U0399	GREEK CAPITAL LETTER ΙΟΤΑ
+<asterisk>	<i>							ι	U03B9	GREEK SMALL LETTER ΙΟΤΑ
+<asterisk>	<J>							Ξ	U039E	GREEK CAPITAL LETTER XI
+<asterisk>	<j>							ξ	U03BE	GREEK SMALL LETTER XI
+<asterisk>	<K>							Κ	U039A	GREEK CAPITAL LETTER KAPPA
+<asterisk>	<k>							κ	U03BA	GREEK SMALL LETTER KAPPA
+<asterisk>	<L>							Λ	U039B	GREEK CAPITAL LETTER LAMBDA
+<asterisk>	<l>							λ	U03BB	GREEK SMALL LETTER LAMBDA
+<asterisk>	<M>							Μ	U039C	GREEK CAPITAL LETTER MU
+<asterisk>	<m>							μ	U03BC	GREEK SMALL LETTER MU
+<asterisk>	<minus>							✪	U272A	CIRCLED WHITE STAR
+<asterisk>	<N>							Ν	U039D	GREEK CAPITAL LETTER NU
+<asterisk>	<n>							ν	U03BD	GREEK SMALL LETTER NU
+<asterisk>	<numbersign>							✯	U272F	PINWHEEL STAR
+<asterisk>	<O>							Ο	U039F	GREEK CAPITAL LETTER OMICRON
+<asterisk>	<o>							ο	U03BF	GREEK SMALL LETTER OMICRON
+<asterisk>	<P>							Π	U03A0	GREEK CAPITAL LETTER PI
+<asterisk>	<p>							π	U03C0	GREEK SMALL LETTER PI
+<asterisk>	<parenleft>							﴾	UFD3E	ORNATE LEFT PARENTHESIS
+<asterisk>	<parenright>							﴿	UFD3F	ORNATE RIGHT PARENTHESIS
+<asterisk>	<period>	<apostrophe>						′	U2032	PRIME
+<asterisk>	<period>	<b>						ϐ	U03D0	GREEK BETA SYMBOL
+<asterisk>	<period>	<e>						ϵ	U03F5	GREEK LUNATE EPSILON SYMBOL
+<asterisk>	<period>	<f>						ϕ	U03D5	GREEK PHI SYMBOL
+<asterisk>	<period>	<k>						ϰ	U03F0	GREEK KAPPA SYMBOL
+<asterisk>	<period>	<p>						ϖ	U03D6	GREEK PI SYMBOL
+<asterisk>	<period>	<period>	<d>					∂	U2202	PARTIAL DIFFERENTIAL
+<asterisk>	<period>	<period>	<period>					๛	U0E5B	THAI CHARACTER KHOMUT (end of chapter)
+<asterisk>	<period>	<period>	<Z>					Ͳ	U0372	GREEK CAPITAL LETTER ARCHAIC SAMPI
+<asterisk>	<period>	<period>	<z>					ͳ	U0373	GREEK SMALL LETTER ARCHAIC SAMPI
+<asterisk>	<period>	<Q>						Ϙ	U03D8	GREEK LETTER ARCHAIC QOPPA
+<asterisk>	<period>	<q>						ϙ	U03D9	GREEK SMALL LETTER ARCHAIC QOPPA
+<asterisk>	<period>	<question>						;	U037E	GREEK QUESTION MARK
+<asterisk>	<period>	<quotedbl>						″	U2033	DOUBLE PRIME
+<asterisk>	<period>	<r>						ϱ	U03F1	GREEK RHO SYMBOL
+<asterisk>	<period>	<S>						Ϻ	U03FA	GREEK CAPITAL LETTER SAN
+<asterisk>	<period>	<s>						ϻ	U03FB	GREEK SMALL LETTER SAN
+<asterisk>	<period>	<U>						ϴ	U03F4	GREEK CAPITAL THETA SYMBOL
+<asterisk>	<period>	<u>						ϑ	U03D1	GREEK THETA SYMBOL
+<asterisk>	<period>	<w>						ϝ	U03DD	GREEK SMALL LETTER DIGAMMA
+<asterisk>	<period>	<W>						Ϝ	U03DC	GREEK CAPITAL LETTER DIGAMMA
+<asterisk>	<period>	<Y>						ϒ	U03D2	GREEK UPSILON WITH HOOK SYMBOL
+<asterisk>	<period>	<z>						ϡ	U03E1	GREEK SMALL LETTER SAMPI
+<asterisk>	<period>	<Z>						Ϡ	U03E0	GREEK LETTER SAMPI
+<asterisk>	<q>							ϟ	U03DF	GREEK SMALL LETTER QOPPA
+<asterisk>	<Q>							Ϟ	U03DE	GREEK LETTER QOPPA
+<asterisk>	<question>							Ϛ	U03DA	GREEK LETTER STIGMA
+<asterisk>	<R>							Ρ	U03A1	GREEK CAPITAL LETTER RHO
+<asterisk>	<r>							ρ	U03C1	GREEK SMALL LETTER RHO
+<asterisk>	<S>							Σ	U03A3	GREEK CAPITAL LETTER SIGMA
+<asterisk>	<s>							σ	U03C3	GREEK SMALL LETTER SIGMA
+<asterisk>	<slash>							ϛ	U03DB	GREEK SMALL LETTER STIGMA
+<asterisk>	<T>							Τ	U03A4	GREEK CAPITAL LETTER TAU
+<asterisk>	<t>							τ	U03C4	GREEK SMALL LETTER TAU
+<asterisk>	<u>							ů	U016F	LATIN SMALL LETTER U WITH RING ABOVE
+<asterisk>	<U>							Θ	U0398	GREEK CAPITAL LETTER THETA
+<asterisk>	<u>							θ	U03B8	GREEK SMALL LETTER THETA
+<asterisk>	<V>							Ω	U03A9	GREEK CAPITAL LETTER OMEGA
+<asterisk>	<v>							ω	U03C9	GREEK SMALL LETTER OMEGA
+<asterisk>	<w>							ς	U03C2	GREEK SMALL LETTER FINAL SIGMA
+<asterisk>	<X>							Χ	U03A7	GREEK CAPITAL LETTER CHI
+<asterisk>	<x>							χ	U03C7	GREEK SMALL LETTER CHI
+<asterisk>	<Y>							Υ	U03A5	GREEK CAPITAL LETTER UPSILON
+<asterisk>	<y>							υ	U03C5	GREEK SMALL LETTER UPSILON
+<asterisk>	<Z>							Ζ	U0396	GREEK CAPITAL LETTER ZETA
+<asterisk>	<z>							ζ	U03B6	GREEK SMALL LETTER ZETA
+<at>	<at>	<greater>						❱	U2771	HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
+<at>	<at>	<less>						❰	U2770	HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
+<at>	<at>	<parenleft>						❪	U276A	MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
+<at>	<at>	<parenright>						❫	U276B	MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
+<at>	<at>	<slash>						✔	U2714	HEAVY CHECK MARK
+<at>	<at>	<X>						✘	U2718	HEAVY BALLOT X
+<at>	<braceleft>							❴	U2774	MEDIUM LEFT CURLY BRACKET ORNAMENT
+<at>	<braceright>							❵	U2775	MEDIUM RIGHT CURLY BRACKET ORNAMENT
+<at>	<bracketleft>	<parenleft>						❲	U2772	LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
+<at>	<bracketright>	<parenright>						❳	U2773	LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
+<at>	<greater>							❭	U276D	MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
+<at>	<less>							❬	U276C	MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
+<at>	<Multi_key>							️	UFE0F	Emoji selector
+<at>	<numbersign>							⌘	U2318	PLACE OF INTEREST SIGN
+<at>	<parenleft>							❨	U2768	MEDIUM LEFT PARENTHESIS ORNAMENT
+<at>	<parenright>							❩	U2769	MEDIUM RIGHT PARENTHESIS ORNAMENT
+<at>	<slash>							✓	U2713	CHECK MARK
+<at>	<X>							✗	U2717	BALLOT X
+<b>	<A>							Ă	U0102	LATIN CAPITAL LETTER A WITH BREVE
+<b>	<a>							ă	U0103	LATIN SMALL LETTER A WITH BREVE
+<b>	<apostrophe>							ɓ	U0253	LATIN SMALL LETTER B WITH HOOK
+<B>	<bar>							₿	U20BF	BITCOIN SIGN
+<b>	<cedilla>	<E>						Ḝ	U1E1C	LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+<b>	<cedilla>	<e>						ḝ	U1E1D	LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+<b>	<comma>	<E>						Ḝ	U1E1C	LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+<b>	<comma>	<e>						ḝ	U1E1D	LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+<b>	<E>							Ĕ	U0114	LATIN CAPITAL LETTER E WITH BREVE
+<b>	<e>							ĕ	U0115	LATIN SMALL LETTER E WITH BREVE
+<b>	<exclam>	<A>						Ặ	U1EB6	LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW
+<b>	<exclam>	<a>						ặ	U1EB7	LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+<b>	<G>							Ğ	U011E	LATIN CAPITAL LETTER G WITH BREVE
+<b>	<g>							ğ	U011F	LATIN SMALL LETTER G WITH BREVE
+<b>	<grave>							ʙ	U0299	LATIN LETTER SMALL CAPITAL B
+<b>	<I>							Ĭ	U012C	LATIN CAPITAL LETTER I WITH BREVE
+<b>	<i>							ĭ	U012D	LATIN SMALL LETTER I WITH BREVE
+<B>	<O>	<M>						﻿	UFEFF	ZERO WIDTH NO-BREAK SPACE (Byte Order Mark)
+<b>	<O>							Ŏ	U014E	LATIN CAPITAL LETTER O WITH BREVE
+<b>	<o>							ŏ	U014F	LATIN SMALL LETTER O WITH BREVE
+<B>	<period>							Ḃ	U1E02	LATIN CAPITAL LETTER B WITH DOT ABOVE
+<b>	<period>							ḃ	U1E03	LATIN SMALL LETTER B WITH DOT ABOVE
+<b>	<u>							ŭ	U016D	LATIN SMALL LETTER U WITH BREVE
+<backslash>	<0>							̊	U030a	COMBINING RING ABOVE
+<backslash>	<2>	<asciitilde>						͠	U0360	COMBINING DOUBLE TILDE
+<backslash>	<2>	<at>	<i>	<b>				᷼	U1DFC	COMBINING DOUBLE INVERTED BREVE BELOW
+<backslash>	<2>	<at>	<minus>					͟	U035F	COMBINING DOUBLE MACRON BELOW
+<backslash>	<2>	<at>	<U>					͜	U035C	COMBINING DOUBLE BREVE BELOW
+<backslash>	<2>	<bar>						̎	U030e	COMBINING DOUBLE VERTICAL LINE ABOVE
+<backslash>	<2>	<grave>						̏	U030f	COMBINING DOUBLE GRAVE ACCENT
+<backslash>	<2>	<greater>						͢	U0362	COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+<backslash>	<2>	<i>	<b>					͡	U0361	COMBINING DOUBLE INVERTED BREVE
+<backslash>	<2>	<minus>						͞	U035E	COMBINING DOUBLE MACRON
+<backslash>	<2>	<slash>						"""⃫"	U20EB	COMBINING LONG DOUBLE SOLIDUS OVERLAY
+<backslash>	<2>	<U>						͝	U035D	COMBINING DOUBLE BREVE
+<backslash>	<2>	<underscore>						͟	U035F	COMBINING DOUBLE MACRON BELOW
+<backslash>	<ampersand>	<asciitilde>						͠	U0360	COMBINING DOUBLE TILDE
+<backslash>	<ampersand>	<at>	<i>	<b>				᷼	U1DFC	COMBINING DOUBLE INVERTED BREVE BELOW
+<backslash>	<ampersand>	<at>	<minus>					͟	U035F	COMBINING DOUBLE MACRON BELOW
+<backslash>	<ampersand>	<at>	<U>					͜	U035C	COMBINING DOUBLE BREVE BELOW
+<backslash>	<ampersand>	<greater>						͢	U0362	COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+<backslash>	<ampersand>	<i>	<b>					͡	U0361	COMBINING DOUBLE INVERTED BREVE
+<backslash>	<ampersand>	<minus>						͞	U035E	COMBINING DOUBLE MACRON
+<backslash>	<ampersand>	<U>						͝	U035D	COMBINING DOUBLE BREVE
+<backslash>	<ampersand>	<underscore>						͟	U035F	COMBINING DOUBLE MACRON BELOW
+<backslash>	<apostrophe>							́	U0301	COMBINING ACUTE ACCENT
+<backslash>	<asciicircum>							̂	U0302	COMBINING CIRCUMFLEX ACCENT
+<backslash>	<asciitilde>							̃	U0303	COMBINING TILDE
+<backslash>	<asterisk>							⃰	U20F0	COMBINING ASTERISK ABOVE
+<backslash>	<at>	<asciicircum>						̭	U032d	COMBINING CIRCUMFLEX ACCENT BELOW
+<backslash>	<at>	<c>						̬	U032c	COMBINING CARON BELOW
+<backslash>	<at>	<i>	<b>					̯	U032f	COMBINING INVERTED BREVE BELOW -- ??
+<backslash>	<at>	<o>						̥	U0325	COMBINING RING BELOW
+<backslash>	<at>	<U>						̮	U032e	COMBINING BREVE BELOW
+<backslash>	<backslash>	<apostrophe>						̋	U030b	COMBINING DOUBLE ACUTE ACCENT -- ??
+<backslash>	<backslash>	<asterisk>						҉	U0489	COMBINING CYRILLIC MILLIONS SIGN -- aka COMBINING SHINY
+<backslash>	<backslash>	<backslash>	<comma>					̒	U0312	COMBINING TURNED COMMA ABOVE
+<backslash>	<backslash>	<backslash>	<underscore>					̳	U0333	COMBINING DOUBLE LOW LINE
+<backslash>	<backslash>	<comma>						̓	U0313	COMBINING COMMA ABOVE
+<backslash>	<backslash>	<equal>						̅	U0305	COMBINING OVERLINE -- ???
+<backslash>	<backslash>	<less>	<comma>					̔	U0314	COMBINING REVERSED COMMA ABOVE
+<backslash>	<backslash>	<underscore>						̲	U0332	COMBINING LOW LINE
+<backslash>	<bar>							̍	U030d	COMBINING VERTICAL LINE ABOVE
+<backslash>	<bracketleft>	<d>	<bracketright>					⃟	U20DF	COMBINING ENCLOSING DIAMOND
+<backslash>	<bracketleft>	<k>	<bracketright>					⃣	U20E3	COMBINING ENCLOSING KEYCAP
+<backslash>	<bracketleft>	<q>	<bracketright>					⃞	U20DE	COMBINING ENCLOSING SQUARE
+<backslash>	<bracketleft>	<s>	<bracketright>					⃢	U20E2	COMBINING ENCLOSING SCREEN
+<backslash>	<bracketleft>	<t>	<bracketright>					⃤	U20E4	COMBINING ENCLOSING TRIANGLE
+<backslash>	<c>							̌	U030c	COMBINING CARON
+<backslash>	<comma>							 	U2009	THIN SPACE
+<backslash>	<equal>							̄	U0304	COMBINING MACRON
+<backslash>	<exclam>							̣	U0323	COMBINING DOT BELOW
+<backslash>	<f>	<m>						͒	U0352	COMBINING FERMATA
+<backslash>	<grave>							̀	U0300	COMBINING GRAVE ACCENT
+<backslash>	<i>	<b>						̑	U0311	COMBINING INVERTED BREVE -- ??
+<backslash>	<minus>							⍀	U2340	\ - APL FUNCTIONAL SYMBOL BACKSLASH BAR
+<backslash>	<minus>							­	U00AD	SOFT HYPHEN
+<backslash>	<o>	<slash>						🙌		PERSON RAISING BOTH HANDS IN CELEBRATION
+<backslash>	<o>							̊	U030a	COMBINING RING ABOVE
+<backslash>	<parenleft>	<parenright>						⃝	U20DD	COMBINING ENCLOSING CIRCLE
+<backslash>	<parenleft>	<period>						̐	U0310	COMBINING CHANDRABINDU
+<backslash>	<parenleft>	<slash>	<parenright>					⃠	U20E0	COMBINING ENCLOSING CIRCLE BACKSLASH
+<backslash>	<period>	<period>						⋱	U22F1	DOWN RIGHT DIAGONAL ELLIPSIS
+<backslash>	<period>							̇	U0307	COMBINING DOT ABOVE
+<backslash>	<question>							̉	U0309	COMBINING HOOK ABOVE
+<backslash>	<quotedbl>							̈	U0308	COMBINING DIAERESIS
+<backslash>	<slash>							∨	U2228	LOGICAL OR
+<backslash>	<space>							␣	U2423	OPEN BOX
+<backslash>	<U>							̆	U0306	COMBINING BREVE
+<backslash>	<underscore>	<bar>						̩	U0329	COMBINING VERTICAL LINE BELOW
+<backslash>	<underscore>	<slash>						⊻	U22BB	XOR
+<backslash>	<underscore>	<underscore>						̱	U0331	COMBINING MACRON BELOW
+<BackSpace>	<e>	<h>						ɜ	U025C	LATIN SMALL LETTER REVERSED OPEN E
+<BackSpace>	<e>	<r>						ɝ	U025D	LATIN SMALL LETTER REVERSED OPEN E WITH HOOK
+<bar>	<apostrophe>							ˈ	U02C8	MODIFIER LETTER VERTICAL LINE
+<bar>	<asciitilde>							⍭	U236d	| ~ APL FUNCTIONAL SYMBOL STILE TILDE
+<bar>	<asterisk>	<p>						ℼ	U213C	DOUBLE-STRUCK SMALL PI
+<bar>	<asterisk>	<P>						ℿ	U213F	DOUBLE-STRUCK CAPITAL PI
+<bar>	<asterisk>	<S>						⅀	U2140	DOUBLE-STRUCK N-ARY SUMMATION
+<bar>	<B>	<B>						♝	U265D	BLACK CHESS BISHOP
+<bar>	<B>	<D>	<K>					⛃	U26C3	BLACK DRAUGHTS KING
+<bar>	<B>	<D>	<M>					⛂	U26C2	BLACK DRAUGHTS MAN
+<bar>	<B>	<K>						♚	U265A	BLACK CHESS KING
+<bar>	<B>	<N>						♞	U265E	BLACK CHESS KNIGHT
+<bar>	<B>	<P>						♟	U265F	BLACK CHESS PAWN
+<bar>	<B>	<Q>						♛	U265B	BLACK CHESS QUEEN
+<bar>	<B>	<R>						♜	U265C	BLACK CHESS ROOK
+<bar>	<B>	<S>						☗	U2617	BLACK SHOGI PIECE
+<bar>	<bar>	<parenleft>						⟬	U27EC	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+<bar>	<bar>	<parenright>						⟭	U27ED	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+<bar>	<braceleft>							⦃	U2983	LEFT WHITE CURLY BRACKET
+<bar>	<braceright>							⦄	U2984	RIGHT WHITE CURLY BRACKET 
+<bar>	<bracketleft>							⟦	U27E6	MATHEMATICAL LEFT WHITE SQUARE BRACKET
+<bar>	<bracketright>							⟧	U27E7	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+<bar>	<C>							¢	cent	CENT SIGN
+<bar>	<c>							¢	cent	CENT SIGN
+<bar>	<C>							ℂ	U2102	DOUBLE-STRUCK CAPITAL C (set of complex numbers)
+<bar>	<colon>							⦂	U2982	Z NOTATION TYPE COLON
+<bar>	<comma>							ˌ	U02CC	MODIFIER LETTER LOW VERTICAL LINE
+<bar>	<e>							ⅇ	U2147	DOUBLE-STRUCK ITALIC SMALL E
+<bar>	<greater>							‣	U2023	TRIANGULAR BULLET
+<bar>	<Greek_pi>							ℼ	U213C	DOUBLE-STRUCK SMALL PI
+<bar>	<Greek_PI>							ℿ	U213F	DOUBLE-STRUCK CAPITAL PI
+<bar>	<Greek_SIGMA>							⅀	U2140	DOUBLE-STRUCK N-ARY SUMMATION
+<bar>	<H>							ℍ	U210d	DOUBLE-STRUCK CAPITAL H
+<bar>	<i>							ⅈ	U2148	DOUBLE-STRUCK ITALIC SMALL I
+<bar>	<j>							ⅉ	U2149	DOUBLE-STRUCK ITALIC SMALL J
+<bar>	<less>	<B>	<S>					⛊	U26CA	TURNED BLACK SHOGI PIECE
+<bar>	<less>	<W>	<S>					⛉	U26C9	TURNED WHITE SHOGI PIECE
+<bar>	<N>							ℕ	U2115	DOUBLE-STRUCK CAPITAL N (natural number)
+<bar>	<P>							ℙ	U2119	DOUBLE-STRUCK CAPITAL P 
+<bar>	<Q>							ℚ	U211A	DOUBLE-STRUCK CAPITAL Q (set of rational numbers)
+<bar>	<R>							ℝ	U211D	DOUBLE-STRUCK CAPITAL R (set of real numbers)
+<bar>	<semicolon>							⨾	U2A3E	Z NOTATION RELATIONAL COMPOSITION
+<bar>	<underscore>							̩	U0329	COMBINING VERTICAL LINE BELOW
+<bar>	<W>	<B>						♗	U2657	WHITE CHESS BISHOP
+<bar>	<W>	<D>	<K>					⛁	U26C1	WHITE DRAUGHTS KING
+<bar>	<W>	<D>	<M>					⛀	U26C0	WHITE DRAUGHTS MAN
+<bar>	<W>	<K>						♔	U2654	WHITE CHESS KING
+<bar>	<W>	<N>						♘	U2658	WHITE CHESS KNIGHT
+<bar>	<W>	<P>						♙	U2659	WHITE CHESS PAWN
+<bar>	<W>	<Q>						♕	U2655	WHITE CHESS QUEEN
+<bar>	<W>	<R>						♖	U2656	WHITE CHESS ROOK
+<bar>	<W>	<S>						☖	U2616	WHITE SHOGI PIECE
+<bar>	<Z>							ℤ	U2124	DOUBLE-STRUCK CAPITAL Z (set of integers)
+<braceleft>	<asciicircum>							∩	U2229	INTERSECTION
+<braceleft>	<braceright>							∅	U2205	EMPTY SET
+<braceleft>	<equal>	<parenleft>						⊆	U2286	SUBSET OF OR EQUAL TO
+<braceleft>	<equal>	<parenright>						⊇	U2287	SUPERSET OF OR EQUAL TO
+<braceleft>	<parenleft>							⊂	U2282	SUBSET OF
+<braceleft>	<parenright>							⊃	U2283	SUPERSET OF
+<braceleft>	<U>							∪	U222A	UNION
+<bracketleft>	<1>	<bracketright>						⚀	U2680	DIE FACE-1
+<bracketleft>	<2>	<bracketright>						⚁	U2681	DIE FACE-2
+<bracketleft>	<2>	<C>	<bracketright>					🃒	U1F0D2	PLAYING CARD TWO OF CLUBS
+<bracketleft>	<2>	<D>	<bracketright>					🃂	U1F0C2	PLAYING CARD TWO OF DIAMONDS
+<bracketleft>	<2>	<H>	<bracketright>					🂲	U1F0B2	PLAYING CARD TWO OF HEARTS
+<bracketleft>	<2>	<S>	<bracketright>					🂢	U1F0A2	PLAYING CARD TWO OF SPADES
+<bracketleft>	<3>	<bracketright>						⚂	U2682	DIE FACE-3
+<bracketleft>	<3>	<C>	<bracketright>					🃓	U1F0D3	PLAYING CARD THREE OF CLUBS
+<bracketleft>	<3>	<D>	<bracketright>					🃃	U1F0C3	PLAYING CARD THREE OF DIAMONDS
+<bracketleft>	<3>	<H>	<bracketright>					🂳	U1F0B3	PLAYING CARD THREE OF HEARTS
+<bracketleft>	<3>	<S>	<bracketright>					🂣	U1F0A3	PLAYING CARD THREE OF SPADES
+<bracketleft>	<4>	<bracketright>						⚃	U2683	DIE FACE-4
+<bracketleft>	<4>	<C>	<bracketright>					🃔	U1F0D4	PLAYING CARD FOUR OF CLUBS
+<bracketleft>	<4>	<D>	<bracketright>					🃄	U1F0C4	PLAYING CARD FOUR OF DIAMONDS
+<bracketleft>	<4>	<H>	<bracketright>					🂴	U1F0B4	PLAYING CARD FOUR OF HEARTS
+<bracketleft>	<4>	<S>	<bracketright>					🂤	U1F0A4	PLAYING CARD FOUR OF SPADES
+<bracketleft>	<5>	<bracketright>						⚄	U2684	DIE FACE-5
+<bracketleft>	<5>	<C>	<bracketright>					🃕	U1F0D5	PLAYING CARD FIVE OF CLUBS
+<bracketleft>	<5>	<D>	<bracketright>					🃅	U1F0C5	PLAYING CARD FIVE OF DIAMONDS
+<bracketleft>	<5>	<H>	<bracketright>					🂵	U1F0B5	PLAYING CARD FIVE OF HEARTS
+<bracketleft>	<5>	<S>	<bracketright>					🂥	U1F0A5	PLAYING CARD FIVE OF SPADES
+<bracketleft>	<6>	<bracketright>						⚅	U2685	DIE FACE-6
+<bracketleft>	<6>	<C>	<bracketright>					🃖	U1F0D6	PLAYING CARD SIX OF CLUBS
+<bracketleft>	<6>	<D>	<bracketright>					🃆	U1F0C6	PLAYING CARD SIX OF DIAMONDS
+<bracketleft>	<6>	<H>	<bracketright>					🂶	U1F0B6	PLAYING CARD SIX OF HEARTS
+<bracketleft>	<6>	<S>	<bracketright>					🂦	U1F0A6	PLAYING CARD SIX OF SPADES
+<bracketleft>	<7>	<C>	<bracketright>					🃗	U1F0D7	PLAYING CARD SEVEN OF CLUBS
+<bracketleft>	<7>	<D>	<bracketright>					🃇	U1F0C7	PLAYING CARD SEVEN OF DIAMONDS
+<bracketleft>	<7>	<H>	<bracketright>					🂷	U1F0B7	PLAYING CARD SEVEN OF HEARTS
+<bracketleft>	<7>	<S>	<bracketright>					🂧	U1F0A7	PLAYING CARD SEVEN OF SPADES
+<bracketleft>	<8>	<C>	<bracketright>					🃘	U1F0D8	PLAYING CARD EIGHT OF CLUBS
+<bracketleft>	<8>	<D>	<bracketright>					🃈	U1F0C8	PLAYING CARD EIGHT OF DIAMONDS
+<bracketleft>	<8>	<H>	<bracketright>					🂸	U1F0B8	PLAYING CARD EIGHT OF HEARTS
+<bracketleft>	<8>	<S>	<bracketright>					🂨	U1F0A8	PLAYING CARD EIGHT OF SPADES
+<bracketleft>	<9>	<C>	<bracketright>					🃙	U1F0D9	PLAYING CARD NINE OF CLUBS
+<bracketleft>	<9>	<D>	<bracketright>					🃉	U1F0C9	PLAYING CARD NINE OF DIAMONDS
+<bracketleft>	<9>	<H>	<bracketright>					🂹	U1F0B9	PLAYING CARD NINE OF HEARTS
+<bracketleft>	<9>	<S>	<bracketright>					🂩	U1F0A9	PLAYING CARD NINE OF SPADES
+<bracketleft>	<A>	<C>	<bracketright>					🃑	U1F0D1	PLAYING CARD ACE OF CLUBS
+<bracketleft>	<A>	<D>	<bracketright>					🃁	U1F0C1	PLAYING CARD ACE OF DIAMONDS
+<bracketleft>	<A>	<H>	<bracketright>					🂱	U1F0B1	PLAYING CARD ACE OF HEARTS
+<bracketleft>	<A>	<S>	<bracketright>					🂡	U1F0A1	PLAYING CARD ACE OF SPADES
+<bracketleft>	<B>	<J>	<bracketright>					🃏	U1F0CF	PLAYING CARD BLACK JOKER
+<bracketleft>	<bracketleft>							⊏	U228F	SQUARE IMAGE OF
+<bracketleft>	<bracketright>							⌷	U2337	[ ] APL FUNCTIONAL SYMBOL SQUISH QUAD
+<bracketleft>	<bracketright>							⬚	U2B1A	DOTTED SQUARE
+<bracketleft>	<C>	<B>	<bracketright>					🂠	U1F0A0	PLAYING CARD BACK
+<bracketleft>	<equal>							⊑	U2291	SQUARE IMAGE OF OR EQUAL TO
+<bracketleft>	<J>	<C>	<bracketright>					🃛	U1F0DB	PLAYING CARD JACK OF CLUBS
+<bracketleft>	<J>	<D>	<bracketright>					🃋	U1F0CB	PLAYING CARD JACK OF DIAMONDS
+<bracketleft>	<J>	<H>	<bracketright>					🂻	U1F0BB	PLAYING CARD JACK OF HEARTS
+<bracketleft>	<J>	<S>	<bracketright>					🂫	U1F0AB	PLAYING CARD JACK OF SPADES
+<bracketleft>	<K>	<C>	<bracketright>					🃞	U1F0DE	PLAYING CARD KING OF CLUBS
+<bracketleft>	<K>	<D>	<bracketright>					🃎	U1F0CE	PLAYING CARD KING OF DIAMONDS
+<bracketleft>	<k>	<e>	<y>	<bracketright>				⚿	U26BF	SQUARED KEY
+<bracketleft>	<K>	<H>	<bracketright>					🂾	U1F0BE	PLAYING CARD KING OF HEARTS
+<bracketleft>	<K>	<S>	<bracketright>					🂮	U1F0AE	PLAYING CARD KING OF SPADES
+<bracketleft>	<N>	<C>	<bracketright>					🃜	U1F0DC	PLAYING CARD KNIGHT OF CLUBS
+<bracketleft>	<N>	<D>	<bracketright>					🃌	U1F0CC	PLAYING CARD KNIGHT OF DIAMONDS
+<bracketleft>	<N>	<H>	<bracketright>					🂼	U1F0BC	PLAYING CARD KNIGHT OF HEARTS
+<bracketleft>	<N>	<S>	<bracketright>					🂬	U1F0AC	PLAYING CARD KNIGHT OF SPADES
+<bracketleft>	<Q>	<C>	<bracketright>					🃝	U1F0DD	PLAYING CARD QUEEN OF CLUBS
+<bracketleft>	<Q>	<D>	<bracketright>					🃍	U1F0CD	PLAYING CARD QUEEN OF DIAMONDS
+<bracketleft>	<Q>	<H>	<bracketright>					🂽	U1F0BD	PLAYING CARD QUEEN OF HEARTS
+<bracketleft>	<Q>	<S>	<bracketright>					🂭	U1F0AD	PLAYING CARD QUEEN OF SPADES
+<bracketleft>	<slash>	<bracketright>						☑	U2611	BALLOT BOX WITH CHECK
+<bracketleft>	<space>	<bracketright>						☐	U2610	BALLOT BOX
+<bracketleft>	<T>	<C>	<bracketright>					🃚	U1F0DA	PLAYING CARD TEN OF CLUBS
+<bracketleft>	<T>	<D>	<bracketright>					🃊	U1F0CA	PLAYING CARD TEN OF DIAMONDS
+<bracketleft>	<T>	<H>	<bracketright>					🂺	U1F0BA	PLAYING CARD TEN OF HEARTS
+<bracketleft>	<T>	<S>	<bracketright>					🂪	U1F0AA	PLAYING CARD TEN OF SPADES
+<bracketleft>	<underscore>							⊑	U2291	SQUARE IMAGE OF OR EQUAL TO
+<bracketleft>	<W>	<J>	<bracketright>					🃟	U1F0DF	PLAYING CARD WHITE JOKER
+<bracketleft>	<x>	<bracketright>						☒	U2612	BALLOT BOX WITH X
+<bracketright>	<bracketleft>							⌷	U2337	] [ APL FUNCTIONAL SYMBOL SQUISH QUAD
+<bracketright>	<bracketright>							⊐	U2290	SQUARE ORIGINAL OF
+<bracketright>	<equal>							⊒	U2292	SQUARE ORIGINAL OF OR EQUAL TO
+<bracketright>	<underscore>							⊒	U2292	SQUARE ORIGINAL OF OR EQUAL TO
+<breve>	<G>							Ğ	U011E	LATIN CAPITAL LETTER G WITH BREVE
+<breve>	<g>							ğ	U011F	LATIN SMALL LETTER G WITH BREVE
+<c>	<1>	<period>						·	U00B7	MIDDLE DOT (maybe I can remember the keystroke better?
+<c>	<3>							♣	U2663	BLACK CLUB SUIT
+<c>	<A>							Ǎ	U01CD	LATIN CAPITAL LETTER A WITH CARON
+<c>	<a>							ǎ	U01CE	LATIN SMALL LETTER A WITH CARON
+<C>	<apostrophe>							Ć	U0106	LATIN CAPITAL LETTER C WITH ACUTE
+<c>	<apostrophe>							ć	U0107	LATIN SMALL LETTER C WITH ACUTE
+<C>	<bar>							¢	cent	CENT SIGN
+<c>	<bar>							¢	cent	CENT SIGN
+<C>	<C>	<C>	<P>					☭	U262D	HAMMER AND SICKLE
+<c>	<C>							Č	U010C	LATIN CAPITAL LETTER C WITH CARON
+<c>	<c>							č	U010D	LATIN SMALL LETTER C WITH CARON
+<C>	<comma>							Ç	Ccedilla	LATIN CAPITAL LETTER C WITH CEDILLA
+<c>	<comma>							ç	ccedilla	LATIN SMALL LETTER C WITH CEDILLA
+<c>	<D>							Ď	U010E	LATIN CAPITAL LETTER D WITH CARON
+<c>	<d>							ď	U010F	LATIN SMALL LETTER D WITH CARON
+<C>	<E>							₠	U20a0	EURO-CURRENCY SIGN
+<c>	<E>							Ě	U011A	LATIN CAPITAL LETTER E WITH CARON
+<c>	<e>							ě	U011B	LATIN SMALL LETTER E WITH CARON
+<C>	<equal>							€	EuroSign	EURO SIGN
+<c>	<equal>							€	EuroSign	EURO SIGN
+<c>	<EZH>							Ǯ	U01EE	LATIN CAPITAL LETTER EZH WITH CARON
+<c>	<ezh>							ǯ	U01EF	LATIN SMALL LETTER EZH WITH CARON
+<C>	<G>	<J>						͏	U034F	COMBINING GRAPHEME JOINER
+<c>	<G>							Ǧ	U01E6	LATIN CAPITAL LETTER G WITH CARON
+<c>	<g>							ǧ	U01E7	LATIN SMALL LETTER G WITH CARON
+<c>	<grave>							ᴄ	U1D04	LATIN LETTER SMALL CAPITAL C
+<c>	<H>							Ȟ	U021E	LATIN CAPITAL LETTER H WITH CARON
+<c>	<h>							ȟ	U021F	LATIN SMALL LETTER H WITH CARON
+<c>	<I>							Ǐ	U01CF	LATIN CAPITAL LETTER I WITH CARON
+<c>	<i>							ǐ	U01D0	LATIN SMALL LETTER I WITH CARON
+<c>	<j>							ǰ	U01F0	LATIN SMALL LETTER J WITH CARON
+<c>	<K>							Ǩ	U01E8	LATIN CAPITAL LETTER K WITH CARON
+<c>	<k>							ǩ	U01E9	LATIN SMALL LETTER K WITH CARON
+<c>	<L>							Ľ	U013D	LATIN CAPITAL LETTER L WITH CARON
+<c>	<l>							ľ	U013E	LATIN SMALL LETTER L WITH CARON
+<C>	<less>							Č	U010C	LATIN CAPITAL LETTER C WITH CARON
+<c>	<less>							č	U010D	LATIN SMALL LETTER C WITH CARON
+<c>	<N>							Ň	U0147	LATIN CAPITAL LETTER N WITH CARON
+<c>	<n>							ň	U0148	LATIN SMALL LETTER N WITH CARON
+<C>	<o>							©	copyright	COPYRIGHT SIGN
+<C>	<O>							©	copyright	COPYRIGHT SIGN
+<c>	<O>							Ǒ	U01D1	LATIN CAPITAL LETTER O WITH CARON
+<c>	<o>							ǒ	U01D2	LATIN SMALL LETTER O WITH CARON
+<c>	<period>	<period>						⋯	U22EF	MIDLINE HORIZONTAL ELLIPSIS
+<C>	<period>							Ċ	U010A	LATIN CAPITAL LETTER C WITH DOT ABOVE
+<c>	<period>							ċ	U010B	LATIN SMALL LETTER C WITH DOT ABOVE
+<c>	<quotedbl>	<u>						ǚ	U01DA	LATIN SMALL LETTER U WITH DIAERESIS AND CARON
+<C>	<r>							₢	U20a2	CRUZEIRO SIGN
+<c>	<R>							Ř	U0158	LATIN CAPITAL LETTER R WITH CARON
+<c>	<r>							ř	U0159	LATIN SMALL LETTER R WITH CARON
+<c>	<S>							Š	U0160	LATIN CAPITAL LETTER S WITH CARON
+<c>	<s>							š	U0161	LATIN SMALL LETTER S WITH CARON
+<C>	<slash>							₡	U20a1	COLON SIGN
+<c>	<slash>							¢	cent	CENT SIGN
+<c>	<T>							Ť	U0164	LATIN CAPITAL LETTER T WITH CARON
+<c>	<t>							ť	U0165	LATIN SMALL LETTER T WITH CARON
+<c>	<u>							ǔ	U01D4	LATIN SMALL LETTER U WITH CARON
+<c>	<udiaeresis>							ǚ	U01DA	LATIN SMALL LETTER U WITH DIAERESIS AND CARON
+<c>	<Z>							Ž	U017D	LATIN CAPITAL LETTER Z WITH CARON
+<c>	<z>							ž	U017E	LATIN SMALL LETTER Z WITH CARON
+<C>	<Z>							Ꝣ	UA762	LATIN CAPITAL LETTER VISIGOTHIC Z
+<c>	<z>							ꝣ	UA763	LATIN SMALL LETTER VISIGOTHIC Z
+<cedilla>	<C>							Ç	Ccedilla	LATIN CAPITAL LETTER C WITH CEDILLA
+<cedilla>	<c>							ç	ccedilla	LATIN SMALL LETTER C WITH CEDILLA
+<cedilla>	<D>							Ḑ	U1E10	LATIN CAPITAL LETTER D WITH CEDILLA
+<cedilla>	<d>							ḑ	U1E11	LATIN SMALL LETTER D WITH CEDILLA
+<cedilla>	<E>							Ȩ	U0228	LATIN CAPITAL LETTER E WITH CEDILLA
+<cedilla>	<e>							ȩ	U0229	LATIN SMALL LETTER E WITH CEDILLA
+<cedilla>	<G>							Ģ	U0122	LATIN CAPITAL LETTER G WITH CEDILLA
+<cedilla>	<g>							ģ	U0123	LATIN SMALL LETTER G WITH CEDILLA
+<cedilla>	<H>							Ḩ	U1E28	LATIN CAPITAL LETTER H WITH CEDILLA
+<cedilla>	<h>							ḩ	U1E29	LATIN SMALL LETTER H WITH CEDILLA
+<cedilla>	<K>							Ķ	U0136	LATIN CAPITAL LETTER K WITH CEDILLA
+<cedilla>	<k>							ķ	U0137	LATIN SMALL LETTER K WITH CEDILLA
+<cedilla>	<L>							Ļ	U013B	LATIN CAPITAL LETTER L WITH CEDILLA
+<cedilla>	<l>							ļ	U013C	LATIN SMALL LETTER L WITH CEDILLA
+<cedilla>	<N>							Ņ	U0145	LATIN CAPITAL LETTER N WITH CEDILLA
+<cedilla>	<n>							ņ	U0146	LATIN SMALL LETTER N WITH CEDILLA
+<cedilla>	<R>							Ŗ	U0156	LATIN CAPITAL LETTER R WITH CEDILLA
+<cedilla>	<r>							ŗ	U0157	LATIN SMALL LETTER R WITH CEDILLA
+<cedilla>	<S>							Ş	U015E	LATIN CAPITAL LETTER S WITH CEDILLA
+<cedilla>	<s>							ş	U015F	LATIN SMALL LETTER S WITH CEDILLA
+<cedilla>	<T>							Ţ	U0162	LATIN CAPITAL LETTER T WITH CEDILLA
+<cedilla>	<t>							ţ	U0163	LATIN SMALL LETTER T WITH CEDILLA
+<colon>	<asciitilde>							⍨	U2368	APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+<colon>	<bar>							⸚	U2E1A	HYPHEN WITH DIAERESIS
+<colon>	<equal>							≔	U2254	COLON EQUALS
+<colon>	<minus>							÷	division	DIVISION SIGN
+<colon>	<o>	<o>	<parenright>					°͜°		Funny smiley-face.
+<colon>	<parenleft>							☹	U2639	WHITE FROWNING FACE
+<colon>	<parenleft>							☹	U2639	WHITE FROWNING FACE
+<colon>	<parenright>							☺	U263A	WHITE SMILING FACE
+<colon>	<parenright>							☺	U263A	WHITE SMILING FACE
+<colon>	<period>							∴	therefore	: . THEREFORE
+<colon>	<plus>							ː	U02D0	MODIFIER LETTER TRIANGULAR COLON
+<comma>	<A>							Ą	U0104	LATIN CAPITAL LETTER A WITH OGONEK
+<comma>	<a>							ą	U0105	LATIN SMALL LETTER A WITH OGONEK
+<comma>	<apostrophe>							‚	U201a	SINGLE LOW-9 QUOTATION MARK
+<comma>	<apostrophe>							‚	U201A	SINGLE LOW-9 QUOTATION MARK (quote resembling a comma)
+<comma>	<asciicircum>							⸴	U2E34	RAISED COMMA
+<comma>	<at>							⸲	U2E32	TURNED COMMA
+<comma>	<C>							Ç	Ccedilla	LATIN CAPITAL LETTER C WITH CEDILLA
+<comma>	<c>							ç	ccedilla	LATIN SMALL LETTER C WITH CEDILLA
+<comma>	<comma>							„	U201E	DOUBLE LOW-9 QUOTATION MARK
+<comma>	<D>							Ḑ	U1E10	LATIN CAPITAL LETTER D WITH CEDILLA
+<comma>	<d>							ḑ	U1E11	LATIN SMALL LETTER D WITH CEDILLA
+<comma>	<E>							Ę	U0118	LATIN CAPITAL LETTER E WITH OGONEK
+<comma>	<e>							ę	U0119	LATIN SMALL LETTER E WITH OGONEK
+<comma>	<G>							Ģ	U0122	LATIN CAPITAL LETTER G WITH CEDILLA
+<comma>	<g>							ģ	U0123	LATIN SMALL LETTER G WITH CEDILLA
+<comma>	<H>							Ḩ	U1E28	LATIN CAPITAL LETTER H WITH CEDILLA
+<comma>	<h>							ḩ	U1E29	LATIN SMALL LETTER H WITH CEDILLA
+<comma>	<I>							Į	U012E	LATIN CAPITAL LETTER I WITH OGONEK
+<comma>	<i>							į	U012F	LATIN SMALL LETTER I WITH OGONEK
+<comma>	<K>							Ķ	U0136	LATIN CAPITAL LETTER K WITH CEDILLA
+<comma>	<k>							ķ	U0137	LATIN SMALL LETTER K WITH CEDILLA
+<comma>	<L>							Ļ	U013B	LATIN CAPITAL LETTER L WITH CEDILLA
+<comma>	<l>							ļ	U013C	LATIN SMALL LETTER L WITH CEDILLA
+<comma>	<less>							⹁	U2E41	REVERSED COMMA
+<comma>	<minus>							¬	notsign	NOT SIGN
+<comma>	<N>							Ņ	U0145	LATIN CAPITAL LETTER N WITH CEDILLA
+<comma>	<n>							ņ	U0146	LATIN SMALL LETTER N WITH CEDILLA
+<comma>	<O>							Ǫ	U01EA	LATIN CAPITAL LETTER O WITH OGONEK
+<comma>	<o>							ǫ	U01EB	LATIN SMALL LETTER O WITH OGONEK
+<comma>	<quotedbl>							„	U201e	DOUBLE LOW-9 QUOTATION MARK
+<comma>	<quotedbl>							„	U201E	DOUBLE LOW-9 QUOTATION MARK
+<comma>	<R>							Ŗ	U0156	LATIN CAPITAL LETTER R WITH CEDILLA
+<comma>	<r>							ŗ	U0157	LATIN SMALL LETTER R WITH CEDILLA
+<comma>	<S>							Ş	U015E	LATIN CAPITAL LETTER S WITH CEDILLA
+<comma>	<s>							ş	U015F	LATIN SMALL LETTER S WITH CEDILLA
+<comma>	<space>							‚	U201A	SINGLE LOW-9 QUOTATION MARK
+<comma>	<T>							Ţ	U0162	LATIN CAPITAL LETTER T WITH CEDILLA
+<comma>	<t>							ţ	U0163	LATIN SMALL LETTER T WITH CEDILLA
+<comma>	<u>							ų	U0173	LATIN SMALL LETTER U WITH OGONEK
+<d>	<a>	<g>						†	U2020	DAGGER
+<d>	<ampersand>	<b>						ȸ	U0238	LATIN SMALL LETTER DB DIGRAPH
+<d>	<apostrophe>							ɗ	U0257	LATIN SMALL LETTER D WITH HOOK
+<D>	<comma>							Ḑ	U1E10	LATIN CAPITAL LETTER D WITH CEDILLA
+<d>	<comma>							ḑ	U1E11	LATIN SMALL LETTER D WITH CEDILLA
+<d>	<comma>							ɖ	U0256	LATIN SMALL LETTER D WITH TAIL
+<d>	<d>	<a>	<g>					‡	U2021	DOUBLE DAGGER
+<d>	<e>	<f>	<equal>					≝	U225D	EQUAL TO BY DEFINITION
+<d>	<equal>							₫	U20ab	DONG SIGN
+<d>	<grave>							ᴅ	U1D05	LATIN LETTER SMALL CAPITAL D
+<D>	<H>							Ð	ETH	LATIN CAPITAL LETTER ETH
+<d>	<h>							ð	eth	LATIN SMALL LETTER ETH
+<d>	<i>							⌀	U2300	DIAMETER SIGN
+<D>	<less>							Ď	U010E	LATIN CAPITAL LETTER D WITH CARON
+<d>	<less>							ď	U010F	LATIN SMALL LETTER D WITH CARON
+<D>	<minus>							Đ	Dstroke	LATIN CAPITAL LETTER D WITH STROKE
+<d>	<minus>							đ	dstroke	LATIN SMALL LETTER D WITH STROKE
+<D>	<period>							Ḋ	U1E0A	LATIN CAPITAL LETTER D WITH DOT ABOVE
+<d>	<period>							ḋ	U1E0B	LATIN SMALL LETTER D WITH DOT ABOVE
+<diaeresis>	<A>							Ä	Adiaeresis	LATIN CAPITAL LETTER A WITH DIAERESIS
+<diaeresis>	<a>							ä	adiaeresis	LATIN SMALL LETTER A WITH DIAERESIS
+<diaeresis>	<acute>							΅	U0385	GREEK DIALYTIKA TONOS
+<diaeresis>	<apostrophe>							΅	U0385	GREEK DIALYTIKA TONOS
+<diaeresis>	<asciitilde>							῁	U1FC1	GREEK DIALYTIKA AND PERISPOMENI
+<diaeresis>	<asterisk>							⍣	U2363	¨ * APL FUNCTIONAL SYMBOL STAR DIAERESIS
+<diaeresis>	<E>							Ë	Ediaeresis	LATIN CAPITAL LETTER E WITH DIAERESIS
+<diaeresis>	<e>							ë	ediaeresis	LATIN SMALL LETTER E WITH DIAERESIS
+<diaeresis>	<grave>							῭	U1FED	GREEK DIALYTIKA AND VARIA
+<diaeresis>	<greater>							⍩	U2369	¨ > APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS
+<diaeresis>	<I>							Ï	Idiaeresis	LATIN CAPITAL LETTER I WITH DIAERESIS
+<diaeresis>	<i>							ï	idiaeresis	LATIN SMALL LETTER I WITH DIAERESIS
+<diaeresis>	<O>							Ö	Odiaeresis	LATIN CAPITAL LETTER O WITH DIAERESIS
+<diaeresis>	<o>							ö	odiaeresis	LATIN SMALL LETTER O WITH DIAERESIS
+<diaeresis>	<u>							ü	udiaeresis	LATIN SMALL LETTER U WITH DIAERESIS
+<diaeresis>	<y>							ÿ	ydiaeresis	LATIN SMALL LETTER Y WITH DIAERESIS
+<diaeresis>	<Y>							Ÿ	U0178	LATIN CAPITAL LETTER Y WITH DIAERESIS
+<Down>	<Down>							↓	downarrow	DOWNWARDS ARROW
+<Down>	<Left>							↵	U21B5	DOWNWARDS ARROW WITH CORNER LEFTWARDS
+<Down>	<minus>							⇣	U21E3	DOWNWARDS DASHED ARROW
+<e>	<1>	<0>						⏨	U23E8	DECIMAL EXPONENT SYMBOL
+<E>	<acute>							É	Eacute	LATIN CAPITAL LETTER E WITH ACUTE
+<e>	<acute>							é	eacute	LATIN SMALL LETTER E WITH ACUTE
+<E>	<apostrophe>							É	Eacute	LATIN CAPITAL LETTER E WITH ACUTE
+<e>	<apostrophe>							é	eacute	LATIN SMALL LETTER E WITH ACUTE
+<E>	<asciicircum>							Ê	Ecircumflex	LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<e>	<asciicircum>							ê	ecircumflex	LATIN SMALL LETTER E WITH CIRCUMFLEX
+<E>	<BackSpace>							Ǝ	U018E	LATIN CAPITAL LETTER REVERSED E
+<e>	<BackSpace>							ɘ	U0258	LATIN SMALL LETTER REVERSED E
+<E>	<bracketleft>							⁅	U2045	LEFT SQUARE BRACKET WITH QUILL
+<E>	<bracketright>							⁆	U2046	RIGHT SQUARE BRACKET WITH QUILL
+<E>	<comma>							Ę	U0118	LATIN CAPITAL LETTER E WITH OGONEK
+<e>	<comma>							ę	U0119	LATIN SMALL LETTER E WITH OGONEK
+<E>	<diaeresis>							Ë	Ediaeresis	LATIN CAPITAL LETTER E WITH DIAERESIS
+<e>	<diaeresis>							ë	ediaeresis	LATIN SMALL LETTER E WITH DIAERESIS
+<e>	<e>							ə	U0259	LATIN SMALL LETTER SCHWA
+<E>	<E>							∃	U2203	THERE EXISTS
+<E>	<equal>							€	EuroSign	EURO SIGN
+<e>	<equal>							€	EuroSign	EURO SIGN
+<E>	<grave>							È	Egrave	LATIN CAPITAL LETTER E WITH GRAVE
+<e>	<grave>							è	egrave	LATIN SMALL LETTER E WITH GRAVE
+<e>	<grave>							ᴇ	U1D07	LATIN LETTER SMALL CAPITAL E
+<E>	<greater>							Ê	Ecircumflex	LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<e>	<greater>							ê	ecircumflex	LATIN SMALL LETTER E WITH CIRCUMFLEX
+<E>	<greater>							♡	U2661	WHITE HEART SUIT
+<e>	<h>							ɛ	U025B	LATIN SMALL LETTER OPEN E
+<E>	<less>							Ě	U011A	LATIN CAPITAL LETTER E WITH CARON
+<e>	<less>							ě	U011B	LATIN SMALL LETTER E WITH CARON
+<E>	<less>							Ǝ	U018E	LATIN CAPITAL LETTER REVERSED E
+<e>	<less>							ɘ	U0258	LATIN SMALL LETTER REVERSED E
+<E>	<minus>							Ē	U0112	LATIN CAPITAL LETTER E WITH MACRON
+<e>	<minus>							ē	U0113	LATIN SMALL LETTER E WITH MACRON
+<E>	<period>							Ė	U0116	LATIN CAPITAL LETTER E WITH DOT ABOVE
+<e>	<period>							ė	U0117	LATIN SMALL LETTER E WITH DOT ABOVE
+<E>	<quotedbl>							Ë	Ediaeresis	LATIN CAPITAL LETTER E WITH DIAERESIS
+<e>	<quotedbl>							ë	ediaeresis	LATIN SMALL LETTER E WITH DIAERESIS
+<e>	<r>							ɚ	U025A	LATIN SMALL LETTER SCHWA WITH HOOK
+<E>	<semicolon>							Ę	U0118	LATIN CAPITAL LETTER E WITH OGONEK
+<e>	<semicolon>							ę	U0119	LATIN SMALL LETTER E WITH OGONEK
+<E>	<underscore>							Ē	U0112	LATIN CAPITAL LETTER E WITH MACRON
+<e>	<underscore>							ē	U0113	LATIN SMALL LETTER E WITH MACRON
+<equal>	<ampersand>	<equal>						⩵	U2A75	TWO CONSECUTIVE EQUALS SIGNS
+<equal>	<bar>	<equal>						≢	U2262	NOT IDENTICAL TO
+<equal>	<C>							€	EuroSign	EURO SIGN
+<equal>	<c>							€	EuroSign	EURO SIGN
+<equal>	<colon>							≕	U2255	EQUALS COLON
+<equal>	<d>	<e>	<f>					≝	U225D	EQUAL TO BY DEFINITION
+<equal>	<d>							₫	U20ab	DONG SIGN
+<equal>	<Down>	<Down>						⇓	U21D3	DOWNWARDS DOUBLE ARROW
+<equal>	<Down>	<Left>						⏎	U23CE	RETURN SYMBOL
+<equal>	<E>							€	EuroSign	EURO SIGN
+<equal>	<e>							€	EuroSign	EURO SIGN
+<equal>	<equal>							≡	U2261	IDENTICAL TO
+<equal>	<greater>							⇒	U21D2	RIGHTWARDS DOUBLE ARROW
+<equal>	<greater>							⇒	U21D2	RIGHTWARDS DOUBLE ARROW
+<equal>	<L>							₤	U20a4	LIRA SIGN
+<equal>	<Left>	<Left>						⇐	U21D0	LEFTWARDS DOUBLE ARROW
+<equal>	<Left>	<Right>						⇔	U21D4	LEFT RIGHT DOUBLE ARROW
+<equal>	<less>							⇐	U21D0	LEFTWARDS DOUBLE ARROW
+<equal>	<N>							₦	U20a6	NAIRA SIGN
+<equal>	<O>							Ő	U0150	LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<equal>	<o>							ő	U0151	LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<equal>	<period>	<equal>						⸎	U2E0E	EDITORIAL CORONIS
+<equal>	<question>							≟	U225f	QUESTIONED EQUAL TO
+<equal>	<R>							₹	U20b9	INDIAN RUPEE SIGN
+<equal>	<r>							₹	U20b9	INDIAN RUPEE SIGN
+<equal>	<Right>	<Left>						⇔	U21D4	LEFT RIGHT DOUBLE ARROW
+<equal>	<Right>	<Right>						⇒	U21D2	RIGHTWARDS DOUBLE ARROW
+<equal>	<slash>							≠	U2260	NOT EQUAL TO
+<equal>	<u>							ű	U0171	LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<equal>	<underscore>							≡	U2261	Err:509
+<equal>	<Up>	<Down>						⇕	U21D5	UP DOWN DOUBLE ARROW
+<equal>	<Up>	<Up>						⇑	U21D1	UPWARDS DOUBLE ARROW
+<equal>	<W>							₩	U20a9	WON SIGN
+<equal>	<Y>							¥	yen	YEN SIGN
+<equal>	<y>							¥	yen	YEN SIGN
+<exclam>	<A>							Ạ	U1EA0	LATIN CAPITAL LETTER A WITH DOT BELOW
+<exclam>	<a>							ạ	U1EA1	LATIN SMALL LETTER A WITH DOT BELOW
+<exclam>	<ampersand>	<exclam>						‼	U203C	DOUBLE EXCLAMATION MARK
+<exclam>	<ampersand>	<question>						⁉	U2049	EXCLAMATION QUESTION MARK
+<exclam>	<asciicircum>							¦	brokenbar	BROKEN BAR
+<exclam>	<asciicircum>							⚠	U26A0	WARNING SIGN 
+<exclam>	<B>							Ḅ	U1E04	LATIN CAPITAL LETTER B WITH DOT BELOW
+<exclam>	<b>							ḅ	U1E05	LATIN SMALL LETTER B WITH DOT BELOW
+<exclam>	<braceleft>	<parenleft>						⊄	U2284	NOT A SUBSET OF
+<exclam>	<D>							Ḍ	U1E0C	LATIN CAPITAL LETTER D WITH DOT BELOW
+<exclam>	<d>							ḍ	U1E0D	LATIN SMALL LETTER D WITH DOT BELOW
+<exclam>	<E>							Ẹ	U1EB8	LATIN CAPITAL LETTER E WITH DOT BELOW
+<exclam>	<e>							ẹ	U1EB9	LATIN SMALL LETTER E WITH DOT BELOW
+<exclam>	<equal>							≠	U2260	NOT EQUAL TO
+<exclam>	<exclam>							¡	exclamdown	INVERTED EXCLAMATION MARK
+<exclam>	<H>							Ḥ	U1E24	LATIN CAPITAL LETTER H WITH DOT BELOW
+<exclam>	<h>							ḥ	U1E25	LATIN SMALL LETTER H WITH DOT BELOW
+<exclam>	<i>	<n>						∉	U2209	NOT AN ELEMENT OF
+<exclam>	<I>							Ị	U1ECA	LATIN CAPITAL LETTER I WITH DOT BELOW
+<exclam>	<i>							ị	U1ECB	LATIN SMALL LETTER I WITH DOT BELOW
+<exclam>	<K>							Ḳ	U1E32	LATIN CAPITAL LETTER K WITH DOT BELOW
+<exclam>	<k>							ḳ	U1E33	LATIN SMALL LETTER K WITH DOT BELOW
+<exclam>	<L>							Ḷ	U1E36	LATIN CAPITAL LETTER L WITH DOT BELOW
+<exclam>	<l>							ḷ	U1E37	LATIN SMALL LETTER L WITH DOT BELOW
+<exclam>	<less>	<3>						❣	U2763	HEAVY HEART EXCLAMATION MARK ORNAMENT
+<exclam>	<less>	<greater>						≸	U2278	NEITHER LESS-THAN NOR GREATER-THAN
+<exclam>	<M>							Ṃ	U1E42	LATIN CAPITAL LETTER M WITH DOT BELOW
+<exclam>	<m>							ṃ	U1E43	LATIN SMALL LETTER M WITH DOT BELOW
+<exclam>	<Multi_key>							︎	UFE0E	Text selector
+<exclam>	<N>							Ṇ	U1E46	LATIN CAPITAL LETTER N WITH DOT BELOW
+<exclam>	<n>							ṇ	U1E47	LATIN SMALL LETTER N WITH DOT BELOW
+<exclam>	<O>							Ọ	U1ECC	LATIN CAPITAL LETTER O WITH DOT BELOW
+<exclam>	<o>							ọ	U1ECD	LATIN SMALL LETTER O WITH DOT BELOW
+<exclam>	<Ohorn>							Ợ	U1EE2	LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW
+<exclam>	<ohorn>							ợ	U1EE3	LATIN SMALL LETTER O WITH HORN AND DOT BELOW
+<exclam>	<period>							Ꞌ	UA78B	LATIN CAPITAL LETTER SALTILLO
+<exclam>	<plus>	<O>						Ợ	U1EE2	LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW
+<exclam>	<plus>	<o>						ợ	U1EE3	LATIN SMALL LETTER O WITH HORN AND DOT BELOW
+<exclam>	<plus>	<u>						ự	U1EF1	LATIN SMALL LETTER U WITH HORN AND DOT BELOW
+<exclam>	<question>							‽	U203D	INTERROBANG
+<exclam>	<question>							‽	U203D	INTERROBANG
+<exclam>	<R>							Ṛ	U1E5A	LATIN CAPITAL LETTER R WITH DOT BELOW
+<exclam>	<r>							ṛ	U1E5B	LATIN SMALL LETTER R WITH DOT BELOW
+<exclam>	<S>							Ṣ	U1E62	LATIN CAPITAL LETTER S WITH DOT BELOW
+<exclam>	<s>							ṣ	U1E63	LATIN SMALL LETTER S WITH DOT BELOW
+<exclam>	<T>							Ṭ	U1E6C	LATIN CAPITAL LETTER T WITH DOT BELOW
+<exclam>	<t>							ṭ	U1E6D	LATIN SMALL LETTER T WITH DOT BELOW
+<exclam>	<u>							ụ	U1EE5	LATIN SMALL LETTER U WITH DOT BELOW
+<exclam>	<uhorn>							ự	U1EF1	LATIN SMALL LETTER U WITH HORN AND DOT BELOW
+<exclam>	<underscore>	<period>						ꞌ	UA78C	LATIN SMALL LETTER SALTILLO
+<exclam>	<V>							Ṿ	U1E7E	LATIN CAPITAL LETTER V WITH DOT BELOW
+<exclam>	<v>							ṿ	U1E7F	LATIN SMALL LETTER V WITH DOT BELOW
+<exclam>	<W>							Ẉ	U1E88	LATIN CAPITAL LETTER W WITH DOT BELOW
+<exclam>	<w>							ẉ	U1E89	LATIN SMALL LETTER W WITH DOT BELOW
+<exclam>	<Y>							Ỵ	U1EF4	LATIN CAPITAL LETTER Y WITH DOT BELOW
+<exclam>	<y>							ỵ	U1EF5	LATIN SMALL LETTER Y WITH DOT BELOW
+<exclam>	<Z>							Ẓ	U1E92	LATIN CAPITAL LETTER Z WITH DOT BELOW
+<exclam>	<z>							ẓ	U1E93	LATIN SMALL LETTER Z WITH DOT BELOW
+<exclamdown>	<questiondown>							⸘	U2E18	"INVERTED INTERROBANG (if you have a ¡ key. Otherwise...? ""?i"" maybe?"
+<F>	<BackSpace>							ꟻ	UA7FB	LATIN EPIGRAPHIC LETTER REVERSED F
+<f>	<comma>							ƒ	U0192	LATIN SMALL LETTER F WITH HOOK
+<f>	<Down>							☟	U261F	WHITE DOWN POINTING INDEX
+<f>	<f>							ﬀ	Ufb00	LATIN SMALL LIGATURE FF
+<f>	<f>							ﬀ	UFB00	LATIN SMALL LIGATURE FF
+<f>	<grave>							ꜰ	UA730	LATIN LETTER SMALL CAPITAL F
+<f>	<i>							ﬁ	Ufb01	LATIN SMALL LIGATURE FI
+<F>	<i>							ﬃ	Ufb03	LATIN SMALL LIGATURE FFI
+<f>	<i>							ﬁ	UFB01	LATIN SMALL LIGATURE FI
+<F>	<i>							ﬃ	UFB03	LATIN SMALL LIGATURE FFI
+<f>	<l>							ﬂ	Ufb02	LATIN SMALL LIGATURE FL
+<F>	<l>							ﬄ	Ufb04	LATIN SMALL LIGATURE FFL
+<f>	<l>							ﬂ	UFB02	LATIN SMALL LIGATURE FL
+<F>	<l>							ﬄ	UFB04	LATIN SMALL LIGATURE FFL
+<F>	<Left>							☚	U261A	BLACK LEFT POINTING INDEX
+<f>	<Left>							☜	U261C	WHITE LEFT POINTING INDEX
+<f>	<less>	<3>						❦	U2766	FLORAL HEART
+<F>	<less>							ꟻ	UA7FB	LATIN EPIGRAPHIC LETTER REVERSED F
+<f>	<p>	<Down>						✎	U270E	LOWER RIGHT PENCIL
+<f>	<p>	<Right>						✏	U270F	PENCIL
+<f>	<p>	<Up>						✐	U2710	UPPER RIGHT PENCIL
+<F>	<period>							Ḟ	U1E1E	LATIN CAPITAL LETTER F WITH DOT ABOVE
+<f>	<period>							ḟ	U1E1F	LATIN SMALL LETTER F WITH DOT ABOVE
+<F>	<r>							₣	U20a3	FRENCH FRANC SIGN
+<F>	<Right>							☛	U261B	BLACK RIGHT POINTING INDEX
+<f>	<Right>							☞	U261E	WHITE RIGHT POINTING INDEX
+<F>	<S>	<I>						⁨	U2068	FIRST STRONG ISOLATE
+<f>	<s>							ſ	U017f	LATIN SMALL LETTER LONG S
+<f>	<S>							ſ	U017f	LATIN SMALL LETTER LONG S
+<f>	<t>							ﬅ	UFB05	LATIN SMALL LIGATURE LONG S T
+<f>	<Up>							☝	U261D	WHITE UP POINTING INDEX
+<f>	<v>							✌	U270C	VICTORY HAND
+<f>	<w>							✍	U270D	WRITING HAND
+<g>	<apostrophe>							ɠ	U0260	LATIN SMALL LETTER G WITH HOOK
+<G>	<apostrophe>							ʛ	U029B	LATIN LETTER SMALL CAPITAL G WITH HOOK
+<G>	<breve>							Ğ	U011E	LATIN CAPITAL LETTER G WITH BREVE
+<g>	<breve>							ğ	U011F	LATIN SMALL LETTER G WITH BREVE
+<G>	<comma>							Ģ	U0122	LATIN CAPITAL LETTER G WITH CEDILLA
+<g>	<comma>							ģ	U0123	LATIN SMALL LETTER G WITH CEDILLA
+<g>	<g>							ɡ	U0261	LATIN SMALL LETTER SCRIPT G
+<g>	<grave>							ɢ	U0262	LATIN LETTER SMALL CAPITAL G
+<g>	<h>							ɣ	U0263	LATIN SMALL LETTER GAMMA
+<G>	<parenleft>							Ğ	U011E	LATIN CAPITAL LETTER G WITH BREVE
+<g>	<parenleft>							ğ	U011F	LATIN SMALL LETTER G WITH BREVE
+<G>	<period>							Ġ	U0120	LATIN CAPITAL LETTER G WITH DOT ABOVE
+<g>	<period>							ġ	U0121	LATIN SMALL LETTER G WITH DOT ABOVE
+<g>	<y>							ɟ	U025F	LATIN SMALL LETTER DOTLESS J WITH STROKE
+<grave>	<A>							À	Agrave	LATIN CAPITAL LETTER A WITH GRAVE
+<grave>	<a>							à	agrave	LATIN SMALL LETTER A WITH GRAVE
+<grave>	<Abreve>							Ằ	U1EB0	LATIN CAPITAL LETTER A WITH BREVE AND GRAVE
+<grave>	<abreve>							ằ	U1EB1	LATIN SMALL LETTER A WITH BREVE AND GRAVE
+<grave>	<Acircumflex>							Ầ	U1EA6	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE
+<grave>	<acircumflex>							ầ	U1EA7	LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<A>						Ầ	U1EA6	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<a>						ầ	U1EA7	LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<E>						Ề	U1EC0	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<e>						ề	U1EC1	LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<O>						Ồ	U1ED2	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE
+<grave>	<asciicircum>	<o>						ồ	U1ED3	LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+<grave>	<b>	<A>						Ằ	U1EB0	LATIN CAPITAL LETTER A WITH BREVE AND GRAVE
+<grave>	<b>	<a>						ằ	U1EB1	LATIN SMALL LETTER A WITH BREVE AND GRAVE
+<grave>	<E>							È	Egrave	LATIN CAPITAL LETTER E WITH GRAVE
+<grave>	<e>							è	egrave	LATIN SMALL LETTER E WITH GRAVE
+<grave>	<Ecircumflex>							Ề	U1EC0	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE
+<grave>	<ecircumflex>							ề	U1EC1	LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+<grave>	<Emacron>							Ḕ	U1E14	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE
+<grave>	<emacron>							ḕ	U1E15	LATIN SMALL LETTER E WITH MACRON AND GRAVE
+<grave>	<grave>							“	U201C	LEFT DOUBLE QUOTATION MARK
+<grave>	<I>							Ì	Igrave	LATIN CAPITAL LETTER I WITH GRAVE
+<grave>	<i>							ì	igrave	LATIN SMALL LETTER I WITH GRAVE
+<grave>	<macron>	<E>						Ḕ	U1E14	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE
+<grave>	<macron>	<e>						ḕ	U1E15	LATIN SMALL LETTER E WITH MACRON AND GRAVE
+<grave>	<macron>	<O>						Ṑ	U1E50	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE
+<grave>	<macron>	<o>						ṑ	U1E51	LATIN SMALL LETTER O WITH MACRON AND GRAVE
+<grave>	<minus>	<apostrophe>						⚞	U269E	THREE LINES CONVERGING RIGHT
+<grave>	<N>							Ǹ	U01F8	LATIN CAPITAL LETTER N WITH GRAVE
+<grave>	<n>							ǹ	U01F9	LATIN SMALL LETTER N WITH GRAVE
+<grave>	<O>							Ò	Ograve	LATIN CAPITAL LETTER O WITH GRAVE
+<grave>	<o>							ò	ograve	LATIN SMALL LETTER O WITH GRAVE
+<grave>	<Ocircumflex>							Ồ	U1ED2	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE
+<grave>	<ocircumflex>							ồ	U1ED3	LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+<grave>	<Ohorn>							Ờ	U1EDC	LATIN CAPITAL LETTER O WITH HORN AND GRAVE
+<grave>	<ohorn>							ờ	U1EDD	LATIN SMALL LETTER O WITH HORN AND GRAVE
+<grave>	<Omacron>							Ṑ	U1E50	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE
+<grave>	<omacron>							ṑ	U1E51	LATIN SMALL LETTER O WITH MACRON AND GRAVE
+<grave>	<plus>	<O>						Ờ	U1EDC	LATIN CAPITAL LETTER O WITH HORN AND GRAVE
+<grave>	<plus>	<o>						ờ	U1EDD	LATIN SMALL LETTER O WITH HORN AND GRAVE
+<grave>	<plus>	<u>						ừ	U1EEB	LATIN SMALL LETTER U WITH HORN AND GRAVE
+<grave>	<quotedbl>	<u>						ǜ	U01DC	LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE
+<grave>	<space>							‘	U2018	LEFT SINGLE QUOTATION MARK
+<grave>	<u>							ù	ugrave	LATIN SMALL LETTER U WITH GRAVE
+<grave>	<udiaeresis>							ǜ	U01DC	LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE
+<grave>	<uhorn>							ừ	U1EEB	LATIN SMALL LETTER U WITH HORN AND GRAVE
+<grave>	<underscore>	<E>						Ḕ	U1E14	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE
+<grave>	<underscore>	<e>						ḕ	U1E15	LATIN SMALL LETTER E WITH MACRON AND GRAVE
+<grave>	<underscore>	<O>						Ṑ	U1E50	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE
+<grave>	<underscore>	<o>						ṑ	U1E51	LATIN SMALL LETTER O WITH MACRON AND GRAVE
+<grave>	<W>							Ẁ	U1E80	LATIN CAPITAL LETTER W WITH GRAVE
+<grave>	<w>							ẁ	U1E81	LATIN SMALL LETTER W WITH GRAVE
+<grave>	<Y>							Ỳ	U1EF2	LATIN CAPITAL LETTER Y WITH GRAVE
+<grave>	<y>							ỳ	U1EF3	LATIN SMALL LETTER Y WITH GRAVE
+<greater>	<A>							Â	Acircumflex	LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<greater>	<a>							â	acircumflex	LATIN SMALL LETTER A WITH CIRCUMFLEX
+<greater>	<apostrophe>							’	U2019	RIGHT SINGLE QUOTATION MARK
+<greater>	<diaeresis>							⍩	U2369	> ¨ APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS
+<greater>	<E>							Ê	Ecircumflex	LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<greater>	<e>							ê	ecircumflex	LATIN SMALL LETTER E WITH CIRCUMFLEX
+<greater>	<equal>							≥	U2265	GREATER-THAN OR EQUAL TO
+<greater>	<equal>							≥	U2265	GREATER-THAN OR EQUAL TO
+<greater>	<greater>							»	guillemotright	RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+<greater>	<I>							Î	Icircumflex	LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<greater>	<i>							î	icircumflex	LATIN SMALL LETTER I WITH CIRCUMFLEX
+<greater>	<less>							⋄	U22c4	> < DIAMOND OPERATOR
+<greater>	<O>							Ô	Ocircumflex	LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<greater>	<o>							ô	ocircumflex	LATIN SMALL LETTER O WITH CIRCUMFLEX
+<greater>	<parenright>							⟩	U27E9	MATHEMATICAL RIGHT ANGLE BRACKET
+<greater>	<quotedbl>							”	U201d	RIGHT DOUBLE QUOTATION MARK
+<greater>	<u>							û	ucircumflex	LATIN SMALL LETTER U WITH CIRCUMFLEX
+<greater>	<underscore>							≥	U2265	> _ GREATER-THAN OR EQUAL TO
+<h>	<apostrophe>							ɦ	U0266	LATIN SMALL LETTER H WITH HOOK
+<H>	<comma>							Ḩ	U1E28	LATIN CAPITAL LETTER H WITH CEDILLA
+<h>	<comma>							ḩ	U1E29	LATIN SMALL LETTER H WITH CEDILLA
+<h>	<grave>							ʜ	U029C	LATIN LETTER SMALL CAPITAL H
+<h>	<h>							ɥ	U0265	LATIN SMALL LETTER TURNED H
+<h>	<minus>							ℏ	U210F	PLANCK CONSTANT OVER TWO PI
+<h>	<p>							ℎ	U210E	PLANCK CONSTANT
+<I>	<acute>							Í	Iacute	LATIN CAPITAL LETTER I WITH ACUTE
+<i>	<acute>							í	iacute	LATIN SMALL LETTER I WITH ACUTE
+<I>	<apostrophe>							Í	Iacute	LATIN CAPITAL LETTER I WITH ACUTE
+<i>	<apostrophe>							í	iacute	LATIN SMALL LETTER I WITH ACUTE
+<I>	<asciicircum>							Î	Icircumflex	LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<i>	<asciicircum>							î	icircumflex	LATIN SMALL LETTER I WITH CIRCUMFLEX
+<I>	<asciitilde>							Ĩ	U0128	LATIN CAPITAL LETTER I WITH TILDE
+<i>	<asciitilde>							ĩ	U0129	LATIN SMALL LETTER I WITH TILDE
+<I>	<bar>							ꟾ	UA7FE	LATIN EPIGRAPHIC LETTER I LONGA
+<I>	<comma>							Į	U012E	LATIN CAPITAL LETTER I WITH OGONEK
+<i>	<comma>							į	U012F	LATIN SMALL LETTER I WITH OGONEK
+<I>	<diaeresis>							Ï	Idiaeresis	LATIN CAPITAL LETTER I WITH DIAERESIS
+<i>	<diaeresis>							ï	idiaeresis	LATIN SMALL LETTER I WITH DIAERESIS
+<I>	<grave>							Ì	Igrave	LATIN CAPITAL LETTER I WITH GRAVE
+<i>	<grave>							ì	igrave	LATIN SMALL LETTER I WITH GRAVE
+<i>	<grave>							ɪ	U026A	LATIN LETTER SMALL CAPITAL I
+<I>	<greater>							Î	Icircumflex	LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<i>	<greater>							î	icircumflex	LATIN SMALL LETTER I WITH CIRCUMFLEX
+<i>	<h>							ɪ	U026A	LATIN LETTER SMALL CAPITAL I
+<I>	<H>							ɪ	U026A	LATIN LETTER SMALL CAPITAL I
+<I>	<J>							Ĳ	U0132	LATIN CAPITAL LIGATURE IJ
+<I>	<j>							Ĳ	U0132	LATIN CAPITAL LIGATURE IJ
+<i>	<j>							ĳ	U0133	LATIN SMALL LIGATURE IJ
+<I>	<m>							ℑ	U2111	BLACK-LETTER CAPTIAL I (Imaginary Part)
+<I>	<minus>							Ī	U012A	LATIN CAPITAL LETTER I WITH MACRON
+<i>	<minus>							ī	U012B	LATIN SMALL LETTER I WITH MACRON
+<i>	<n>							∈	U2208	ELEMENT OF
+<I>	<period>							İ	U0130	LATIN CAPITAL LETTER I WITH DOT ABOVE
+<i>	<period>							ı	U0131	LATIN SMALL LETTER DOTLESS I
+<I>	<quotedbl>							Ï	Idiaeresis	LATIN CAPITAL LETTER I WITH DIAERESIS
+<i>	<quotedbl>							ï	idiaeresis	LATIN SMALL LETTER I WITH DIAERESIS
+<I>	<semicolon>							Į	U012E	LATIN CAPITAL LETTER I WITH OGONEK
+<i>	<semicolon>							į	U012F	LATIN SMALL LETTER I WITH OGONEK
+<I>	<underscore>							Ī	U012A	LATIN CAPITAL LETTER I WITH MACRON
+<i>	<underscore>							ī	U012B	LATIN SMALL LETTER I WITH MACRON
+<J>	<acute>							J́		# LATIN CAPITAL LETTER J U004A with COMBINING ACUTE ACCENT U0301
+<j>	<acute>							j́		# LATIN SMALL LETTER J U006A with COMBINING ACUTE ACCENT U0301
+<J>	<apostrophe>							J́		# LATIN CAPITAL LETTER J U004A with COMBINING ACUTE ACCENT U0301
+<j>	<apostrophe>							j́		# LATIN SMALL LETTER J U006A with COMBINING ACUTE ACCENT U0301
+<j>	<grave>							ᴊ	U1D0A	LATIN LETTER SMALL CAPITAL J
+<j>	<period>							ȷ	U0237	LATIN SMALL LETTER DOTLESS J
+<K>	<comma>							Ķ	U0136	LATIN CAPITAL LETTER K WITH CEDILLA
+<k>	<comma>							ķ	U0137	LATIN SMALL LETTER K WITH CEDILLA
+<k>	<grave>							ᴋ	U1D0B	LATIN LETTER SMALL CAPITAL K
+<k>	<k>							ĸ	U0138	LATIN SMALL LETTER KRA
+<k>	<p>							Kevin.Pye@gmail.com		
+<k>	<s>							ʘ	U0298	LATIN LETTER BILABIAL CLICK (kiss sound)
+<KP_Divide>	<b>							ƀ	U0180	LATIN SMALL LETTER B WITH STROKE
+<KP_Divide>	<D>							Đ	Dstroke	LATIN CAPITAL LETTER D WITH STROKE
+<KP_Divide>	<d>							đ	dstroke	LATIN SMALL LETTER D WITH STROKE
+<KP_Divide>	<G>							Ǥ	U01E4	LATIN CAPITAL LETTER G WITH STROKE
+<KP_Divide>	<g>							ǥ	U01E5	LATIN SMALL LETTER G WITH STROKE
+<KP_Divide>	<H>							Ħ	U0126	LATIN CAPITAL LETTER H WITH STROKE
+<KP_Divide>	<h>							ħ	U0127	LATIN SMALL LETTER H WITH STROKE
+<KP_Divide>	<I>							Ɨ	U0197	LATIN CAPITAL LETTER I WITH STROKE
+<KP_Divide>	<i>							ɨ	U0268	LATIN SMALL LETTER I WITH STROKE
+<KP_Divide>	<L>							Ł	U0141	LATIN CAPITAL LETTER L WITH STROKE
+<KP_Divide>	<l>							ł	U0142	LATIN SMALL LETTER L WITH STROKE
+<KP_Divide>	<leftarrow>							↚	U219A	LEFTWARDS ARROW WITH STROKE
+<KP_Divide>	<O>							Ø	Oslash	LATIN CAPITAL LETTER O WITH STROKE
+<KP_Divide>	<o>							ø	oslash	LATIN SMALL LETTER O WITH STROKE
+<KP_Divide>	<rightarrow>							↛	U219B	RIGHTWARDS ARROW WITH STROKE
+<KP_Divide>	<T>							Ŧ	U0166	LATIN CAPITAL LETTER T WITH STROKE
+<KP_Divide>	<t>							ŧ	U0167	LATIN SMALL LETTER T WITH STROKE
+<KP_Divide>	<Z>							Ƶ	U01B5	LATIN CAPITAL LETTER Z WITH STROKE
+<KP_Divide>	<z>							ƶ	U01B6	LATIN SMALL LETTER Z WITH STROKE
+<KP_Multiply>	<KP_Multiply>							∗	U2217	ASTERISK OPERATOR
+<l>	<3>							ɮ	U026E	LATIN SMALL LETTER LEZH
+<L>	<ampersand>	<L>						Ỻ	U1EFA	LATIN CAPITAL LETTER MIDDLE-WELSH LL
+<l>	<ampersand>	<l>						ỻ	U1EFB	LATIN SMALL LETTER MIDDLE-WELSH LL
+<L>	<apostrophe>							Ĺ	U0139	LATIN CAPITAL LETTER L WITH ACUTE
+<l>	<apostrophe>							ĺ	U013A	LATIN SMALL LETTER L WITH ACUTE
+<L>	<apostrophe>							｣	UFF63	HALFWIDTH RIGHT CORNER BRACKET
+<L>	<bracketleft>							⌊	U230A	LEFT FLOOR
+<L>	<bracketright>							⌋	U230B	RIGHT FLOOR
+<L>	<comma>							Ļ	U013B	LATIN CAPITAL LETTER L WITH CEDILLA
+<l>	<comma>							ļ	U013C	LATIN SMALL LETTER L WITH CEDILLA
+<l>	<comma>							ɭ	U026D	LATIN SMALL LETTER L WITH RETROFLEX HOOK
+<L>	<equal>							₤	U20a4	LIRA SIGN
+<l>	<grave>							ʟ	U029F	LATIN LETTER SMALL CAPITAL L
+<l>	<h>							ɬ	U026C	LATIN SMALL LETTER L WITH BELT
+<L>	<L>	<A>	<P>					🖖	U1F596	RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS
+<l>	<l>							ℓ	U2113	SCRIPT SMALL L
+<L>	<less>							Ľ	U013D	LATIN CAPITAL LETTER L WITH CARON
+<l>	<less>							ľ	U013E	LATIN SMALL LETTER L WITH CARON
+<L>	<minus>							£	sterling	POUND SIGN
+<l>	<minus>							£	sterling	POUND SIGN
+<L>	<parenleft>							⌞	U231E	BOTTOM LEFT CORNER
+<L>	<parenright>							⌟	U231F	BOTTOM RIGHT CORNER
+<L>	<quotedbl>							』	U300F	RIGHT WHITE CORNER BRACKET
+<L>	<R>	<E>						‪	U202A	LEFT-TO-RIGHT EMBEDDING
+<L>	<R>	<I>						⁦	U2066	LEFT-TO-RIGHT ISOLATE
+<L>	<R>	<M>						‎	U200E	LEFT-TO-RIGHT MARK
+<L>	<R>	<O>						‭	U202D	LEFT-TO-RIGHT OVERRIDE
+<L>	<slash>							Ł	U0141	LATIN CAPITAL LETTER L WITH STROKE
+<l>	<slash>							ł	U0142	LATIN SMALL LETTER L WITH STROKE
+<L>	<underscore>	<bracketleft>						⸤	U2E24	BOTTOM LEFT HALF BRACKET
+<L>	<underscore>	<bracketright>						⸥	U2E25	BOTTOM RIGHT HALF BRACKET
+<Left>	<asciitilde>							⇜	U21DC	LEFTWARDS SQUIGGLE ARROW
+<Left>	<bar>							⇤	U21E4	LEFTWARDS ARROW TO BAR
+<Left>	<c>							↺	U21BA	ANTICLOCKWISE OPEN CIRCLE ARROW
+<Left>	<f>	<less>	<3>					❧	U2767	ROTATED FLORAL HEART BULLET
+<Left>	<Left>							←	leftarrow	LEFTWARDS ARROW
+<Left>	<less>	<3>						❥	U2765	ROTATED HEAVY BLACK HEART BULLET
+<Left>	<minus>							⇠	U21E0	LEFTWARDS DASHED ARROW
+<Left>	<o>							⟲	U27F2	ANTICLOCKWISE GAPPED CIRCLE ARROW
+<Left>	<Right>							↔	U2194	LEFT RIGHT ARROW (kragen's)
+<less>	<3>							♥	U2665	BLACK HEART SUIT
+<less>	<3>							♥	U2665	BLACK HEART SUIT
+<less>	<9>	<apostrophe>						‛	U201B	SINGLE HIGH-REVERSED-9 QUOTATION MARK
+<less>	<9>	<quotedbl>						‟	U201F	DOUBLE HIGH-REVERSED-9 QUOTATION MARK
+<less>	<apostrophe>							‘	U2018	LEFT SINGLE QUOTATION MARK
+<less>	<bar>							↵	U21B5	DOWNWARDS ARROW WITH CORNER LEFTWARDS
+<less>	<braceright>							♠	U2660	BLACK SPADE SUIT
+<less>	<C>							Č	U010C	LATIN CAPITAL LETTER C WITH CARON
+<less>	<c>							č	U010D	LATIN SMALL LETTER C WITH CARON
+<less>	<comma>	<comma>						⹂	U2E42	DOUBLE LOW-REVERSED-9 QUOTATION MARK
+<less>	<D>							Ď	U010E	LATIN CAPITAL LETTER D WITH CARON
+<less>	<d>							ď	U010F	LATIN SMALL LETTER D WITH CARON
+<less>	<e>	<h>						ɜ	U025C	LATIN SMALL LETTER REVERSED OPEN E
+<less>	<e>	<r>						ɝ	U025D	LATIN SMALL LETTER REVERSED OPEN E WITH HOOK
+<less>	<E>							Ě	U011A	LATIN CAPITAL LETTER E WITH CARON
+<less>	<e>							ě	U011B	LATIN SMALL LETTER E WITH CARON
+<less>	<equal>							≤	U2264	LESS-THAN OR EQUAL TO
+<less>	<equal>							≤	U2264	LESS-THAN OR EQUAL TO
+<less>	<greater>							⋄	U22c4	< > DIAMOND OPERATOR
+<less>	<greater>							♢	U2662	WHITE DIAMOND SUIT
+<less>	<L>							Ľ	U013D	LATIN CAPITAL LETTER L WITH CARON
+<less>	<l>							ľ	U013E	LATIN SMALL LETTER L WITH CARON
+<less>	<less>							«	guillemotleft	LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+<less>	<minus>	<equal>	<greater>					⇔	U21D4	LEFT RIGHT DOUBLE ARROW 
+<less>	<minus>	<greater>						↔	U2194	LEFT RIGHT ARROW (kragen's)
+<less>	<minus>							←	U2190	LEFTWARDS ARROW
+<less>	<N>							Ň	U0147	LATIN CAPITAL LETTER N WITH CARON
+<less>	<n>							ň	U0148	LATIN SMALL LETTER N WITH CARON
+<less>	<parenleft>							⟨	U27E8	MATHEMATICAL LEFT ANGLE BRACKET
+<less>	<quotedbl>							“	U201c	LEFT DOUBLE QUOTATION MARK
+<less>	<R>							Ř	U0158	LATIN CAPITAL LETTER R WITH CARON
+<less>	<r>							ř	U0159	LATIN SMALL LETTER R WITH CARON
+<less>	<S>							Š	U0160	LATIN CAPITAL LETTER S WITH CARON
+<less>	<s>							š	U0161	LATIN SMALL LETTER S WITH CARON
+<less>	<space>							ˇ	caron	CARON
+<less>	<T>							Ť	U0164	LATIN CAPITAL LETTER T WITH CARON
+<less>	<t>							ť	U0165	LATIN SMALL LETTER T WITH CARON
+<less>	<underscore>							≤	U2264	< _ LESS-THAN OR EQUAL TO
+<less>	<X>	<greater>						❖	U2756	BLACK DIAMOND MINUS WHITE X
+<less>	<Z>							Ž	U017D	LATIN CAPITAL LETTER Z WITH CARON
+<less>	<z>							ž	U017E	LATIN SMALL LETTER Z WITH CARON
+<m>	<grave>							ᴍ	U1D0D	LATIN LETTER SMALL CAPITAL M
+<M>	<period>							Ṁ	U1E40	LATIN CAPITAL LETTER M WITH DOT ABOVE
+<m>	<period>							ṁ	U1E41	LATIN SMALL LETTER M WITH DOT ABOVE
+<m>	<slash>							₥	U20a5	MILL SIGN
+<M>	<slash>							ꟿ	UA7FF	LATIN EPIGRAPHIC LETTER ARCHAIC M
+<m>	<u>							µ	mu	MICRO SIGN
+<M>	<W>							ꟽ	UA7FD	LATIN EPIGRAPHIC LETTER INVERTED M
+<macron>	<A>							Ā	U0100	LATIN CAPITAL LETTER A WITH MACRON
+<macron>	<a>							ā	U0101	LATIN SMALL LETTER A WITH MACRON
+<macron>	<Adiaeresis>							Ǟ	U01DE	LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON
+<macron>	<adiaeresis>							ǟ	U01DF	LATIN SMALL LETTER A WITH DIAERESIS AND MACRON
+<macron>	<AE>							Ǣ	U01E2	LATIN CAPITAL LETTER AE WITH MACRON
+<macron>	<ae>							ǣ	U01E3	LATIN SMALL LETTER AE WITH MACRON
+<macron>	<asciitilde>	<O>						Ȭ	U022C	LATIN CAPITAL LETTER O WITH TILDE AND MACRON
+<macron>	<asciitilde>	<o>						ȭ	U022D	LATIN SMALL LETTER O WITH TILDE AND MACRON
+<macron>	<E>							Ē	U0112	LATIN CAPITAL LETTER E WITH MACRON
+<macron>	<e>							ē	U0113	LATIN SMALL LETTER E WITH MACRON
+<macron>	<exclam>	<L>						Ḹ	U1E38	LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON
+<macron>	<exclam>	<l>						ḹ	U1E39	LATIN SMALL LETTER L WITH DOT BELOW AND MACRON
+<macron>	<exclam>	<R>						Ṝ	U1E5C	LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON
+<macron>	<exclam>	<r>						ṝ	U1E5D	LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+<macron>	<G>							Ḡ	U1E20	LATIN CAPITAL LETTER G WITH MACRON
+<macron>	<g>							ḡ	U1E21	LATIN SMALL LETTER G WITH MACRON
+<macron>	<I>							Ī	U012A	LATIN CAPITAL LETTER I WITH MACRON
+<macron>	<i>							ī	U012B	LATIN SMALL LETTER I WITH MACRON
+<macron>	<O>							Ō	U014C	LATIN CAPITAL LETTER O WITH MACRON
+<macron>	<o>							ō	U014D	LATIN SMALL LETTER O WITH MACRON
+<macron>	<Odiaeresis>							Ȫ	U022A	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON
+<macron>	<odiaeresis>							ȫ	U022B	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON
+<macron>	<Otilde>							Ȭ	U022C	LATIN CAPITAL LETTER O WITH TILDE AND MACRON
+<macron>	<otilde>							ȭ	U022D	LATIN SMALL LETTER O WITH TILDE AND MACRON
+<macron>	<period>	<A>						Ǡ	U01E0	LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON
+<macron>	<period>	<a>						ǡ	U01E1	LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON
+<macron>	<period>	<O>						Ȱ	U0230	LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON
+<macron>	<period>	<o>						ȱ	U0231	LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON
+<macron>	<quotedbl>	<A>						Ǟ	U01DE	LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON
+<macron>	<quotedbl>	<a>						ǟ	U01DF	LATIN SMALL LETTER A WITH DIAERESIS AND MACRON
+<macron>	<quotedbl>	<O>						Ȫ	U022A	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON
+<macron>	<quotedbl>	<o>						ȫ	U022B	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON
+<macron>	<quotedbl>	<u>						ǖ	U01D6	LATIN SMALL LETTER U WITH DIAERESIS AND MACRON
+<macron>	<semicolon>	<O>						Ǭ	U01EC	LATIN CAPITAL LETTER O WITH OGONEK AND MACRON
+<macron>	<semicolon>	<o>						ǭ	U01ED	LATIN SMALL LETTER O WITH OGONEK AND MACRON
+<macron>	<u>							ū	U016B	LATIN SMALL LETTER U WITH MACRON
+<macron>	<udiaeresis>							ǖ	U01D6	LATIN SMALL LETTER U WITH DIAERESIS AND MACRON
+<macron>	<Y>							Ȳ	U0232	LATIN CAPITAL LETTER Y WITH MACRON
+<macron>	<y>							ȳ	U0233	LATIN SMALL LETTER Y WITH MACRON
+<minus>	<2>	<M>						⸺	U2E3A	TWO-EM DASH
+<minus>	<3>	<M>						⸻	U2E3B	THREE-EM DASH
+<minus>	<A>							Ā	U0100	LATIN CAPITAL LETTER A WITH MACRON
+<minus>	<a>							ā	U0101	LATIN SMALL LETTER A WITH MACRON
+<minus>	<a>							ª	U00AA	FEMININE ORDINAL INDICATOR
+<minus>	<asciicircum>							¯	macron	MACRON
+<minus>	<asciicircum>							↑	uparrow	UPWARDS ARROW
+<minus>	<asciitilde>	<minus>						―	U2015	HORIZONTAL BAR
+<minus>	<backslash>							⍀	U2340	- \ APL FUNCTIONAL SYMBOL BACKSLASH BAR
+<minus>	<colon>							÷	division	DIVISION SIGN
+<minus>	<comma>							¬	notsign	NOT SIGN
+<minus>	<comma>							¬	U00AC	NOT SIGN
+<minus>	<D>							Đ	Dstroke	LATIN CAPITAL LETTER D WITH STROKE
+<minus>	<d>							đ	dstroke	LATIN SMALL LETTER D WITH STROKE
+<minus>	<E>							Ē	U0112	LATIN CAPITAL LETTER E WITH MACRON
+<minus>	<e>							ē	U0113	LATIN SMALL LETTER E WITH MACRON
+<minus>	<equal>							⹀	U2E40	DOUBLE HYPHEN
+<minus>	<greater>							→	U2192	RIGHTWARDS ARROW
+<minus>	<greater>							→	rightarrow	RIGHTWARDS ARROW
+<minus>	<I>							Ī	U012A	LATIN CAPITAL LETTER I WITH MACRON
+<minus>	<i>							ī	U012B	LATIN SMALL LETTER I WITH MACRON
+<minus>	<L>							£	sterling	POUND SIGN
+<minus>	<l>							£	sterling	POUND SIGN
+<minus>	<less>							←	leftarrow	LEFTWARDS ARROW
+<minus>	<minus>	<minus>						—	U2014	EM DASH
+<minus>	<minus>	<minus>						—	U2014	EM DASH
+<minus>	<minus>	<period>						–	U2013	EN DASH
+<minus>	<minus>	<period>						–	U2013	EN DASH
+<minus>	<minus>	<space>						­	U00ad	SOFT HYPHEN
+<minus>	<minus>	<space>						"–	"	EN DASH (followed by space)	
+<minus>	<O>							Ō	U014C	LATIN CAPITAL LETTER O WITH MACRON
+<minus>	<o>							ō	U014D	LATIN SMALL LETTER O WITH MACRON
+<minus>	<o>							º	U00BA	MASCULINE ORDINAL INDICATOR
+<minus>	<plus>							±	plusminus	PLUS-MINUS SIGN
+<minus>	<plus>							∓	U2213	MINUS OR PLUS SIGN
+<minus>	<slash>							⌿	U233f	- / APL FUNCTIONAL SYMBOL SLASH BAR
+<minus>	<u>							ū	U016B	LATIN SMALL LETTER U WITH MACRON
+<minus>	<v>							↓	downarrow	DOWNWARDS ARROW
+<minus>	<Y>							¥	yen	YEN SIGN
+<minus>	<y>							¥	yen	YEN SIGN
+<Multi_key>	<1>	<m>	<e>	<d>				⚕	U2695	STAFF OF AESCULAPIUS
+<Multi_key>	<A>	<A>	<A>	<A>	<A>			⛤	U26E4	PENTAGRAM (pentalpha, get it?)
+<Multi_key>	<a>	<l>	<e>	<f>				ℵ	U2135	ALEF SYMBOL
+<Multi_key>	<a>	<l>	<e>	<p>	<0>			ℵ₀		ALEF Null
+<Multi_key>	<a>	<l>	<e>	<p>	<1>			ℵ₁		ALEF One
+<Multi_key>	<a>	<l>	<e>	<p>	<h>			ℵ	U2135	ALEF SYMBOL
+<Multi_key>	<a>	<n>	<g>	<e>	<r>			💢	U1F4A2	ANGER SYMBOL
+<Multi_key>	<A>	<O>	<K>					👌	U1F44C	OK HAND SIGN
+<Multi_key>	<a>	<q>	<u>	<a>	<r>			♒	U2652	AQUARIUS
+<Multi_key>	<a>	<r>	<i>	<e>	<s>			♈	U2648	ARIES
+<Multi_key>	<a>	<t>	<o>	<m>				⚛	U269B	ATOM SYMBOL
+<Multi_key>	<asterisk>	<o>						∘	U2218	RING OPERATOR (function composition)
+<Multi_key>	<asterisk>	<period>						⋅	U22C5	DOT OPERATOR (dot product)
+<Multi_key>	<asterisk>	<x>						⨯	U2A2F	CROSS PRODUCT
+<Multi_key>	<b>	<d>	<a>	<y>				🎂	U1F382	BIRTHDAY CAKE
+<Multi_key>	<b>	<e>	<c>	<a>	<u>	<s>	<e>	∵	U2235	BECAUSE
+<Multi_key>	<B>	<e>	<l>	<l>	<s>	<y>	<m>	⍾	U237E	BELL SYMBOL (or ALIENS LANDING) -- &-a-l-i-e-n ?
+<Multi_key>	<b>	<h>						☣	U2623	BIOHAZARD SIGN
+<Multi_key>	<b>	<i>	<o>	<h>	<a>	<z>		☣	U2623	BIOHAZARD SIGN
+<Multi_key>	<b>	<o>	<m>	<b>				💣	U1F4A3	BOMB
+<Multi_key>	<b>	<r>	<a>	<n>	<c>	<h>		⸙	U2E19	PALM BRANCH
+<Multi_key>	<c>	<a>	<k>	<e>				🍰	U1F370	SHORTCAKE
+<Multi_key>	<c>	<a>	<n>	<c>	<e>	<r>		♋	U264B	CANCER
+<Multi_key>	<c>	<a>	<p>	<r>	<i>	<c>		♑	U2651	CAPRICORN
+<Multi_key>	<c>	<c>	<c>	<p>				☭	U262D	HAMMER AND SICKLE
+<Multi_key>	<c>	<e>	<r>	<e>	<s>			⚳	U26B3	CERES
+<Multi_key>	<c>	<h>	<i>	<r>	<o>	<n>		⚷	U26B7	CHIRON
+<Multi_key>	<c>	<h>	<k>					☑	U2611	BALLOT BOX WITH CHECK
+<Multi_key>	<c>	<P>	<i>	<n>	<t>			⨓	U2A13	INTEGRAL AROUND POINT
+<Multi_key>	<d>	<e>	<a>	<t>	<h>			☠	U2620	SKULL AND CROSSBONES
+<Multi_key>	<d>	<e>	<g>	<c>				℃	U2103	DEGREE CELSIUS
+<Multi_key>	<d>	<e>	<g>	<C>				℃	U2103	DEGREE CELSIUS
+<Multi_key>	<d>	<e>	<g>	<f>				℉	U2109	DEGREE FAHRENHEIT
+<Multi_key>	<d>	<e>	<g>	<F>				℉	U2109	DEGREE FAHRENHEIT
+<Multi_key>	<d>	<e>	<g>	<r>	<e>	<e>		°	U00B0	DEGREE SIGN
+<Multi_key>	<d>	<e>	<l>					∇	U2207	NABLA
+<Multi_key>	<d>	<i>	<z>	<z>	<y>			💫	U1F4AB	DIZZY SYMBOL
+<Multi_key>	<D>	<N>	<E>					⛔	U26D4	NO ENTRY
+<Multi_key>	<d>	<r>	<o>	<p>				💧	U1F4A7	DROPLET
+<Multi_key>	<dollar>	<b>	<a>	<g>				💰	U1F4B0	MONEY BAG
+<Multi_key>	<e>	<x>	<p>					ℯ	U212F	SCRIPT SMALL E
+<Multi_key>	<f>	<d>	<l>					⚜	U269C	FLEUR-DE-LIS
+<Multi_key>	<g>	<a>	<y>					⚣	U26A3	DOUBLED MALE SIGN
+<Multi_key>	<g>	<e>	<m>	<i>	<n>	<i>		♊	U264A	GEMINI
+<Multi_key>	<g>	<e>	<n>	<d>	<e>	<r>	<q>	⚧	U26A7	MALE WITH STROKE AND MALE AND FEMALE SIGN
+<Multi_key>	<g>	<i>	<n>	<t>				⨘	U2A18	GEOMETRIC INTEGRAL
+<Multi_key>	<h>	<b>	<a>	<r>				ℏ	U210F	PLANCK CONSTANT OVER TWO PI
+<Multi_key>	<h>	<e>	<t>	<e>	<r>	<o>		⚤	U26A4	INTERLOCKED FEMALE AND MALE SIGN
+<Multi_key>	<h>	<o>	<u>	<r>				⌛	U231B	HOURGLASS
+<Multi_key>	<i>	<d>	<e>	<a>				💡	U1F4A1	ELECTRIC LIGHT BULB
+<Multi_key>	<i>	<i>	<i>	<i>	<n>	<t>		⨌	U2A0C	QUADRUPLE INTEGRAL
+<Multi_key>	<i>	<i>	<i>	<n>	<t>			∭	U222D	TRIPLE INTEGRAL
+<Multi_key>	<i>	<i>	<n>	<t>				∬	U222C	DOUBLE INTEGRAL
+<Multi_key>	<i>	<n>	<t>					∫	U222B	INTEGRAL
+<Multi_key>	<i>	<w>	<i>	<t>				👁️‍🗨️		
+<Multi_key>	<j>	<u>	<n>	<o>				⚵	U26B5	JUNO
+<Multi_key>	<j>	<u>	<p>	<i>	<t>	<e>	<r>	♃	U2643	JUPITER (Thursday)
+<Multi_key>	<k>	<b>	<d>					⌨	U2328	KEYBOARD
+<Multi_key>	<k>	<i>	<s>	<s>				💋	U1F48B	KISS MARK
+<Multi_key>	<l>	<e>	<o>					♌	U264C	LEO
+<Multi_key>	<l>	<e>	<s>	<b>	<i>	<a>	<n>	⚢	U26A2	DOUBLED FEMALE SIGN
+<Multi_key>	<l>	<h>	<a>	<n>	<d>			☜	U261C	WHITE LEFT POINTING INDEX
+<Multi_key>	<l>	<i>	<b>	<r>	<a>			♎	U264E	LIBRA
+<Multi_key>	<l>	<i>	<e>					🎂	U1F382	BIRTHDAY CAKE
+<Multi_key>	<l>	<i>	<l>	<i>	<t>	<h>		⚸	U26B8	BLACK MOON LILITH
+<Multi_key>	<l>	<i>	<n>	<t>				⨜	U2A1C	LOWER INTEGRAL
+<Multi_key>	<m>	<a>	<i>	<l>				✉	U2709	ENVELOPE
+<Multi_key>	<m>	<e>	<d>					☤	U2624	CADEUCEUS
+<Multi_key>	<m>	<e>	<r>	<c>	<u>	<r>	<y>	☿	U263F	MERCURY (Wednesday)
+<Multi_key>	<m>	<o>	<o>	<n>				☽	U263D	FIRST QUARTER MOON (Monday)
+<Multi_key>	<n>	<e>	<p>	<t>	<u>	<n>	<e>	♆	U2646	NEPTUNE
+<Multi_key>	<o>	<i>	<i>	<i>	<n>	<t>		∰	U2230	VOLUME INTEGRAL
+<Multi_key>	<o>	<i>	<i>	<n>	<t>			∯	U222F	SURFACE INTEGRAL
+<Multi_key>	<o>	<i>	<n>	<t>				∮	U222E	CONTOUR INTEGRAL
+<Multi_key>	<o>	<p>	<h>	<i>	<u>	<c>		⛎	U26CE	OPHIUCHUS
+<Multi_key>	<p>	<a>	<l>	<l>	<a>	<s>		⚴	U26B4	PALLAS
+<Multi_key>	<p>	<a>	<l>	<m>				⸙	U2E19	PALM BRANCH
+<Multi_key>	<p>	<a>	<r>	<t>				∂	U2202	PARTIAL DIFFERENTIAL
+<Multi_key>	<p>	<c>						☮	U262E	PEACE SYMBOL
+<Multi_key>	<p>	<e>	<a>	<c>	<e>			☮	U262E	PEACE SYMBOL
+<Multi_key>	<p>	<i>	<n>	<t>				⨕	U2A15	SEMICIRCULAR POLE INTEGRAL
+<Multi_key>	<p>	<i>	<s>	<c>	<e>	<s>		♓	U2653	PISCES
+<Multi_key>	<p>	<l>	<a>	<n>	<e>			✈	U2708	AIRPLANE
+<Multi_key>	<p>	<l>	<u>	<t>	<o>			♇	U2647	PLUTO (ok, it isn't a planet anymore, but we still love it.)
+<Multi_key>	<p>	<o>	<o>					💩	U1F4A9	PILE OF POO
+<Multi_key>	<p>	<o>	<w>					💥	U1F4A5	COLLISION SYMBOL
+<Multi_key>	<Q>	<E>	<D>					∎	U220E	END OF PROOF
+<Multi_key>	<r>	<a>	<d>					☢	U2622	RADIOACTIVE SIGN
+<Multi_key>	<r>	<h>	<a>	<n>	<d>			☞	U261E	WHITE RIGHT POINTING INDEX
+<Multi_key>	<s>	<a>	<g>	<i>	<t>			♐	U2650	SAGITTARIUS
+<Multi_key>	<s>	<a>	<t>	<u>	<r>	<n>		♄	U2644	SATURN (Saturday)
+<Multi_key>	<s>	<c>	<o>	<r>	<p>			♏	U264F	SCORPIUS
+<Multi_key>	<s>	<h>	<a>	<m>	<r>	<o>		☘	U2618	SHAMROCK
+<Multi_key>	<s>	<h>	<m>	<r>	<c>	<k>		☘	U2618	SHAMROCK
+<Multi_key>	<s>	<i>	<n>	<t>				⨋	U2A0B	SUM/INTEGRAL
+<Multi_key>	<s>	<u>	<m>					∑	U2211	N-ARY SUMMATION
+<Multi_key>	<s>	<u>	<n>					☉	U2609	SUN (Sunday)
+<Multi_key>	<s>	<w>	<e>	<a>	<t>			💦	U1F4A6	SPLASHING SWEAT SYMBOL
+<Multi_key>	<t>	<a>	<u>	<r>	<u>	<s>		♉	U2649	TAURUS
+<Multi_key>	<t>	<e>	<a>					☕	U2615	HOT BEVERAGE
+<Multi_key>	<t>	<e>	<l>					☎	U260E	BLACK TELEPHONE
+<Multi_key>	<t>	<h>	<e>	<r>	<e>	<4>		∴	U2234	THEREFORE
+<Multi_key>	<t>	<h>	<m>	<d>	<n>			👎	U1F44E	THUMBS DOWN SIGN
+<Multi_key>	<t>	<h>	<m>	<u>	<p>			👍	U1F44D	THUMBS UP SIGN
+<Multi_key>	<t>	<i>	<m>	<e>				⌚	U231A	WATCH
+<Multi_key>	<t>	<r>	<a>	<n>	<s>			⚥	U26A5	MALE AND FEMALE SIGN
+<Multi_key>	<u>	<i>	<n>	<t>				⨛	U2A1B	UPPER INTEGRAL
+<Multi_key>	<u>	<r>	<a>	<n>	<u>	<s>		♅	U2645	URANUS (or ⛢ U26E2?)
+<Multi_key>	<v>	<e>	<s>	<t>	<a>			⚶	U26B6	VESTA
+<Multi_key>	<v>	<i>	<r>	<g>	<o>			♍	U264D	VIRGO
+<Multi_key>	<w>	<a>	<i>	<t>				⌛	U231B	HOURGLASS
+<Multi_key>	<w>	<a>	<t>	<c>	<h>			⌚	U231A	WATCH
+<Multi_key>	<w>	<h>	<l>	<c>	<h>			♿	U267F	WHEELCHAIR SYMBOL
+<Multi_key>	<X>	<b>	<o>	<n>	<e>	<s>		☠	U2620	SKULL AND CROSSBONES
+<Multi_key>	<y>	<i>	<n>	<y>	<a>	<n>		☯	U262F	YIN YANG
+<Multi_key>	<y>	<y>						☯	U262F	YIN YANG
+<Multi_key>	<z>	<a>	<p>					⚡	U26A1	HIGH VOLTAGE SIGN 
+<Multi_key>	<z>	<i>	<p>					💨	U1F4A8	DASH SYMBOL
+<Multi_key>	<z>	<z>	<z>					💤	U1F4A4	SLEEPING SYMBOL
+<N>	<apostrophe>							Ń	U0143	LATIN CAPITAL LETTER N WITH ACUTE
+<n>	<apostrophe>							ń	U0144	LATIN SMALL LETTER N WITH ACUTE
+<N>	<asciitilde>							Ñ	Ntilde	LATIN CAPITAL LETTER N WITH TILDE
+<n>	<asciitilde>							ñ	ntilde	LATIN SMALL LETTER N WITH TILDE
+<N>	<comma>							Ņ	U0145	LATIN CAPITAL LETTER N WITH CEDILLA
+<n>	<comma>							ņ	U0146	LATIN SMALL LETTER N WITH CEDILLA
+<n>	<comma>							ɳ	U0273	LATIN SMALL LETTER N WITH RETROFLEX HOOK
+<N>	<equal>							₦	U20a6	NAIRA SIGN
+<N>	<G>							Ŋ	U014A	LATIN CAPITAL LETTER ENG
+<n>	<g>							ŋ	U014B	LATIN SMALL LETTER ENG
+<n>	<grave>							ɴ	U0274	LATIN LETTER SMALL CAPITAL N
+<n>	<i>							∋	U220B	CONTAINS AS MEMBER (I hope this doesn't conflict)
+<N>	<less>							Ň	U0147	LATIN CAPITAL LETTER N WITH CARON
+<n>	<less>							ň	U0148	LATIN SMALL LETTER N WITH CARON
+<N>	<o>							№	numerosign	NUMERO SIGN
+<N>	<O>							№	numerosign	NUMERO SIGN
+<N>	<o>							№	U2116	NUMERO SIGN
+<numbersign>	<b>							♭	U266d	MUSIC FLAT SIGN
+<numbersign>	<b>							♭	U266d	MUSIC FLAT SIGN
+<numbersign>	<C>							𝄡	U0001d121	MUSICAL SYMBOL C CLEF
+<numbersign>	<e>							♪	U266a	EIGHTH NOTE
+<numbersign>	<E>							♫	U266b	BEAMED EIGHTH NOTES
+<numbersign>	<equal>							♮	U266e	MUSIC NATURAL SIGN
+<numbersign>	<f>							♮	U266e	MUSIC NATURAL SIGN
+<numbersign>	<F>							𝄢	U0001d122	MUSICAL SYMBOL F CLEF
+<numbersign>	<f>							♮	U266e	MUSIC NATURAL SIGN
+<numbersign>	<G>							𝄞	U0001d11e	MUSICAL SYMBOL G CLEF
+<numbersign>	<numbersign>							♯	U266f	MUSIC SHARP SIGN
+<numbersign>	<numbersign>							♯	U266f	MUSIC SHARP SIGN
+<numbersign>	<o>	<o>						♫	U266b	BEAMED EIGHTH NOTES
+<numbersign>	<o>	<slash>						♪	U266a	EIGHTH NOTE
+<numbersign>	<percent>							♫	U266b	BEAMED EIGHTH NOTES
+<numbersign>	<q>							♩	U2669	QUARTER NOTE
+<numbersign>	<S>							♬	U266c	BEAMED SIXTEENTH NOTES
+<o>	<3>							߷	U07F7	NKO SYMBOL GBAKURUNEN
+<o>	<8>							♣	U2663	BLACK CLUB SUIT
+<O>	<A>							Ⓐ	U24B6	CIRCLED LATIN CAPITAL LETTER A
+<o>	<A>							Å	Aring	LATIN CAPITAL LETTER A WITH RING ABOVE
+<o>	<a>							å	aring	LATIN SMALL LETTER A WITH RING ABOVE
+<O>	<acute>							Ó	Oacute	LATIN CAPITAL LETTER O WITH ACUTE
+<o>	<acute>							ó	oacute	LATIN SMALL LETTER O WITH ACUTE
+<O>	<ampersand>	<O>						Ꝏ	UA74E	LATIN CAPITAL LETTER OO
+<o>	<ampersand>	<o>						ꝏ	UA74F	LATIN SMALL LETTER OO
+<O>	<apostrophe>							Ó	Oacute	LATIN CAPITAL LETTER O WITH ACUTE
+<o>	<apostrophe>							ó	oacute	LATIN SMALL LETTER O WITH ACUTE
+<O>	<asciicircum>							Ô	Ocircumflex	LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<o>	<asciicircum>							ô	ocircumflex	LATIN SMALL LETTER O WITH CIRCUMFLEX
+<O>	<asciitilde>							Õ	Otilde	LATIN CAPITAL LETTER O WITH TILDE
+<o>	<asciitilde>							õ	otilde	LATIN SMALL LETTER O WITH TILDE
+<o>	<c>							©	copyright	COPYRIGHT SIGN
+<o>	<C>							©	copyright	COPYRIGHT SIGN
+<O>	<c>							©	copyright	COPYRIGHT SIGN
+<O>	<C>							©	copyright	COPYRIGHT SIGN
+<O>	<colon>							Ꙫ	UA66A	CYRILLIC CAPITAL LETTER BINOCULAR O * used in the dual of words based on the root for 'eye'
+<o>	<colon>							ꙫ	UA66B	CYRILLIC SMALL LETTER BINOCULAR O
+<O>	<comma>							Ǫ	U01EA	LATIN CAPITAL LETTER O WITH OGONEK
+<o>	<comma>							ǫ	U01EB	LATIN SMALL LETTER O WITH OGONEK
+<o>	<comma>							·	periodcentered	MIDDLE DOT
+<O>	<diaeresis>							Ö	Odiaeresis	LATIN CAPITAL LETTER O WITH DIAERESIS
+<o>	<diaeresis>							ö	odiaeresis	LATIN SMALL LETTER O WITH DIAERESIS
+<o>	<e>							œ	oe	LATIN SMALL LIGATURE OE
+<O>	<E>							Œ	OE	LATIN CAPITAL LIGATURE OE
+<o>	<g>	<h>						ɤ	U0264	LATIN SMALL LETTER RAMS HORN
+<O>	<grave>							Ò	Ograve	LATIN CAPITAL LETTER O WITH GRAVE
+<o>	<grave>							ò	ograve	LATIN SMALL LETTER O WITH GRAVE
+<o>	<grave>							ᴏ	U1D0F	LATIN LETTER SMALL CAPITAL O
+<O>	<greater>							Ô	Ocircumflex	LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<o>	<greater>							ô	ocircumflex	LATIN SMALL LETTER O WITH CIRCUMFLEX
+<o>	<minus>	<greater>						♂	U2642	MALE SIGN
+<o>	<minus>	<plus>						♀	U2640	FEMALE SIGN
+<O>	<minus>							Ō	U014C	LATIN CAPITAL LETTER O WITH MACRON
+<o>	<minus>							ō	U014D	LATIN SMALL LETTER O WITH MACRON
+<o>	<o>							°	degree	DEGREE SIGN
+<O>	<parenright>							":""Ɔ"""	U0186	LATIN CAPITAL LETTER OPEN O
+<o>	<parenright>							":""ɔ"""	U0254	LATIN SMALL LETTER OPEN O
+<O>	<period>	<O>						Ꙭ	UA66C	CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O * used in the dual of words based on the root for 'eye'
+<o>	<period>	<o>						ꙭ	UA66D	CYRILLIC SMALL LETTER DOUBLE MONOCULAR O
+<o>	<plus>							ꙮ	UA66E	CYRILLIC LETTER MULTIOCULAR O * used in the epithet 'many-eyed'
+<O>	<quotedbl>							Ö	Odiaeresis	LATIN CAPITAL LETTER O WITH DIAERESIS
+<o>	<quotedbl>							ö	odiaeresis	LATIN SMALL LETTER O WITH DIAERESIS
+<o>	<r>							®	registered	REGISTERED SIGN
+<o>	<R>							®	registered	REGISTERED SIGN
+<O>	<r>							®	registered	REGISTERED SIGN
+<O>	<R>							®	registered	REGISTERED SIGN
+<o>	<s>							§	section	SECTION SIGN
+<O>	<S>							§	section	SECTION SIGN
+<O>	<semicolon>							Ǫ	U01EA	LATIN CAPITAL LETTER O WITH OGONEK
+<o>	<semicolon>							ǫ	U01EB	LATIN SMALL LETTER O WITH OGONEK
+<O>	<slash>							Ø	Oslash	LATIN CAPITAL LETTER O WITH STROKE
+<o>	<slash>							ø	oslash	LATIN SMALL LETTER O WITH STROKE
+<o>	<u>							ů	U016F	LATIN SMALL LETTER U WITH RING ABOVE
+<O>	<U>							Ȣ	U0222	LATIN CAPITAL LETTER OU
+<o>	<u>							ȣ	U0223	LATIN SMALL LETTER OU
+<O>	<underscore>							Ō	U014C	LATIN CAPITAL LETTER O WITH MACRON
+<o>	<underscore>							ō	U014D	LATIN SMALL LETTER O WITH MACRON
+<o>	<underscore>							⁃	U2043	HYPHEN BULLET
+<o>	<w>							ẘ	U1E98	LATIN SMALL LETTER W WITH RING ABOVE
+<o>	<x>							¤	currency	CURRENCY SIGN
+<o>	<X>							¤	currency	CURRENCY SIGN
+<O>	<X>							¤	currency	CURRENCY SIGN
+<O>	<x>							¤	currency	CURRENCY SIGN
+<O>	<X>							☠	U2620	SKULL AND CROSSBONES
+<o>	<y>							ẙ	U1E99	LATIN SMALL LETTER Y WITH RING ABOVE
+<o>	<z>	<period>						℥	U2125	OUNCE SIGN
+<P>	<BackSpace>							ꟼ	UA7FC	LATIN EPIGRAPHIC LETTER REVERSED P
+<P>	<D>	<F>						‬	U202C	POP DIRECTIONAL FORMATTING
+<P>	<D>	<I>						⁩	U2069	POP DIRECTIONAL ISOLATE
+<P>	<e>	<r>						⅌	U214C	PER SIGN
+<p>	<exclam>							¶	paragraph	PILCROW SIGN
+<P>	<exclam>							¶	paragraph	PILCROW SIGN
+<p>	<grave>							ᴘ	U1D18	LATIN LETTER SMALL CAPITAL P
+<p>	<h>							ɸ	U0278	LATIN SMALL LETTER PHI
+<P>	<less>							ꟼ	UA7FC	LATIN EPIGRAPHIC LETTER REVERSED P
+<p>	<minus>							₽	U20BD	RUBLE SIGN
+<P>	<minus>							₽	U20BD	RUBLE SIGN
+<p>	<o>	<o>						💩	U1F4A9	PILE OF POO
+<P>	<P>							¶	paragraph	PILCROW SIGN
+<P>	<period>							Ṗ	U1E56	LATIN CAPITAL LETTER P WITH DOT ABOVE
+<p>	<period>							ṗ	U1E57	LATIN SMALL LETTER P WITH DOT ABOVE
+<P>	<t>							₧	U20a7	PESETA SIGN
+<parenleft>	<0>	<parenright>						⓪	U24EA	CIRCLED DIGIT ZERO
+<parenleft>	<1>	<0>	<colon>	<0>	<0>	<parenright>		🕙	U1F559	CLOCK FACE TEN OCLOCK
+<parenleft>	<1>	<0>	<colon>	<3>	<0>	<parenright>		🕥	U1F565	CLOCK FACE TEN-THIRTY
+<parenleft>	<1>	<0>	<parenright>					⑩	U2469	CIRCLED NUMBER TEN
+<parenleft>	<1>	<1>	<colon>	<0>	<0>	<parenright>		🕚	U1F55A	CLOCK FACE ELEVEN OCLOCK
+<parenleft>	<1>	<1>	<colon>	<3>	<0>	<parenright>		🕦	U1F566	CLOCK FACE ELEVEN-THIRTY
+<parenleft>	<1>	<1>	<parenright>					⑪	U246A	CIRCLED NUMBER ELEVEN
+<parenleft>	<1>	<2>	<colon>	<0>	<0>	<parenright>		🕛	U1F55B	CLOCK FACE TWELVE OCLOCK
+<parenleft>	<1>	<2>	<colon>	<3>	<0>	<parenright>		🕧	U1F567	CLOCK FACE TWELVE-THIRTY
+<parenleft>	<1>	<2>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<1>	<3>	<parenright>					⑬	U246C	CIRCLED NUMBER THIRTEEN
+<parenleft>	<1>	<4>	<parenright>					⑭	U246D	CIRCLED NUMBER FOURTEEN
+<parenleft>	<1>	<5>	<parenright>					⑮	U246E	CIRCLED NUMBER FIFTEEN
+<parenleft>	<1>	<6>	<parenright>					⑯	U246F	CIRCLED NUMBER SIXTEEN
+<parenleft>	<1>	<7>	<parenright>					⑰	U2470	CIRCLED NUMBER SEVENTEEN
+<parenleft>	<1>	<8>	<parenright>					⑱	U2471	CIRCLED NUMBER EIGHTEEN
+<parenleft>	<1>	<9>	<parenright>					⑲	U2472	CIRCLED NUMBER NINETEEN
+<parenleft>	<1>	<colon>	<0>	<0>	<parenright>			🕐	U1F550	CLOCK FACE ONE OCLOCK
+<parenleft>	<1>	<colon>	<3>	<0>	<parenright>			🕜	U1F55C	CLOCK FACE ONE-THIRTY
+<parenleft>	<1>	<KP_0>	<parenright>					⑩	U2469	CIRCLED NUMBER TEN
+<parenleft>	<1>	<KP_1>	<parenright>					⑪	U246A	CIRCLED NUMBER ELEVEN
+<parenleft>	<1>	<KP_2>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<1>	<KP_3>	<parenright>					⑬	U246C	CIRCLED NUMBER THIRTEEN
+<parenleft>	<1>	<KP_4>	<parenright>					⑭	U246D	CIRCLED NUMBER FOURTEEN
+<parenleft>	<1>	<KP_5>	<parenright>					⑮	U246E	CIRCLED NUMBER FIFTEEN
+<parenleft>	<1>	<KP_6>	<parenright>					⑯	U246F	CIRCLED NUMBER SIXTEEN
+<parenleft>	<1>	<KP_7>	<parenright>					⑰	U2470	CIRCLED NUMBER SEVENTEEN
+<parenleft>	<1>	<KP_8>	<parenright>					⑱	U2471	CIRCLED NUMBER EIGHTEEN
+<parenleft>	<1>	<KP_9>	<parenright>					⑲	U2472	CIRCLED NUMBER NINETEEN
+<parenleft>	<1>	<KP_Space>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<1>	<parenright>						①	U2460	CIRCLED DIGIT ONE
+<parenleft>	<2>	<0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<2>	<1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<2>	<2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<2>	<3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<2>	<4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<2>	<5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<2>	<6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<2>	<7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<2>	<8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<2>	<9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<2>	<colon>	<0>	<0>	<parenright>			🕑	U1F551	CLOCK FACE TWO OCLOCK
+<parenleft>	<2>	<colon>	<3>	<0>	<parenright>			🕝	U1F55D	CLOCK FACE TWO-THIRTY
+<parenleft>	<2>	<KP_0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<2>	<KP_1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<2>	<KP_2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<2>	<KP_3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<2>	<KP_4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<2>	<KP_5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<2>	<KP_6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<2>	<KP_7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<2>	<KP_8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<2>	<KP_9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<2>	<KP_Space>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<2>	<parenright>						②	U2461	CIRCLED DIGIT TWO
+<parenleft>	<3>	<0>	<parenright>					㉚	U325A	CIRCLED NUMBER THIRTY
+<parenleft>	<3>	<1>	<parenright>					㉛	U325B	CIRCLED NUMBER THIRTY ONE
+<parenleft>	<3>	<2>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<3>	<3>	<parenright>					㉝	U325D	CIRCLED NUMBER THIRTY THREE
+<parenleft>	<3>	<4>	<parenright>					㉞	U325E	CIRCLED NUMBER THIRTY FOUR
+<parenleft>	<3>	<5>	<parenright>					㉟	U325F	CIRCLED NUMBER THIRTY FIVE
+<parenleft>	<3>	<6>	<parenright>					㊱	U32B1	CIRCLED NUMBER THIRTY SIX
+<parenleft>	<3>	<7>	<parenright>					㊲	U32B2	CIRCLED NUMBER THIRTY SEVEN
+<parenleft>	<3>	<8>	<parenright>					㊳	U32B3	CIRCLED NUMBER THIRTY EIGHT
+<parenleft>	<3>	<9>	<parenright>					㊴	U32B4	CIRCLED NUMBER THIRTY NINE
+<parenleft>	<3>	<colon>	<0>	<0>	<parenright>			🕒	U1F552	CLOCK FACE THREE OCLOCK
+<parenleft>	<3>	<colon>	<3>	<0>	<parenright>			🕞	U1F55E	CLOCK FACE THREE-THIRTY
+<parenleft>	<3>	<KP_0>	<parenright>					㉚	U325A	CIRCLED NUMBER THIRTY
+<parenleft>	<3>	<KP_1>	<parenright>					㉛	U325B	CIRCLED NUMBER THIRTY ONE
+<parenleft>	<3>	<KP_2>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<3>	<KP_3>	<parenright>					㉝	U325D	CIRCLED NUMBER THIRTY THREE
+<parenleft>	<3>	<KP_4>	<parenright>					㉞	U325E	CIRCLED NUMBER THIRTY FOUR
+<parenleft>	<3>	<KP_5>	<parenright>					㉟	U325F	CIRCLED NUMBER THIRTY FIVE
+<parenleft>	<3>	<KP_6>	<parenright>					㊱	U32B1	CIRCLED NUMBER THIRTY SIX
+<parenleft>	<3>	<KP_7>	<parenright>					㊲	U32B2	CIRCLED NUMBER THIRTY SEVEN
+<parenleft>	<3>	<KP_8>	<parenright>					㊳	U32B3	CIRCLED NUMBER THIRTY EIGHT
+<parenleft>	<3>	<KP_9>	<parenright>					㊴	U32B4	CIRCLED NUMBER THIRTY NINE
+<parenleft>	<3>	<KP_Space>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<3>	<parenright>						③	U2462	CIRCLED DIGIT THREE
+<parenleft>	<4>	<0>	<parenright>					㊵	U32B5	CIRCLED NUMBER FORTY
+<parenleft>	<4>	<1>	<parenright>					㊶	U32B6	CIRCLED NUMBER FORTY ONE
+<parenleft>	<4>	<2>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<4>	<3>	<parenright>					㊸	U32B8	CIRCLED NUMBER FORTY THREE
+<parenleft>	<4>	<4>	<parenright>					㊹	U32B9	CIRCLED NUMBER FORTY FOUR
+<parenleft>	<4>	<5>	<parenright>					㊺	U32BA	CIRCLED NUMBER FORTY FIVE
+<parenleft>	<4>	<6>	<parenright>					㊻	U32BB	CIRCLED NUMBER FORTY SIX
+<parenleft>	<4>	<7>	<parenright>					㊼	U32BC	CIRCLED NUMBER FORTY SEVEN
+<parenleft>	<4>	<8>	<parenright>					㊽	U32BD	CIRCLED NUMBER FORTY EIGHT
+<parenleft>	<4>	<9>	<parenright>					㊾	U32BE	CIRCLED NUMBER FORTY NINE
+<parenleft>	<4>	<colon>	<0>	<0>	<parenright>			🕓	U1F553	CLOCK FACE FOUR OCLOCK
+<parenleft>	<4>	<colon>	<3>	<0>	<parenright>			🕟	U1F55F	CLOCK FACE FOUR-THIRTY
+<parenleft>	<4>	<KP_0>	<parenright>					㊵	U32B5	CIRCLED NUMBER FORTY
+<parenleft>	<4>	<KP_1>	<parenright>					㊶	U32B6	CIRCLED NUMBER FORTY ONE
+<parenleft>	<4>	<KP_2>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<4>	<KP_3>	<parenright>					㊸	U32B8	CIRCLED NUMBER FORTY THREE
+<parenleft>	<4>	<KP_4>	<parenright>					㊹	U32B9	CIRCLED NUMBER FORTY FOUR
+<parenleft>	<4>	<KP_5>	<parenright>					㊺	U32BA	CIRCLED NUMBER FORTY FIVE
+<parenleft>	<4>	<KP_6>	<parenright>					㊻	U32BB	CIRCLED NUMBER FORTY SIX
+<parenleft>	<4>	<KP_7>	<parenright>					㊼	U32BC	CIRCLED NUMBER FORTY SEVEN
+<parenleft>	<4>	<KP_8>	<parenright>					㊽	U32BD	CIRCLED NUMBER FORTY EIGHT
+<parenleft>	<4>	<KP_9>	<parenright>					㊾	U32BE	CIRCLED NUMBER FORTY NINE
+<parenleft>	<4>	<KP_Space>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<4>	<parenright>						④	U2463	CIRCLED DIGIT FOUR
+<parenleft>	<5>	<0>	<parenright>					㊿	U32BF	CIRCLED NUMBER FIFTY
+<parenleft>	<5>	<colon>	<0>	<0>	<parenright>			🕔	U1F554	CLOCK FACE FIVE OCLOCK
+<parenleft>	<5>	<colon>	<3>	<0>	<parenright>			🕠	U1F560	CLOCK FACE FIVE-THIRTY
+<parenleft>	<5>	<KP_0>	<parenright>					㊿	U32BF	CIRCLED NUMBER FIFTY
+<parenleft>	<5>	<parenright>						⑤	U2464	CIRCLED DIGIT FIVE
+<parenleft>	<6>	<colon>	<0>	<0>	<parenright>			🕕	U1F555	CLOCK FACE SIX OCLOCK
+<parenleft>	<6>	<colon>	<3>	<0>	<parenright>			🕡	U1F561	CLOCK FACE SIX-THIRTY
+<parenleft>	<6>	<parenright>						⑥	U2465	CIRCLED DIGIT SIX
+<parenleft>	<7>	<colon>	<0>	<0>	<parenright>			🕖	U1F556	CLOCK FACE SEVEN OCLOCK
+<parenleft>	<7>	<colon>	<3>	<0>	<parenright>			🕢	U1F562	CLOCK FACE SEVEN-THIRTY
+<parenleft>	<7>	<parenright>						⑦	U2466	CIRCLED DIGIT SEVEN
+<parenleft>	<8>	<colon>	<0>	<0>	<parenright>			🕗	U1F557	CLOCK FACE EIGHT OCLOCK
+<parenleft>	<8>	<colon>	<3>	<0>	<parenright>			🕣	U1F563	CLOCK FACE EIGHT-THIRTY
+<parenleft>	<8>	<parenright>						⑧	U2467	CIRCLED DIGIT EIGHT
+<parenleft>	<9>	<colon>	<0>	<0>	<parenright>			🕘	U1F558	CLOCK FACE NINE OCLOCK
+<parenleft>	<9>	<colon>	<3>	<0>	<parenright>			🕤	U1F564	CLOCK FACE NINE-THIRTY
+<parenleft>	<9>	<parenright>						⑨	U2468	CIRCLED DIGIT NINE
+<parenleft>	<A>	<parenright>						Ⓐ	U24B6	CIRCLED LATIN CAPITAL LETTER A
+<parenleft>	<a>	<parenright>						ⓐ	U24D0	CIRCLED LATIN SMALL LETTER A
+<parenleft>	<ampersand>	<parenleft>						⸨	U2E28	LEFT DOUBLE PARENTHESIS
+<parenleft>	<ampersand>	<parenright>						≬	U226C	BETWEEN
+<parenleft>	<asterisk>	<parenright>						⊛	U229B	CIRCLED ASTERISK OPERATOR
+<parenleft>	<B>	<parenright>						Ⓑ	U24B7	CIRCLED LATIN CAPITAL LETTER B
+<parenleft>	<b>	<parenright>						ⓑ	U24D1	CIRCLED LATIN SMALL LETTER B
+<parenleft>	<bracketleft>							⦗	U2997	LEFT BLACK TORTOISE SHELL BRACKET
+<parenleft>	<C>	<parenright>						Ⓒ	U24B8	CIRCLED LATIN CAPITAL LETTER C
+<parenleft>	<c>	<parenright>						ⓒ	U24D2	CIRCLED LATIN SMALL LETTER C
+<parenleft>	<colon>							☻	U263B	BLACK SMILING FACE
+<parenleft>	<D>	<parenright>						Ⓓ	U24B9	CIRCLED LATIN CAPITAL LETTER D
+<parenleft>	<d>	<parenright>						ⓓ	U24D3	CIRCLED LATIN SMALL LETTER D
+<parenleft>	<E>	<parenright>						Ⓔ	U24BA	CIRCLED LATIN CAPITAL LETTER E
+<parenleft>	<e>	<parenright>						ⓔ	U24D4	CIRCLED LATIN SMALL LETTER E
+<parenleft>	<F>	<parenright>						Ⓕ	U24BB	CIRCLED LATIN CAPITAL LETTER F
+<parenleft>	<f>	<parenright>						ⓕ	U24D5	CIRCLED LATIN SMALL LETTER F
+<parenleft>	<G>	<parenright>						Ⓖ	U24BC	CIRCLED LATIN CAPITAL LETTER G
+<parenleft>	<g>	<parenright>						ⓖ	U24D6	CIRCLED LATIN SMALL LETTER G
+<parenleft>	<H>	<parenright>						Ⓗ	U24BD	CIRCLED LATIN CAPITAL LETTER H
+<parenleft>	<h>	<parenright>						ⓗ	U24D7	CIRCLED LATIN SMALL LETTER H
+<parenleft>	<I>	<parenright>						Ⓘ	U24BE	CIRCLED LATIN CAPITAL LETTER I
+<parenleft>	<i>	<parenright>						ⓘ	U24D8	CIRCLED LATIN SMALL LETTER I
+<parenleft>	<J>	<parenright>						Ⓙ	U24BF	CIRCLED LATIN CAPITAL LETTER J
+<parenleft>	<j>	<parenright>						ⓙ	U24D9	CIRCLED LATIN SMALL LETTER J
+<parenleft>	<K>	<parenright>						Ⓚ	U24C0	CIRCLED LATIN CAPITAL LETTER K
+<parenleft>	<k>	<parenright>						ⓚ	U24DA	CIRCLED LATIN SMALL LETTER K
+<parenleft>	<KP_0>	<parenright>						⓪	U24EA	CIRCLED DIGIT ZERO
+<parenleft>	<KP_1>	<0>	<parenright>					⑩	U2469	CIRCLED NUMBER TEN
+<parenleft>	<KP_1>	<1>	<parenright>					⑪	U246A	CIRCLED NUMBER ELEVEN
+<parenleft>	<KP_1>	<2>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<KP_1>	<3>	<parenright>					⑬	U246C	CIRCLED NUMBER THIRTEEN
+<parenleft>	<KP_1>	<4>	<parenright>					⑭	U246D	CIRCLED NUMBER FOURTEEN
+<parenleft>	<KP_1>	<5>	<parenright>					⑮	U246E	CIRCLED NUMBER FIFTEEN
+<parenleft>	<KP_1>	<6>	<parenright>					⑯	U246F	CIRCLED NUMBER SIXTEEN
+<parenleft>	<KP_1>	<7>	<parenright>					⑰	U2470	CIRCLED NUMBER SEVENTEEN
+<parenleft>	<KP_1>	<8>	<parenright>					⑱	U2471	CIRCLED NUMBER EIGHTEEN
+<parenleft>	<KP_1>	<9>	<parenright>					⑲	U2472	CIRCLED NUMBER NINETEEN
+<parenleft>	<KP_1>	<KP_0>	<parenright>					⑩	U2469	CIRCLED NUMBER TEN
+<parenleft>	<KP_1>	<KP_1>	<parenright>					⑪	U246A	CIRCLED NUMBER ELEVEN
+<parenleft>	<KP_1>	<KP_2>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<KP_1>	<KP_3>	<parenright>					⑬	U246C	CIRCLED NUMBER THIRTEEN
+<parenleft>	<KP_1>	<KP_4>	<parenright>					⑭	U246D	CIRCLED NUMBER FOURTEEN
+<parenleft>	<KP_1>	<KP_5>	<parenright>					⑮	U246E	CIRCLED NUMBER FIFTEEN
+<parenleft>	<KP_1>	<KP_6>	<parenright>					⑯	U246F	CIRCLED NUMBER SIXTEEN
+<parenleft>	<KP_1>	<KP_7>	<parenright>					⑰	U2470	CIRCLED NUMBER SEVENTEEN
+<parenleft>	<KP_1>	<KP_8>	<parenright>					⑱	U2471	CIRCLED NUMBER EIGHTEEN
+<parenleft>	<KP_1>	<KP_9>	<parenright>					⑲	U2472	CIRCLED NUMBER NINETEEN
+<parenleft>	<KP_1>	<KP_Space>	<parenright>					⑫	U246B	CIRCLED NUMBER TWELVE
+<parenleft>	<KP_1>	<parenright>						①	U2460	CIRCLED DIGIT ONE
+<parenleft>	<KP_2>	<0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<KP_2>	<1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<KP_2>	<2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_2>	<3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<KP_2>	<4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<KP_2>	<5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<KP_2>	<6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<KP_2>	<7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<KP_2>	<8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<KP_2>	<9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<KP_2>	<KP_0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<KP_2>	<KP_1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<KP_2>	<KP_2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_2>	<KP_3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<KP_2>	<KP_4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<KP_2>	<KP_5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<KP_2>	<KP_6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<KP_2>	<KP_7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<KP_2>	<KP_8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<KP_2>	<KP_9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<KP_2>	<KP_Space>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_2>	<parenright>						②	U2461	CIRCLED DIGIT TWO
+<parenleft>	<KP_3>	<0>	<parenright>					㉚	U325A	CIRCLED NUMBER THIRTY
+<parenleft>	<KP_3>	<1>	<parenright>					㉛	U325B	CIRCLED NUMBER THIRTY ONE
+<parenleft>	<KP_3>	<2>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<KP_3>	<3>	<parenright>					㉝	U325D	CIRCLED NUMBER THIRTY THREE
+<parenleft>	<KP_3>	<4>	<parenright>					㉞	U325E	CIRCLED NUMBER THIRTY FOUR
+<parenleft>	<KP_3>	<5>	<parenright>					㉟	U325F	CIRCLED NUMBER THIRTY FIVE
+<parenleft>	<KP_3>	<6>	<parenright>					㊱	U32B1	CIRCLED NUMBER THIRTY SIX
+<parenleft>	<KP_3>	<7>	<parenright>					㊲	U32B2	CIRCLED NUMBER THIRTY SEVEN
+<parenleft>	<KP_3>	<8>	<parenright>					㊳	U32B3	CIRCLED NUMBER THIRTY EIGHT
+<parenleft>	<KP_3>	<9>	<parenright>					㊴	U32B4	CIRCLED NUMBER THIRTY NINE
+<parenleft>	<KP_3>	<KP_0>	<parenright>					㉚	U325A	CIRCLED NUMBER THIRTY
+<parenleft>	<KP_3>	<KP_1>	<parenright>					㉛	U325B	CIRCLED NUMBER THIRTY ONE
+<parenleft>	<KP_3>	<KP_2>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<KP_3>	<KP_3>	<parenright>					㉝	U325D	CIRCLED NUMBER THIRTY THREE
+<parenleft>	<KP_3>	<KP_4>	<parenright>					㉞	U325E	CIRCLED NUMBER THIRTY FOUR
+<parenleft>	<KP_3>	<KP_5>	<parenright>					㉟	U325F	CIRCLED NUMBER THIRTY FIVE
+<parenleft>	<KP_3>	<KP_6>	<parenright>					㊱	U32B1	CIRCLED NUMBER THIRTY SIX
+<parenleft>	<KP_3>	<KP_7>	<parenright>					㊲	U32B2	CIRCLED NUMBER THIRTY SEVEN
+<parenleft>	<KP_3>	<KP_8>	<parenright>					㊳	U32B3	CIRCLED NUMBER THIRTY EIGHT
+<parenleft>	<KP_3>	<KP_9>	<parenright>					㊴	U32B4	CIRCLED NUMBER THIRTY NINE
+<parenleft>	<KP_3>	<KP_Space>	<parenright>					㉜	U325C	CIRCLED NUMBER THIRTY TWO
+<parenleft>	<KP_3>	<parenright>						③	U2462	CIRCLED DIGIT THREE
+<parenleft>	<KP_4>	<0>	<parenright>					㊵	U32B5	CIRCLED NUMBER FORTY
+<parenleft>	<KP_4>	<1>	<parenright>					㊶	U32B6	CIRCLED NUMBER FORTY ONE
+<parenleft>	<KP_4>	<2>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<KP_4>	<3>	<parenright>					㊸	U32B8	CIRCLED NUMBER FORTY THREE
+<parenleft>	<KP_4>	<4>	<parenright>					㊹	U32B9	CIRCLED NUMBER FORTY FOUR
+<parenleft>	<KP_4>	<5>	<parenright>					㊺	U32BA	CIRCLED NUMBER FORTY FIVE
+<parenleft>	<KP_4>	<6>	<parenright>					㊻	U32BB	CIRCLED NUMBER FORTY SIX
+<parenleft>	<KP_4>	<7>	<parenright>					㊼	U32BC	CIRCLED NUMBER FORTY SEVEN
+<parenleft>	<KP_4>	<8>	<parenright>					㊽	U32BD	CIRCLED NUMBER FORTY EIGHT
+<parenleft>	<KP_4>	<9>	<parenright>					㊾	U32BE	CIRCLED NUMBER FORTY NINE
+<parenleft>	<KP_4>	<KP_0>	<parenright>					㊵	U32B5	CIRCLED NUMBER FORTY
+<parenleft>	<KP_4>	<KP_1>	<parenright>					㊶	U32B6	CIRCLED NUMBER FORTY ONE
+<parenleft>	<KP_4>	<KP_2>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<KP_4>	<KP_3>	<parenright>					㊸	U32B8	CIRCLED NUMBER FORTY THREE
+<parenleft>	<KP_4>	<KP_4>	<parenright>					㊹	U32B9	CIRCLED NUMBER FORTY FOUR
+<parenleft>	<KP_4>	<KP_5>	<parenright>					㊺	U32BA	CIRCLED NUMBER FORTY FIVE
+<parenleft>	<KP_4>	<KP_6>	<parenright>					㊻	U32BB	CIRCLED NUMBER FORTY SIX
+<parenleft>	<KP_4>	<KP_7>	<parenright>					㊼	U32BC	CIRCLED NUMBER FORTY SEVEN
+<parenleft>	<KP_4>	<KP_8>	<parenright>					㊽	U32BD	CIRCLED NUMBER FORTY EIGHT
+<parenleft>	<KP_4>	<KP_9>	<parenright>					㊾	U32BE	CIRCLED NUMBER FORTY NINE
+<parenleft>	<KP_4>	<KP_Space>	<parenright>					㊷	U32B7	CIRCLED NUMBER FORTY TWO
+<parenleft>	<KP_4>	<parenright>						④	U2463	CIRCLED DIGIT FOUR
+<parenleft>	<KP_5>	<0>	<parenright>					㊿	U32BF	CIRCLED NUMBER FIFTY
+<parenleft>	<KP_5>	<KP_0>	<parenright>					㊿	U32BF	CIRCLED NUMBER FIFTY
+<parenleft>	<KP_5>	<parenright>						⑤	U2464	CIRCLED DIGIT FIVE
+<parenleft>	<KP_6>	<parenright>						⑥	U2465	CIRCLED DIGIT SIX
+<parenleft>	<KP_7>	<parenright>						⑦	U2466	CIRCLED DIGIT SEVEN
+<parenleft>	<KP_8>	<parenright>						⑧	U2467	CIRCLED DIGIT EIGHT
+<parenleft>	<KP_9>	<parenright>						⑨	U2468	CIRCLED DIGIT NINE
+<parenleft>	<KP_Space>	<0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<KP_Space>	<1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<KP_Space>	<2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_Space>	<3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<KP_Space>	<4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<KP_Space>	<5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<KP_Space>	<6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<KP_Space>	<7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<KP_Space>	<8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<KP_Space>	<9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<KP_Space>	<KP_0>	<parenright>					⑳	U2473	CIRCLED NUMBER TWENTY
+<parenleft>	<KP_Space>	<KP_1>	<parenright>					㉑	U3251	CIRCLED NUMBER TWENTY ONE
+<parenleft>	<KP_Space>	<KP_2>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_Space>	<KP_3>	<parenright>					㉓	U3253	CIRCLED NUMBER TWENTY THREE
+<parenleft>	<KP_Space>	<KP_4>	<parenright>					㉔	U3254	CIRCLED NUMBER TWENTY FOUR
+<parenleft>	<KP_Space>	<KP_5>	<parenright>					㉕	U3255	CIRCLED NUMBER TWENTY FIVE
+<parenleft>	<KP_Space>	<KP_6>	<parenright>					㉖	U3256	CIRCLED NUMBER TWENTY SIX
+<parenleft>	<KP_Space>	<KP_7>	<parenright>					㉗	U3257	CIRCLED NUMBER TWENTY SEVEN
+<parenleft>	<KP_Space>	<KP_8>	<parenright>					㉘	U3258	CIRCLED NUMBER TWENTY EIGHT
+<parenleft>	<KP_Space>	<KP_9>	<parenright>					㉙	U3259	CIRCLED NUMBER TWENTY NINE
+<parenleft>	<KP_Space>	<KP_Space>	<parenright>					㉒	U3252	CIRCLED NUMBER TWENTY TWO
+<parenleft>	<KP_Space>	<parenright>						②	U2461	CIRCLED DIGIT TWO
+<parenleft>	<L>	<parenright>						Ⓛ	U24C1	CIRCLED LATIN CAPITAL LETTER L
+<parenleft>	<l>	<parenright>						ⓛ	U24DB	CIRCLED LATIN SMALL LETTER L
+<parenleft>	<M>	<parenright>						Ⓜ	U24C2	CIRCLED LATIN CAPITAL LETTER M
+<parenleft>	<m>	<parenright>						ⓜ	U24DC	CIRCLED LATIN SMALL LETTER M
+<parenleft>	<minus>	<parenright>						⊖	U2296	CIRCLED MINUS
+<parenleft>	<N>	<parenright>						Ⓝ	U24C3	CIRCLED LATIN CAPITAL LETTER N
+<parenleft>	<n>	<parenright>						ⓝ	U24DD	CIRCLED LATIN SMALL LETTER N
+<parenleft>	<O>	<parenright>						Ⓞ	U24C4	CIRCLED LATIN CAPITAL LETTER O
+<parenleft>	<o>	<parenright>						ⓞ	U24DE	CIRCLED LATIN SMALL LETTER O
+<parenleft>	<P>	<parenright>						Ⓟ	U24C5	CIRCLED LATIN CAPITAL LETTER P
+<parenleft>	<p>	<parenright>						ⓟ	U24DF	CIRCLED LATIN SMALL LETTER P
+<parenleft>	<parenright>							◌	U25CC	DOTTED CIRCLE
+<parenleft>	<plus>	<parenright>						⊕	U2295	CIRCLED PLUS
+<parenleft>	<Q>	<parenright>						Ⓠ	U24C6	CIRCLED LATIN CAPITAL LETTER Q
+<parenleft>	<q>	<parenright>						ⓠ	U24E0	CIRCLED LATIN SMALL LETTER Q
+<parenleft>	<R>	<parenright>						Ⓡ	U24C7	CIRCLED LATIN CAPITAL LETTER R
+<parenleft>	<r>	<parenright>						ⓡ	U24E1	CIRCLED LATIN SMALL LETTER R
+<parenleft>	<S>	<parenright>						Ⓢ	U24C8	CIRCLED LATIN CAPITAL LETTER S
+<parenleft>	<s>	<parenright>						ⓢ	U24E2	CIRCLED LATIN SMALL LETTER S
+<parenleft>	<slash>	<parenright>						⊘	U2298	CIRCLED DIVISION SLASH
+<parenleft>	<space>							˘	breve	BREVE
+<parenleft>	<T>	<parenright>						Ⓣ	U24C9	CIRCLED LATIN CAPITAL LETTER T
+<parenleft>	<t>	<parenright>						ⓣ	U24E3	CIRCLED LATIN SMALL LETTER T
+<parenleft>	<u>	<parenright>						ⓤ	U24E4	CIRCLED LATIN SMALL LETTER U
+<parenleft>	<V>	<parenright>						Ⓥ	U24CB	CIRCLED LATIN CAPITAL LETTER V
+<parenleft>	<v>	<parenright>						ⓥ	U24E5	CIRCLED LATIN SMALL LETTER V
+<parenleft>	<W>	<parenright>						Ⓦ	U24CC	CIRCLED LATIN CAPITAL LETTER W
+<parenleft>	<w>	<parenright>						ⓦ	U24E6	CIRCLED LATIN SMALL LETTER W
+<parenleft>	<X>	<parenright>						Ⓧ	U24CD	CIRCLED LATIN CAPITAL LETTER X
+<parenleft>	<x>	<parenright>						ⓧ	U24E7	CIRCLED LATIN SMALL LETTER X
+<parenleft>	<x>	<x>	<parenright>					⊗	U2297	CIRCLED TIMES
+<parenleft>	<Y>	<parenright>						Ⓨ	U24CE	CIRCLED LATIN CAPITAL LETTER Y
+<parenleft>	<y>	<parenright>						ⓨ	U24E8	CIRCLED LATIN SMALL LETTER Y
+<parenleft>	<Z>	<parenright>						Ⓩ	U24CF	CIRCLED LATIN CAPITAL LETTER Z
+<parenleft>	<z>	<parenright>						ⓩ	U24E9	CIRCLED LATIN SMALL LETTER Z
+<parenright>	<ampersand>	<parenright>						⸩	U2E29	RIGHT DOUBLE PARENTHESIS
+<parenright>	<bracketright>							⦘	U2998	RIGHT BLACK TORTOISE SHELL BRACKET
+<parenright>	<underscore>							⟌	U27CC	LONG DIVISION
+<percent>	<0>	<0>	<D>					ↇ	U2187	ROMAN NUMERAL FIFTY THOUSAND
+<percent>	<0>	<0>	<M>					ↈ	U2188	ROMAN NUMERAL ONE HUNDRED THOUSAND
+<percent>	<0>	<1>						Ⅰ	U2160	ROMAN NUMERAL ONE
+<percent>	<0>	<2>						Ⅱ	U2161	ROMAN NUMERAL TWO
+<percent>	<0>	<3>						Ⅲ	U2162	ROMAN NUMERAL THREE
+<percent>	<0>	<4>						Ⅳ	U2163	ROMAN NUMERAL FOUR
+<percent>	<0>	<5>						Ⅴ	U2164	ROMAN NUMERAL FIVE
+<percent>	<0>	<6>						Ⅵ	U2165	ROMAN NUMERAL SIX
+<percent>	<0>	<7>						Ⅶ	U2166	ROMAN NUMERAL SEVEN
+<percent>	<0>	<8>						Ⅷ	U2167	ROMAN NUMERAL EIGHT
+<percent>	<0>	<9>						Ⅸ	U2168	ROMAN NUMERAL NINE
+<percent>	<0>	<C>	<D>					ↀ	U2180	ROMAN NUMERAL ONE THOUSAND C D
+<percent>	<0>	<c>						Ⅽ	U216D	ROMAN NUMERAL ONE HUNDRED
+<percent>	<0>	<d>						Ⅾ	U216E	ROMAN NUMERAL FIVE HUNDRED
+<percent>	<0>	<D>						ↁ	U2181	ROMAN NUMERAL FIVE THOUSAND
+<percent>	<0>	<l>						Ⅼ	U216C	ROMAN NUMERAL FIFTY
+<percent>	<0>	<m>						Ⅿ	U216F	ROMAN NUMERAL ONE THOUSAND
+<percent>	<0>	<M>						ↂ	U2182	ROMAN NUMERAL TEN THOUSAND
+<percent>	<0>	<x>						Ⅹ	U2169	ROMAN NUMERAL TEN
+<percent>	<1>							ⅰ	U2170	SMALL ROMAN NUMERAL ONE
+<percent>	<2>							ⅱ	U2171	SMALL ROMAN NUMERAL TWO
+<percent>	<3>							ⅲ	U2172	SMALL ROMAN NUMERAL THREE
+<percent>	<4>							ⅳ	U2173	SMALL ROMAN NUMERAL FOUR
+<percent>	<5>							ⅴ	U2174	SMALL ROMAN NUMERAL FIVE
+<percent>	<6>							ⅵ	U2175	SMALL ROMAN NUMERAL SIX
+<percent>	<7>							ⅶ	U2176	SMALL ROMAN NUMERAL SEVEN
+<percent>	<8>							ⅷ	U2177	SMALL ROMAN NUMERAL EIGHT
+<percent>	<9>							ⅸ	U2178	SMALL ROMAN NUMERAL NINE
+<percent>	<C>							Ⅽ	U216D	ROMAN NUMERAL ONE HUNDRED
+<percent>	<c>							ⅽ	U217D	SMALL ROMAN NUMERAL ONE HUNDRED
+<percent>	<D>							Ⅾ	U216E	ROMAN NUMERAL FIVE HUNDRED
+<percent>	<d>							ⅾ	U217E	SMALL ROMAN NUMERAL FIVE HUNDRED
+<percent>	<L>							Ⅼ	U216C	ROMAN NUMERAL FIFTY
+<percent>	<l>							ⅼ	U217C	SMALL ROMAN NUMERAL FIFTY
+<percent>	<M>							Ⅿ	U216F	ROMAN NUMERAL ONE THOUSAND
+<percent>	<m>							ⅿ	U217F	SMALL ROMAN NUMERAL ONE THOUSAND
+<percent>	<o>							‰	U2030	PER MILLE SIGN
+<percent>	<parenleft>							⧘	U29D8	LEFT WIGGLY FENCE
+<percent>	<parenright>							⧙	U29D9	RIGHT WIGGLY FENCE
+<percent>	<percent>							‱	U2031	PER TEN THOUSAND (basis points)
+<percent>	<underscore>	<0>	<1>					Ⅺ	U216A	ROMAN NUMERAL ELEVEN
+<percent>	<underscore>	<0>	<2>					Ⅻ	U216B	ROMAN NUMERAL TWELVE
+<percent>	<underscore>	<1>						ⅺ	U217A	SMALL ROMAN NUMERAL ELEVEN
+<percent>	<underscore>	<2>						ⅻ	U217B	SMALL ROMAN NUMERAL TWELVE
+<percent>	<X>							Ⅹ	U2169	ROMAN NUMERAL TEN
+<percent>	<x>							ⅹ	U2179	SMALL ROMAN NUMERAL TEN
+<period>	<A>							Ȧ	U0226	LATIN CAPITAL LETTER A WITH DOT ABOVE
+<period>	<a>							ȧ	U0227	LATIN SMALL LETTER A WITH DOT ABOVE
+<period>	<acute>	<S>						Ṥ	U1E64	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<acute>	<s>						ṥ	U1E65	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<apostrophe>	<S>						Ṥ	U1E64	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<apostrophe>	<s>						ṥ	U1E65	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<asciicircum>							·	periodcentered	MIDDLE DOT
+<period>	<asciicircum>							⸳	U2E33	RAISED DOT
+<period>	<asciitilde>							⸳	U2E33	RAISED DOT
+<period>	<B>							Ḃ	U1E02	LATIN CAPITAL LETTER B WITH DOT ABOVE
+<period>	<b>							ḃ	U1E03	LATIN SMALL LETTER B WITH DOT ABOVE
+<period>	<backslash>	<period>						⋱	U22F1	DOWN RIGHT DIAGONAL ELLIPSIS
+<period>	<C>							Ċ	U010A	LATIN CAPITAL LETTER C WITH DOT ABOVE
+<period>	<c>							ċ	U010B	LATIN SMALL LETTER C WITH DOT ABOVE
+<period>	<colon>							∵	because	. : BECAUSE
+<period>	<D>							Ḋ	U1E0A	LATIN CAPITAL LETTER D WITH DOT ABOVE
+<period>	<d>							ḋ	U1E0B	LATIN SMALL LETTER D WITH DOT ABOVE
+<period>	<E>							Ė	U0116	LATIN CAPITAL LETTER E WITH DOT ABOVE
+<period>	<e>							ė	U0117	LATIN SMALL LETTER E WITH DOT ABOVE
+<period>	<equal>							•	enfilledcircbullet	BULLET
+<period>	<exclam>	<S>						Ṩ	U1E68	LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE
+<period>	<exclam>	<s>						ṩ	U1E69	LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+<period>	<F>							Ḟ	U1E1E	LATIN CAPITAL LETTER F WITH DOT ABOVE
+<period>	<f>							ḟ	U1E1F	LATIN SMALL LETTER F WITH DOT ABOVE
+<period>	<G>							Ġ	U0120	LATIN CAPITAL LETTER G WITH DOT ABOVE
+<period>	<g>							ġ	U0121	LATIN SMALL LETTER G WITH DOT ABOVE
+<period>	<greater>							›	U203a	SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
+<period>	<H>							Ḣ	U1E22	LATIN CAPITAL LETTER H WITH DOT ABOVE
+<period>	<h>							ḣ	U1E23	LATIN SMALL LETTER H WITH DOT ABOVE
+<period>	<I>							İ	U0130	LATIN CAPITAL LETTER I WITH DOT ABOVE
+<period>	<i>							ı	U0131	LATIN SMALL LETTER DOTLESS I
+<period>	<less>							‹	U2039	SINGLE LEFT-POINTING ANGLE QUOTATION MARK
+<period>	<M>							Ṁ	U1E40	LATIN CAPITAL LETTER M WITH DOT ABOVE
+<period>	<m>							ṁ	U1E41	LATIN SMALL LETTER M WITH DOT ABOVE
+<period>	<minus>							·	periodcentered	MIDDLE DOT
+<period>	<N>							Ṅ	U1E44	LATIN CAPITAL LETTER N WITH DOT ABOVE
+<period>	<n>							ṅ	U1E45	LATIN SMALL LETTER N WITH DOT ABOVE
+<period>	<O>							Ȯ	U022E	LATIN CAPITAL LETTER O WITH DOT ABOVE
+<period>	<o>							ȯ	U022F	LATIN SMALL LETTER O WITH DOT ABOVE
+<period>	<P>							Ṗ	U1E56	LATIN CAPITAL LETTER P WITH DOT ABOVE
+<period>	<p>							ṗ	U1E57	LATIN SMALL LETTER P WITH DOT ABOVE
+<period>	<parenright>							͒	U0352	COMBINING FERMATA
+<period>	<period>							…	ellipsis	HORIZONTAL ELLIPSIS
+<period>	<quotedbl>							∴	U2234	THEREFORE
+<period>	<R>							Ṙ	U1E58	LATIN CAPITAL LETTER R WITH DOT ABOVE
+<period>	<r>							ṙ	U1E59	LATIN SMALL LETTER R WITH DOT ABOVE
+<period>	<S>							Ṡ	U1E60	LATIN CAPITAL LETTER S WITH DOT ABOVE
+<period>	<s>							ṡ	U1E61	LATIN SMALL LETTER S WITH DOT ABOVE
+<period>	<Sacute>							Ṥ	U1E64	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<sacute>							ṥ	U1E65	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+<period>	<Scaron>							Ṧ	U1E66	LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
+<period>	<scaron>							ṧ	U1E67	LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+<period>	<slash>	<period>						⁒	U2052	COMMERCIAL MINUS SIGN
+<period>	<T>							Ṫ	U1E6A	LATIN CAPITAL LETTER T WITH DOT ABOVE
+<period>	<t>							ṫ	U1E6B	LATIN SMALL LETTER T WITH DOT ABOVE
+<period>	<W>							Ẇ	U1E86	LATIN CAPITAL LETTER W WITH DOT ABOVE
+<period>	<w>							ẇ	U1E87	LATIN SMALL LETTER W WITH DOT ABOVE
+<period>	<X>							Ẋ	U1E8A	LATIN CAPITAL LETTER X WITH DOT ABOVE
+<period>	<x>							ẋ	U1E8B	LATIN SMALL LETTER X WITH DOT ABOVE
+<period>	<Y>							Ẏ	U1E8E	LATIN CAPITAL LETTER Y WITH DOT ABOVE
+<period>	<y>							ẏ	U1E8F	LATIN SMALL LETTER Y WITH DOT ABOVE
+<period>	<Z>							Ż	U017B	LATIN CAPITAL LETTER Z WITH DOT ABOVE
+<period>	<z>							ż	U017C	LATIN SMALL LETTER Z WITH DOT ABOVE
+<plus>	<greater>							≫	U226B	MUCH GREATER-THAN
+<plus>	<less>							≪	U226A	MUCH LESS-THAN
+<plus>	<minus>							±	plusminus	PLUS-MINUS SIGN
+<plus>	<O>							Ơ	U01A0	LATIN CAPITAL LETTER O WITH HORN
+<plus>	<o>							ơ	U01A1	LATIN SMALL LETTER O WITH HORN
+<plus>	<plus>	<greater>						⋙	U22D9	VERY MUCH GREATER-THAN
+<plus>	<plus>	<less>						⋘	U22D8	VERY MUCH LESS-THAN
+<plus>	<u>							ư	U01B0	LATIN SMALL LETTER U WITH HORN
+<q>	<ampersand>	<p>						ȹ	U0239	LATIN SMALL LETTER QP DIGRAPH
+<q>	<grave>							ꞯ	UA7AF	LATIN LETTER SMALL CAPITAL Q
+<question>	<A>							Ả	U1EA2	LATIN CAPITAL LETTER A WITH HOOK ABOVE
+<question>	<a>							ả	U1EA3	LATIN SMALL LETTER A WITH HOOK ABOVE
+<question>	<Abreve>							Ẳ	U1EB2	LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE
+<question>	<abreve>							ẳ	U1EB3	LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE
+<question>	<Acircumflex>							Ẩ	U1EA8	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<acircumflex>							ẩ	U1EA9	LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<ampersand>	<exclam>						⁈	U2048	QUESTION EXCLAMATION MARK
+<question>	<ampersand>	<question>						⁇	U2047	DOUBLE QUESTION MARK
+<question>	<asciicircum>	<A>						Ẩ	U1EA8	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<asciicircum>	<a>						ẩ	U1EA9	LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<asciicircum>	<E>						Ể	U1EC2	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<asciicircum>	<e>						ể	U1EC3	LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<asciicircum>	<O>						Ổ	U1ED4	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<asciicircum>	<o>						ổ	U1ED5	LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<b>	<A>						Ẳ	U1EB2	LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE
+<question>	<b>	<a>						ẳ	U1EB3	LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE
+<question>	<BackSpace>							⸮	U2E2E	REVERSED QUESTION MARK
+<question>	<braceleft>							ʢ	U02A2	LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<question>	<E>							Ẻ	U1EBA	LATIN CAPITAL LETTER E WITH HOOK ABOVE
+<question>	<e>							ẻ	U1EBB	LATIN SMALL LETTER E WITH HOOK ABOVE
+<question>	<Ecircumflex>							Ể	U1EC2	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<ecircumflex>							ể	U1EC3	LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<exclam>							⸘	U2E18	INVERTED INTERROBANG
+<question>	<exclam>							⸘	U2E18	INVERTED INTERROBANG, standard now.
+<question>	<I>							Ỉ	U1EC8	LATIN CAPITAL LETTER I WITH HOOK ABOVE
+<question>	<i>							ỉ	U1EC9	LATIN SMALL LETTER I WITH HOOK ABOVE
+<question>	<less>							⸮	U2E2E	REVERSED QUESTION MARK
+<question>	<minus>							ʡ	U02A1	LATIN LETTER GLOTTAL STOP WITH STROKE
+<question>	<O>							Ỏ	U1ECE	LATIN CAPITAL LETTER O WITH HOOK ABOVE
+<question>	<o>							ỏ	U1ECF	LATIN SMALL LETTER O WITH HOOK ABOVE
+<question>	<Ocircumflex>							Ổ	U1ED4	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<ocircumflex>							ổ	U1ED5	LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<question>	<Ohorn>							Ở	U1EDE	LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE
+<question>	<ohorn>							ở	U1EDF	LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE
+<question>	<parenleft>							ʕ	U0295	LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<question>	<period>							ʔ	U0294	LATIN LETTER GLOTTAL STOP
+<question>	<plus>	<O>						Ở	U1EDE	LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE
+<question>	<plus>	<o>						ở	U1EDF	LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE
+<question>	<plus>	<u>						ử	U1EED	LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE
+<question>	<question>							¿	questiondown	INVERTED QUESTION MARK
+<question>	<u>							ủ	U1EE7	LATIN SMALL LETTER U WITH HOOK ABOVE
+<question>	<uhorn>							ử	U1EED	LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE
+<question>	<v>							ʖ	U0296	LATIN LETTER INVERTED GLOTTAL STOP
+<question>	<Y>							Ỷ	U1EF6	LATIN CAPITAL LETTER Y WITH HOOK ABOVE
+<question>	<y>							ỷ	U1EF7	LATIN SMALL LETTER Y WITH HOOK ABOVE
+<questiondown>	<exclamdown>							⸘	U2E18	"INVERTED INTERROBANG (if you have a ¡ key. Otherwise...? ""?i"" maybe?"
+<quotedbl>	<A>							Ä	Adiaeresis	LATIN CAPITAL LETTER A WITH DIAERESIS
+<quotedbl>	<a>							ä	adiaeresis	LATIN SMALL LETTER A WITH DIAERESIS
+<quotedbl>	<acute>							̈́	U0344	COMBINING GREEK DIALYTIKA TONOS
+<quotedbl>	<apostrophe>							̈́	U0344	COMBINING GREEK DIALYTIKA TONOS
+<quotedbl>	<asciitilde>	<O>						Ṏ	U1E4E	LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS
+<quotedbl>	<asciitilde>	<o>						ṏ	U1E4F	LATIN SMALL LETTER O WITH TILDE AND DIAERESIS
+<quotedbl>	<comma>							„	U201e	DOUBLE LOW-9 QUOTATION MARK
+<quotedbl>	<E>							Ë	Ediaeresis	LATIN CAPITAL LETTER E WITH DIAERESIS
+<quotedbl>	<e>							ë	ediaeresis	LATIN SMALL LETTER E WITH DIAERESIS
+<quotedbl>	<greater>							”	U201d	RIGHT DOUBLE QUOTATION MARK
+<quotedbl>	<H>							Ḧ	U1E26	LATIN CAPITAL LETTER H WITH DIAERESIS
+<quotedbl>	<h>							ḧ	U1E27	LATIN SMALL LETTER H WITH DIAERESIS
+<quotedbl>	<I>							Ï	Idiaeresis	LATIN CAPITAL LETTER I WITH DIAERESIS
+<quotedbl>	<i>							ï	idiaeresis	LATIN SMALL LETTER I WITH DIAERESIS
+<quotedbl>	<less>							“	U201c	LEFT DOUBLE QUOTATION MARK
+<quotedbl>	<macron>	<u>						ṻ	U1E7B	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+<quotedbl>	<O>							Ö	Odiaeresis	LATIN CAPITAL LETTER O WITH DIAERESIS
+<quotedbl>	<o>							ö	odiaeresis	LATIN SMALL LETTER O WITH DIAERESIS
+<quotedbl>	<Otilde>							Ṏ	U1E4E	LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS
+<quotedbl>	<otilde>							ṏ	U1E4F	LATIN SMALL LETTER O WITH TILDE AND DIAERESIS
+<quotedbl>	<period>							∵	U2235	BECAUSE
+<quotedbl>	<quotedbl>							¨	diaeresis	DIAERESIS
+<quotedbl>	<quotedbl>							〃	U3003	DITTO MARK
+<quotedbl>	<t>							ẗ	U1E97	LATIN SMALL LETTER T WITH DIAERESIS
+<quotedbl>	<u>							ü	udiaeresis	LATIN SMALL LETTER U WITH DIAERESIS
+<quotedbl>	<umacron>							ṻ	U1E7B	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+<quotedbl>	<underscore>	<u>						ṻ	U1E7B	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+<quotedbl>	<W>							Ẅ	U1E84	LATIN CAPITAL LETTER W WITH DIAERESIS
+<quotedbl>	<w>							ẅ	U1E85	LATIN SMALL LETTER W WITH DIAERESIS
+<quotedbl>	<X>							Ẍ	U1E8C	LATIN CAPITAL LETTER X WITH DIAERESIS
+<quotedbl>	<x>							ẍ	U1E8D	LATIN SMALL LETTER X WITH DIAERESIS
+<quotedbl>	<y>							ÿ	ydiaeresis	LATIN SMALL LETTER Y WITH DIAERESIS
+<quotedbl>	<Y>							Ÿ	U0178	LATIN CAPITAL LETTER Y WITH DIAERESIS
+<R>	<0>							Ꝛ	UA75A	LATIN CAPITAL LETTER R ROTUNDA
+<r>	<0>							ꝛ	UA75B	LATIN SMALL LETTER R ROTUNDA
+<R>	<apostrophe>							Ŕ	U0154	LATIN CAPITAL LETTER R WITH ACUTE
+<r>	<apostrophe>							ŕ	U0155	LATIN SMALL LETTER R WITH ACUTE
+<R>	<comma>							Ŗ	U0156	LATIN CAPITAL LETTER R WITH CEDILLA
+<r>	<comma>							ŗ	U0157	LATIN SMALL LETTER R WITH CEDILLA
+<r>	<d>							ɾ	U027E	LATIN SMALL LETTER R WITH FISHHOOK: voiced alveolar flap or tap (American English intervocalic allophone of d, or Spanish r)
+<R>	<e>							ℜ	U211C	BLACK-LETTER CAPITAL R (Real Part)
+<R>	<equal>							₹	U20b9	INDIAN RUPEE SIGN
+<r>	<equal>							₹	U20b9	INDIAN RUPEE SIGN
+<r>	<grave>							ʀ	U0280	LATIN LETTER SMALL CAPITAL R
+<R>	<L>	<E>						‫	U202B	RIGHT-TO-LEFT EMBEDDING
+<R>	<L>	<I>						⁧	U2067	RIGHT-TO-LEFT ISOLATE
+<R>	<L>	<M>						‏	U200F	RIGHT-TO-LEFT MARK
+<R>	<L>	<O>						‮	U202E	RIGHT-TO-LEFT OVERRIDE
+<R>	<less>							Ř	U0158	LATIN CAPITAL LETTER R WITH CARON
+<r>	<less>							ř	U0159	LATIN SMALL LETTER R WITH CARON
+<R>	<o>							®	registered	REGISTERED SIGN
+<R>	<O>							®	registered	REGISTERED SIGN
+<R>	<O>							Ꝛ	UA75A	LATIN CAPITAL LETTER R ROTUNDA
+<r>	<o>							ꝛ	UA75B	LATIN SMALL LETTER R ROTUNDA
+<r>	<r>							ɹ	U0279	LATIN SMALL LETTER TURNED R: voiced alveolar approximant (American English (at least) R)
+<R>	<s>							₨	U20a8	RUPEE SIGN
+<R>	<x>							℞	U211E	PRESCRIPTION TAKE
+<Right>	<asciitilde>							⇝	U21DD	RIGHTWARDS SQUIGGLE ARROW
+<Right>	<bar>							⇥	U21E5	RIGHTWARDS ARROW TO BAR
+<Right>	<c>							↻	U21BB	CLOCKWISE OPEN CIRCLE ARROW
+<Right>	<f>	<less>	<3>					☙	U2619	REVERSED ROTATED FLORAL HEART BULLET
+<Right>	<Left>							↔	U2194	LEFT RIGHT ARROW (kragen's)
+<Right>	<minus>							⇢	U21E2	RIGHTWARDS DASHED ARROW
+<Right>	<o>							⟳	U27F3	CLOCKWISE GAPPED CIRCLE ARROW
+<Right>	<Right>							→	rightarrow	RIGHTWARDS ARROW
+<S>	<apostrophe>							Ś	U015A	LATIN CAPITAL LETTER S WITH ACUTE
+<s>	<apostrophe>							ś	U015B	LATIN SMALL LETTER S WITH ACUTE
+<s>	<c>	<r>	<period>					℈	U2108	SCRUPLE
+<s>	<cedilla>							ş	U015F	LATIN SMALL LETTER S WITH CEDILLA
+<S>	<comma>							Ş	U015E	LATIN CAPITAL LETTER S WITH CEDILLA
+<s>	<comma>							ş	U015F	LATIN SMALL LETTER S WITH CEDILLA
+<s>	<comma>							ʂ	U0282	LATIN SMALL LETTER S WITH HOOK
+<s>	<e>	<c>						§	U00A7	SECTION SIGN
+<s>	<exclam>							§	section	SECTION SIGN
+<S>	<exclam>							§	section	SECTION SIGN
+<s>	<grave>							ꜱ	UA731	LATIN LETTER SMALL CAPITAL S
+<s>	<h>							ʃ	U0283	LATIN SMALL LETTER ESH
+<S>	<less>							Š	U0160	LATIN CAPITAL LETTER S WITH CARON
+<s>	<less>							š	U0161	LATIN SMALL LETTER S WITH CARON
+<S>	<M>							℠	U2120	SERVICE MARK
+<s>	<M>							℠	U2120	SERVICE MARK
+<S>	<m>							℠	U2120	SERVICE MARK
+<s>	<m>							℠	U2120	SERVICE MARK
+<s>	<o>							§	section	SECTION SIGN
+<S>	<O>							§	section	SECTION SIGN
+<S>	<parenleft>							⟅	U27C5	LEFT S-SHAPED BAG DELIMITER
+<S>	<parenright>							⟆	U27C6	RIGHT S-SHAPED BAG DELIMITER
+<S>	<period>							Ṡ	U1E60	LATIN CAPITAL LETTER S WITH DOT ABOVE
+<s>	<period>							ṡ	U1E61	LATIN SMALL LETTER S WITH DOT ABOVE
+<s>	<q>							√	U221A	SQUARE ROOT
+<s>	<s>							ß	ssharp	LATIN SMALL LETTER SHARP S
+<S>	<S>							ẞ	U1e9e	LATIN CAPITAL LETTER SHARP S
+<S>	<S>							ẞ	U1E9E	LATIN CAPITAL LETTER SHARP S
+<S>	<semicolon>							Ș	U0218	LATIN CAPITAL LETTER S WITH COMMA BELOW
+<s>	<semicolon>							ș	U0219	LATIN SMALL LETTER S WITH COMMA BELOW
+<s>	<t>							ﬆ	UFB06	LATIN SMALL LIGATURE ST
+<semicolon>	<A>							Ą	U0104	LATIN CAPITAL LETTER A WITH OGONEK
+<semicolon>	<a>							ą	U0105	LATIN SMALL LETTER A WITH OGONEK
+<semicolon>	<at>							⸵	U2E35	TURNED SEMICOLON
+<semicolon>	<BackSpace>							⁏	U204F	REVERSED SEMICOLON
+<semicolon>	<E>							Ę	U0118	LATIN CAPITAL LETTER E WITH OGONEK
+<semicolon>	<e>							ę	U0119	LATIN SMALL LETTER E WITH OGONEK
+<semicolon>	<I>							Į	U012E	LATIN CAPITAL LETTER I WITH OGONEK
+<semicolon>	<i>							į	U012F	LATIN SMALL LETTER I WITH OGONEK
+<semicolon>	<less>							⁏	U204F	REVERSED SEMICOLON
+<semicolon>	<O>							Ǫ	U01EA	LATIN CAPITAL LETTER O WITH OGONEK
+<semicolon>	<o>							ǫ	U01EB	LATIN SMALL LETTER O WITH OGONEK
+<semicolon>	<S>							Ș	U0218	LATIN CAPITAL LETTER S WITH COMMA BELOW
+<semicolon>	<s>							ș	U0219	LATIN SMALL LETTER S WITH COMMA BELOW
+<semicolon>	<T>							Ț	U021A	LATIN CAPITAL LETTER T WITH COMMA BELOW
+<semicolon>	<t>							ț	U021B	LATIN SMALL LETTER T WITH COMMA BELOW
+<semicolon>	<u>							ų	U0173	LATIN SMALL LETTER U WITH OGONEK
+<semicolon>	<underscore>							⍮	U236e	; _ APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR
+<slash>	<0>							∅	U2205	EMPTY SET
+<slash>	<ampersand>	<L>						Ꝇ	UA746	LATIN CAPITAL LETTER BROKEN L
+<slash>	<ampersand>	<l>						ꝇ	UA747	LATIN SMALL LETTER BROKEN L
+<slash>	<b>							ƀ	U0180	LATIN SMALL LETTER B WITH STROKE
+<slash>	<backslash>							∧	U2227	LOGICAL AND
+<slash>	<braceleft>	<parenleft>						⊄	U2284	NOT A SUBSET OF
+<slash>	<C>							₡	U20a1	COLON SIGN
+<slash>	<c>							¢	cent	CENT SIGN
+<slash>	<D>							Đ	Dstroke	LATIN CAPITAL LETTER D WITH STROKE
+<slash>	<d>							đ	dstroke	LATIN SMALL LETTER D WITH STROKE
+<slash>	<E>	<E>						∄	U2204	THERE DOES NOT EXIST
+<slash>	<equal>							≠	U2260	NOT EQUAL TO
+<slash>	<equal>							≠	U2260	NOT EQUAL TO
+<slash>	<exclam>	<backslash>						⚠	U26A0	WARNING SIGN
+<slash>	<G>							Ǥ	U01E4	LATIN CAPITAL LETTER G WITH STROKE
+<slash>	<g>							ǥ	U01E5	LATIN SMALL LETTER G WITH STROKE
+<slash>	<H>							Ħ	U0126	LATIN CAPITAL LETTER H WITH STROKE
+<slash>	<h>							ħ	U0127	LATIN SMALL LETTER H WITH STROKE
+<slash>	<I>							Ɨ	U0197	LATIN CAPITAL LETTER I WITH STROKE
+<slash>	<i>							ɨ	U0268	LATIN SMALL LETTER I WITH STROKE
+<slash>	<L>							Ł	U0141	LATIN CAPITAL LETTER L WITH STROKE
+<slash>	<l>							ł	U0142	LATIN SMALL LETTER L WITH STROKE
+<slash>	<leftarrow>							↚	U219A	LEFTWARDS ARROW WITH STROKE
+<slash>	<m>							₥	U20a5	MILL SIGN
+<slash>	<minus>							⌿	U233f	/ - APL FUNCTIONAL SYMBOL SLASH BAR
+<slash>	<n>	<i>						∌	U220C	DOES NOT CONTAIN AS MEMBER
+<slash>	<O>							Ø	Oslash	LATIN CAPITAL LETTER O WITH STROKE
+<slash>	<o>							ø	oslash	LATIN SMALL LETTER O WITH STROKE
+<slash>	<period>	<period>						⋰	U22F0	UP RIGHT DIAGONAL ELLIPSIS
+<slash>	<rightarrow>							↛	U219B	RIGHTWARDS ARROW WITH STROKE
+<slash>	<slash>							⁄	U2044	FRACTION SLASH
+<slash>	<T>							Ŧ	U0166	LATIN CAPITAL LETTER T WITH STROKE
+<slash>	<t>							ŧ	U0167	LATIN SMALL LETTER T WITH STROKE
+<slash>	<u>							µ	mu	MICRO SIGN
+<slash>	<u>							µ	U00B5	MICRO SIGN
+<slash>	<v>							√	U221a	/ v SQUARE ROOT
+<slash>	<Z>							Ƶ	U01B5	LATIN CAPITAL LETTER Z WITH STROKE
+<slash>	<z>							ƶ	U01B6	LATIN SMALL LETTER Z WITH STROKE
+<space>	<3>	<M>						 	U2004	THREE-PER-EM SPACE
+<space>	<4>	<M>						 	U2005	FOUR-PER-EM SPACE
+<space>	<6>	<M>						 	U2006	SIX-PER-EM SPACE
+<space>	<bar>							 	U200A	HAIR SPACE
+<space>	<comma>							 	U2008	PUNCTUATION SPACE
+<space>	<less>							ˇ	caron	CARON
+<space>	<M>							 	U2003	EM SPACE
+<space>	<minus>							 — 		EM DASH surrounded by THIN SPACEs.
+<space>	<minus>							‑	U2011	NON-BREAKING HYPHEN
+<space>	<N>							 	U2002	EN SPACE
+<space>	<n>							 	U202f	NARROW NO-BREAK SPACE
+<space>	<numbersign>							 	U2007	FIGURE SPACE
+<space>	<parenleft>							˘	breve	BREVE
+<space>	<period>							 	U2008	PUNCTUATION SPACE
+<space>	<plus>							 	U205F	MEDIUM MATHEMATICAL SPACE
+<space>	<space>							 	nobreakspace	NO-BREAK SPACE
+<space>	<space>							 	U00A0	NO-BREAK SPACE
+<T>	<comma>							Ţ	U0162	LATIN CAPITAL LETTER T WITH CEDILLA
+<t>	<comma>							ţ	U0163	LATIN SMALL LETTER T WITH CEDILLA
+<t>	<comma>							ʈ	U0288	LATIN SMALL LETTER T WITH RETROFLEX HOOK
+<t>	<grave>							ᴛ	U1D1B	LATIN LETTER SMALL CAPITAL T
+<T>	<H>							Þ	THORN	LATIN CAPITAL LETTER THORN
+<t>	<h>							þ	thorn	LATIN SMALL LETTER THORN
+<T>	<less>							Ť	U0164	LATIN CAPITAL LETTER T WITH CARON
+<t>	<less>							ť	U0165	LATIN SMALL LETTER T WITH CARON
+<T>	<M>							™	U2122	TRADE MARK SIGN
+<t>	<M>							™	U2122	TRADE MARK SIGN
+<T>	<m>							™	U2122	TRADE MARK SIGN
+<t>	<m>							™	U2122	TRADE MARK SIGN
+<T>	<minus>							Ŧ	U0166	LATIN CAPITAL LETTER T WITH STROKE
+<t>	<minus>							ŧ	U0167	LATIN SMALL LETTER T WITH STROKE
+<T>	<period>							Ṫ	U1E6A	LATIN CAPITAL LETTER T WITH DOT ABOVE
+<t>	<period>							ṫ	U1E6B	LATIN SMALL LETTER T WITH DOT ABOVE
+<T>	<semicolon>							Ț	U021A	LATIN CAPITAL LETTER T WITH COMMA BELOW
+<t>	<semicolon>							ț	U021B	LATIN SMALL LETTER T WITH COMMA BELOW
+<T>	<slash>							Ŧ	U0166	LATIN CAPITAL LETTER T WITH STROKE
+<t>	<slash>							ŧ	U0167	LATIN SMALL LETTER T WITH STROKE
+<u>	<A>							Ă	U0102	LATIN CAPITAL LETTER A WITH BREVE
+<u>	<a>							ă	U0103	LATIN SMALL LETTER A WITH BREVE
+<u>	<acute>							ú	uacute	LATIN SMALL LETTER U WITH ACUTE
+<u>	<apostrophe>							ú	uacute	LATIN SMALL LETTER U WITH ACUTE
+<u>	<asciicircum>							û	ucircumflex	LATIN SMALL LETTER U WITH CIRCUMFLEX
+<u>	<asciitilde>							ũ	U0169	LATIN SMALL LETTER U WITH TILDE
+<u>	<asterisk>							ů	U016F	LATIN SMALL LETTER U WITH RING ABOVE
+<u>	<comma>							ų	U0173	LATIN SMALL LETTER U WITH OGONEK
+<u>	<diaeresis>							ü	udiaeresis	LATIN SMALL LETTER U WITH DIAERESIS
+<u>	<grave>							ù	ugrave	LATIN SMALL LETTER U WITH GRAVE
+<u>	<grave>							ᴜ	U1D1C	LATIN LETTER SMALL CAPITAL U
+<u>	<greater>							û	ucircumflex	LATIN SMALL LETTER U WITH CIRCUMFLEX
+<u>	<h>							ʊ	U028A	LATIN SMALL LETTER UPSILON
+<U>	<H>							ʊ	U028A	LATIN SMALL LETTER UPSILON
+<u>	<i>							ɯ	U026F	LATIN SMALL LETTER TURNED M
+<u>	<minus>							ū	U016B	LATIN SMALL LETTER U WITH MACRON
+<u>	<quotedbl>							ü	udiaeresis	LATIN SMALL LETTER U WITH DIAERESIS
+<u>	<semicolon>							ų	U0173	LATIN SMALL LETTER U WITH OGONEK
+<u>	<slash>							µ	mu	MICRO SIGN
+<u>	<u>							ŭ	U016D	LATIN SMALL LETTER U WITH BREVE
+<u>	<underscore>							ū	U016B	LATIN SMALL LETTER U WITH MACRON
+<U00FE>	<t>							ꝥ	UA765	LATIN SMALL LETTER THORN WITH STROKE
+<U2208>	<slash>							∉	U2209	NOT AN ELEMENT OF (I have ∈ on my keyboard...)
+<U220B>	<slash>							∌	U220C	DOES NOT CONTAIN AS MEMBER
+<underbar>	<0>							₀	U2080	SUBSCRIPT ZERO
+<underbar>	<1>							₁	U2081	SUBSCRIPT ONE
+<underbar>	<2>							₂	U2082	SUBSCRIPT TWO
+<underbar>	<3>							₃	U2083	SUBSCRIPT THREE
+<underbar>	<4>							₄	U2084	SUBSCRIPT FOUR
+<underbar>	<5>							₅	U2085	SUBSCRIPT FIVE
+<underbar>	<6>							₆	U2086	SUBSCRIPT SIX
+<underbar>	<7>							₇	U2087	SUBSCRIPT SEVEN
+<underbar>	<8>							₈	U2088	SUBSCRIPT EIGHT
+<underbar>	<9>							₉	U2089	SUBSCRIPT NINE
+<underbar>	<equal>							₌	U208C	SUBSCRIPT EQUALS SIGN
+<underbar>	<KP_0>							₀	U2080	SUBSCRIPT ZERO
+<underbar>	<KP_1>							₁	U2081	SUBSCRIPT ONE
+<underbar>	<KP_2>							₂	U2082	SUBSCRIPT TWO
+<underbar>	<KP_3>							₃	U2083	SUBSCRIPT THREE
+<underbar>	<KP_4>							₄	U2084	SUBSCRIPT FOUR
+<underbar>	<KP_5>							₅	U2085	SUBSCRIPT FIVE
+<underbar>	<KP_6>							₆	U2086	SUBSCRIPT SIX
+<underbar>	<KP_7>							₇	U2087	SUBSCRIPT SEVEN
+<underbar>	<KP_8>							₈	U2088	SUBSCRIPT EIGHT
+<underbar>	<KP_9>							₉	U2089	SUBSCRIPT NINE
+<underbar>	<KP_Add>							₊	U208A	SUBSCRIPT PLUS SIGN
+<underbar>	<KP_Equal>							₌	U208C	SUBSCRIPT EQUALS SIGN
+<underbar>	<KP_Space>							₂	U2082	SUBSCRIPT TWO
+<underbar>	<parenleft>							₍	U208D	SUBSCRIPT LEFT PARENTHESIS
+<underbar>	<parenright>							₎	U208E	SUBSCRIPT RIGHT PARENTHESIS
+<underbar>	<plus>							₊	U208A	SUBSCRIPT PLUS SIGN
+<underscore>	<0>							₀	U2080	SUBSCRIPT ZERO
+<underscore>	<0>							₀	U2080	SUBSCRIPT ZERO
+<underscore>	<1>							₁	U2081	SUBSCRIPT ONE
+<underscore>	<1>							₁	U2081	SUBSCRIPT ONE
+<underscore>	<2>							₂	U2082	SUBSCRIPT TWO
+<underscore>	<2>							₂	U2082	SUBSCRIPT TWO
+<underscore>	<3>							₃	U2083	SUBSCRIPT THREE
+<underscore>	<3>							₃	U2083	SUBSCRIPT THREE
+<underscore>	<4>							₄	U2084	SUBSCRIPT FOUR
+<underscore>	<4>							₄	U2084	SUBSCRIPT FOUR
+<underscore>	<5>							₅	U2085	SUBSCRIPT FIVE
+<underscore>	<5>							₅	U2085	SUBSCRIPT FIVE
+<underscore>	<6>							₆	U2086	SUBSCRIPT SIX
+<underscore>	<6>							₆	U2086	SUBSCRIPT SIX
+<underscore>	<7>							₇	U2087	SUBSCRIPT SEVEN
+<underscore>	<7>							₇	U2087	SUBSCRIPT SEVEN
+<underscore>	<8>							₈	U2088	SUBSCRIPT EIGHT
+<underscore>	<8>							₈	U2088	SUBSCRIPT EIGHT
+<underscore>	<9>							₉	U2089	SUBSCRIPT NINE
+<underscore>	<9>							₉	U2089	SUBSCRIPT NONE
+<underscore>	<A>							Ā	U0100	LATIN CAPITAL LETTER A WITH MACRON
+<underscore>	<a>							ā	U0101	LATIN SMALL LETTER A WITH MACRON
+<underscore>	<a>							ₐ	U2090	LATIN SUBSCRIPT SMALL LETTER A
+<underscore>	<Adiaeresis>							Ǟ	U01DE	LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON
+<underscore>	<adiaeresis>							ǟ	U01DF	LATIN SMALL LETTER A WITH DIAERESIS AND MACRON
+<underscore>	<AE>							Ǣ	U01E2	LATIN CAPITAL LETTER AE WITH MACRON
+<underscore>	<ae>							ǣ	U01E3	LATIN SMALL LETTER AE WITH MACRON
+<underscore>	<apostrophe>							⍘	U2358	_ ' APL FUNCTIONAL SYMBOL QUOTE UNDERBAR
+<underscore>	<asciicircum>	<underscore>						⌤	U2324	UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS; aka ENTER KEY, aka NOT AMUSED.
+<underscore>	<asciicircum>							¯	macron	MACRON
+<underscore>	<asciitilde>	<O>						Ȭ	U022C	LATIN CAPITAL LETTER O WITH TILDE AND MACRON
+<underscore>	<asciitilde>	<o>						ȭ	U022D	LATIN SMALL LETTER O WITH TILDE AND MACRON
+<underscore>	<asterisk>	<b>						ᵦ	U1D66	GREEK SUBSCRIPT SMALL LETTER BETA
+<underscore>	<asterisk>	<f>						ᵩ	U1D69	GREEK SUBSCRIPT SMALL LETTER PHI
+<underscore>	<asterisk>	<g>						ᵧ	U1D67	GREEK SUBSCRIPT SMALL LETTER GAMMA
+<underscore>	<asterisk>	<r>						ᵨ	U1D68	GREEK SUBSCRIPT SMALL LETTER RHO
+<underscore>	<asterisk>	<x>						ᵪ	U1D6A	GREEK SUBSCRIPT SMALL LETTER CHI
+<underscore>	<bar>	<underscore>						⊥	U22A5	UP TACK (bottom) or should we use U27C2 PERPENDICULAR?
+<underscore>	<E>							Ē	U0112	LATIN CAPITAL LETTER E WITH MACRON
+<underscore>	<e>							ē	U0113	LATIN SMALL LETTER E WITH MACRON
+<underscore>	<e>							ₑ	U2091	LATIN SUBSCRIPT SMALL LETTER E
+<underscore>	<equal>							₌	U208C	SUBSCRIPT EQUALS SIGN
+<underscore>	<equal>							₌	U208C	SUBSCRIPT EQUALS SIGN
+<underscore>	<exclam>	<L>						Ḹ	U1E38	LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON
+<underscore>	<exclam>	<l>						ḹ	U1E39	LATIN SMALL LETTER L WITH DOT BELOW AND MACRON
+<underscore>	<exclam>	<R>						Ṝ	U1E5C	LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON
+<underscore>	<exclam>	<r>						ṝ	U1E5D	LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+<underscore>	<exclam>	<underscore>						⊤	U22A4	DOWN TACK (opposite of False)
+<underscore>	<G>							Ḡ	U1E20	LATIN CAPITAL LETTER G WITH MACRON
+<underscore>	<g>							ḡ	U1E21	LATIN SMALL LETTER G WITH MACRON
+<underscore>	<greater>	<underscore>						⊢	U22A2	RIGHT TACK
+<underscore>	<greater>							≥	U2265	_ > GREATER-THAN OR EQUAL TO
+<underscore>	<h>							ₕ	U2095	LATIN SUBSCRIPT SMALL LETTER H
+<underscore>	<I>							Ī	U012A	LATIN CAPITAL LETTER I WITH MACRON
+<underscore>	<i>							ī	U012B	LATIN SMALL LETTER I WITH MACRON
+<underscore>	<i>							ᵢ	U1D62	LATIN SUBSCRIPT SMALL LETTER I
+<underscore>	<j>							ⱼ	U2C7C	LATIN SUBSCRIPT SMALL LETTER J
+<underscore>	<k>							ₖ	U2096	LATIN SUBSCRIPT SMALL LETTER K
+<underscore>	<KP_0>							₀	U2080	SUBSCRIPT ZERO
+<underscore>	<KP_1>							₁	U2081	SUBSCRIPT ONE
+<underscore>	<KP_2>							₂	U2082	SUBSCRIPT TWO
+<underscore>	<KP_3>							₃	U2083	SUBSCRIPT THREE
+<underscore>	<KP_4>							₄	U2084	SUBSCRIPT FOUR
+<underscore>	<KP_5>							₅	U2085	SUBSCRIPT FIVE
+<underscore>	<KP_6>							₆	U2086	SUBSCRIPT SIX
+<underscore>	<KP_7>							₇	U2087	SUBSCRIPT SEVEN
+<underscore>	<KP_8>							₈	U2088	SUBSCRIPT EIGHT
+<underscore>	<KP_9>							₉	U2089	SUBSCRIPT NINE
+<underscore>	<KP_Add>							₊	U208A	SUBSCRIPT PLUS SIGN
+<underscore>	<KP_Equal>							₌	U208C	SUBSCRIPT EQUALS SIGN
+<underscore>	<KP_Space>							₂	U2082	SUBSCRIPT TWO
+<underscore>	<l>							ₗ	U2097	LATIN SUBSCRIPT SMALL LETTER L
+<underscore>	<less>	<underscore>						⊣	U22A3	LEFT TACK
+<underscore>	<less>							≤	U2264	_ < LESS-THAN OR EQUAL TO
+<underscore>	<m>							ₘ	U2098	LATIN SUBSCRIPT SMALL LETTER M
+<underscore>	<minus>							₋	U208B	SUBSCRIPT MINUS
+<underscore>	<n>							ₙ	U2099	LATIN SUBSCRIPT SMALL LETTER N
+<underscore>	<O>							Ō	U014C	LATIN CAPITAL LETTER O WITH MACRON
+<underscore>	<o>							ō	U014D	LATIN SMALL LETTER O WITH MACRON
+<underscore>	<o>							ₒ	U2092	LATIN SUBSCRIPT SMALL LETTER O
+<underscore>	<Odiaeresis>							Ȫ	U022A	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON
+<underscore>	<odiaeresis>							ȫ	U022B	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON
+<underscore>	<Otilde>							Ȭ	U022C	LATIN CAPITAL LETTER O WITH TILDE AND MACRON
+<underscore>	<otilde>							ȭ	U022D	LATIN SMALL LETTER O WITH TILDE AND MACRON
+<underscore>	<p>							ₚ	U209A	LATIN SUBSCRIPT SMALL LETTER P
+<underscore>	<parenleft>							₍	U208D	SUBSCRIPT LEFT PARENTHESIS
+<underscore>	<parenleft>							₍	U208D	SUBSCRIPT LEFT PARENTHESIS
+<underscore>	<parenright>							₎	U208E	SUBSCRIPT RIGHT PARENTHESIS
+<underscore>	<parenright>							₎	U208E	SUBSCRIPT RIGHT PARENTHESIS
+<underscore>	<period>	<A>						Ǡ	U01E0	LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON
+<underscore>	<period>	<a>						ǡ	U01E1	LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON
+<underscore>	<period>	<O>						Ȱ	U0230	LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON
+<underscore>	<period>	<o>						ȱ	U0231	LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON
+<underscore>	<plus>							₊	U208A	SUBSCRIPT PLUS SIGN
+<underscore>	<plus>							₊	U208A	SUBSCRIPT PLUS
+<underscore>	<quotedbl>	<A>						Ǟ	U01DE	LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON
+<underscore>	<quotedbl>	<a>						ǟ	U01DF	LATIN SMALL LETTER A WITH DIAERESIS AND MACRON
+<underscore>	<quotedbl>	<O>						Ȫ	U022A	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON
+<underscore>	<quotedbl>	<o>						ȫ	U022B	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON
+<underscore>	<quotedbl>	<u>						ǖ	U01D6	LATIN SMALL LETTER U WITH DIAERESIS AND MACRON
+<underscore>	<r>							ᵣ	U1D63	LATIN SUBSCRIPT SMALL LETTER R
+<underscore>	<s>							ₛ	U209B	LATIN SUBSCRIPT SMALL LETTER S
+<underscore>	<semicolon>	<O>						Ǭ	U01EC	LATIN CAPITAL LETTER O WITH OGONEK AND MACRON
+<underscore>	<semicolon>	<o>						ǭ	U01ED	LATIN SMALL LETTER O WITH OGONEK AND MACRON
+<underscore>	<t>							ₜ	U209C	LATIN SUBSCRIPT SMALL LETTER T
+<underscore>	<u>							ū	U016B	LATIN SMALL LETTER U WITH MACRON
+<underscore>	<u>							ᵤ	U1D64	LATIN SUBSCRIPT SMALL LETTER U
+<underscore>	<udiaeresis>							ǖ	U01D6	LATIN SMALL LETTER U WITH DIAERESIS AND MACRON
+<underscore>	<underscore>	<parenleft>						⟮	U27EE	MATHEMATICAL LEFT FLATTENED PARENTHESIS
+<underscore>	<underscore>	<parenright>						⟯	U27EF	MATHEMATICAL RIGHT FLATTENED PARENTHESIS
+<underscore>	<underscore>							¯	macron	MACRON
+<underscore>	<v>							ᵥ	U1D65	LATIN SUBSCRIPT SMALL LETTER V
+<underscore>	<x>							ₓ	U2093	LATIN SUBSCRIPT SMALL LETTER X
+<underscore>	<Y>							Ȳ	U0232	LATIN CAPITAL LETTER Y WITH MACRON
+<underscore>	<y>							ȳ	U0233	LATIN SMALL LETTER Y WITH MACRON
+<Up>	<ampersand>	<Down>						⇵	U21F5	DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW
+<Up>	<Down>							↕	U2195	UP DOWN ARROW (kragen's)
+<Up>	<minus>							⇡	U21E1	UPWARDS DASHED ARROW
+<Up>	<Up>							↑	uparrow	UPWARDS ARROW
+<V>	<ampersand>	<V>						Ỽ	U1EFC	LATIN CAPITAL LETTER MIDDLE-WELSH V
+<v>	<ampersand>	<v>						ỽ	U1EFD	LATIN SMALL LETTER MIDDLE-WELSH V
+<V>	<ampersand>	<Y>						Ꝡ	UA760	LATIN CAPITAL LETTER VY
+<v>	<ampersand>	<y>						ꝡ	UA761	LATIN SMALL LETTER VY
+<v>	<grave>							ᴠ	U1D20	LATIN LETTER SMALL CAPITAL V
+<v>	<period>	<period>						⋮	U22EE	VERTICAL ELLIPSIS
+<v>	<slash>							√	U221a	v / SQUARE ROOT
+<v>	<v>							ʌ	U028C	LATIN SMALL LETTER TURNED V
+<v>	<Z>							Ž	U017D	LATIN CAPITAL LETTER Z WITH CARON
+<v>	<z>							ž	U017E	LATIN SMALL LETTER Z WITH CARON
+<W>	<asciicircum>							Ŵ	U0174	LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+<w>	<asciicircum>							ŵ	U0175	LATIN SMALL LETTER W WITH CIRCUMFLEX
+<W>	<equal>							₩	U20a9	WON SIGN
+<w>	<grave>							ᴡ	U1D21	LATIN LETTER SMALL CAPITAL W
+<W>	<J>							⁠	U2060	WORD JOINER
+<w>	<p>							℘	U2118	SCRIPT CAPITAL P
+<w>	<w>							ʍ	U028D	LATIN SMALL LETTER TURNED W
+<W>	<W>							ʬ	U02AC	LATIN LETTER BILABIAL PERCUSSIVE
+<w>	<y>							ƿ	U01BF	LATIN LETTER WYNN
+<W>	<Y>							Ƿ	U01F7	LATIN CAPITAL LETTER WYNN
+<x>	<o>							¤	currency	CURRENCY SIGN
+<X>	<o>							¤	currency	CURRENCY SIGN
+<X>	<O>							¤	currency	CURRENCY SIGN
+<x>	<O>							¤	currency	CURRENCY SIGN
+<x>	<x>							×	multiply	MULTIPLICATION SIGN
+<Y>	<acute>							Ý	Yacute	LATIN CAPITAL LETTER Y WITH ACUTE
+<y>	<acute>							ý	yacute	LATIN SMALL LETTER Y WITH ACUTE
+<Y>	<apostrophe>							Ý	Yacute	LATIN CAPITAL LETTER Y WITH ACUTE
+<y>	<apostrophe>							ý	yacute	LATIN SMALL LETTER Y WITH ACUTE
+<Y>	<asciicircum>							Ŷ	U0176	LATIN CAPITAL LETTER Y WITH CIRCUMFLEX
+<y>	<asciicircum>							ŷ	U0177	LATIN SMALL LETTER Y WITH CIRCUMFLEX
+<y>	<diaeresis>							ÿ	ydiaeresis	LATIN SMALL LETTER Y WITH DIAERESIS
+<Y>	<diaeresis>							Ÿ	U0178	LATIN CAPITAL LETTER Y WITH DIAERESIS
+<Y>	<equal>							¥	yen	YEN SIGN
+<y>	<equal>							¥	yen	YEN SIGN
+<Y>	<G>							Ȝ	U021C	LATIN CAPITAL LETTER YOGH
+<y>	<g>							ȝ	U021D	LATIN SMALL LETTER YOGH
+<y>	<grave>							ʏ	U028F	LATIN LETTER SMALL CAPITAL Y
+<Y>	<minus>							¥	yen	YEN SIGN
+<y>	<minus>							¥	yen	YEN SIGN
+<y>	<quotedbl>							ÿ	ydiaeresis	LATIN SMALL LETTER Y WITH DIAERESIS
+<Y>	<quotedbl>							Ÿ	U0178	LATIN CAPITAL LETTER Y WITH DIAERESIS
+<y>	<r>							Ʀ	U01A6	LATIN LETTER YR
+<y>	<y>							ʎ	U028E	LATIN SMALL LETTER TURNED Y
+<Z>	<apostrophe>							Ź	U0179	LATIN CAPITAL LETTER Z WITH ACUTE
+<z>	<apostrophe>							ź	U017A	LATIN SMALL LETTER Z WITH ACUTE
+<z>	<comma>							ʐ	U0290	LATIN SMALL LETTER Z WITH RETROFLEX HOOK
+<z>	<grave>							ᴢ	U1D22	LATIN LETTER SMALL CAPITAL Z
+<z>	<h>							ʒ	U0292	LATIN SMALL LETTER EZH
+<Z>	<less>							Ž	U017D	LATIN CAPITAL LETTER Z WITH CARON
+<z>	<less>							ž	U017E	LATIN SMALL LETTER Z WITH CARON
+<Z>	<parenleft>							༼	U0F3C	TIBETAN MARK ANG KHANG GYON
+<Z>	<parenright>							༽	U0F3D	TIBETAN MARK ANG KHANG GYAS
+<Z>	<period>							Ż	U017B	LATIN CAPITAL LETTER Z WITH DOT ABOVE
+<z>	<period>							ż	U017C	LATIN SMALL LETTER Z WITH DOT ABOVE
+<z>	<period>							ꝫ	UA76B	LATIN SMALL LETTER ET
+<Z>	<W>	<J>						‍	U200D	ZERO WIDTH JOINER
+<Z>	<W>	<N>	<J>					‌	U200C	ZERO WIDTH NON-JOINER
+<Z>	<W>	<S>	<P>					​	U200B	ZERO WIDTH SPACE
+<z>	<z>	<greater>						↯	U21AF	DOWNWARDS ZIGZAG ARROW
+Z>	<period>							Ꝫ	UA76A	LATIN CAPITAL LETTER ET

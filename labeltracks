@@ -58,7 +58,7 @@ sub MAIN($artist is copy = '', $album is copy = '', $year is copy = 0) {
       @args.push:         $file;
       note 'id3v2 ' ~ @args.join(' ');
       run 'id3v2', @args;
-      if $basename ~~ /:i ^ 'track' \s* \d+ $/ {
+      if $basename ~~ /:i ^ [ 'track' \s* \d+ ] | [ 'untitled' ] / {
 	 run 'mv', $file, sprintf "%02.2d-%s.mp3", $track, $title;
       }
    }
