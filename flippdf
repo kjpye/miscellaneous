@@ -1,0 +1,11 @@
+#!/usr/bin/env raku
+
+sub MAIN($input-file, $output-file, $pages, :$odd=0) {
+    my $is-odd = $odd % 2;
+    print "pdftk $input-file cat ";
+    for 1..$pages {
+        print $_ ~ ($is-odd ?? 'south' !! '') ~ ' ';
+        $is-odd ^= 1;
+    }
+    print "output $output-file\n";
+}
